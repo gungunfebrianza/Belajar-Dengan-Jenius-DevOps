@@ -2,7 +2,7 @@
 
 ## So What is DevOps?
 
-DevOps adalah peran baru yang kini eksistensinya vital dalam industry IT, kenapa? karena figur **DevOps** dapat membantu mempercepat **delivery business value** untuk user. Sehingga perusahaan atau startup bisa berkompetisi dipasar. **Break things faster**.
+DevOps adalah peran baru yang kini eksistensinya vital dalam industry IT, kenapa? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. Sehingga perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. 
 
 Terminologi ini sempat populer sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. 
 
