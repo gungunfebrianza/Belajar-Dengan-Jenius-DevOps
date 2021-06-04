@@ -6,5 +6,5 @@ DevOps adalah peran baru yang kini eksistensinya vital dalam industry IT, kenapa
 
 Terminologi ini sempat populer sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. 
 
-DevOps membantu memecahkan permasalahan antara development dan operation, developments cenderung ingin berinovasi dan memberikan delivery produk yang dirilis dengan cepat dan operations yang cenderung ingin 
+DevOps membantu memecahkan permasalahan antara development dan operation, developments cenderung ingin berinovasi dan memberikan delivery produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin production system yang stabil dengan kualitas sistem yang terjaga.
 
