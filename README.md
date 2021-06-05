@@ -37,7 +37,7 @@ Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **
 
 **DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
-Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. Perusahaan yang tidak mampu bersaing memiliki resiko kegagalan yang lebih besar.
+Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. Eksistensi DevOps membuat perusahaan yang tidak mampu bersaing secara kompetitif memiliki resiko kegagalan yang lebih besar.
 
 <img src="/asset/DevOps-Faster-Delivery.png" style="zoom:100%;" />
 
