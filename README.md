@@ -52,10 +52,21 @@ Ada banyak **Agile Methodologies** untuk pengembangan **software development**, 
 
 ## Release Management
 
-Jika menggunakan metode agile seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model release management quarter release :
+Jika menggunakan metode **agile** seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model release management quarter release :
 
-1. Quarter Release : Rilis 4x selama setahun, termasuk hotfix, emergency release jika terdapat masalah di production.
-2. Bi-weekly Release : Rilis
+1. **Quarter Release** : Rilis 4x selama setahun, belum termasuk hotfix, emergency release jika terdapat masalah di production.
+2. **Bi-weekly Release** : Rilis selama 1x setiap 2 minggu, belum termasuk hotfix, emergency release jika terdapat masalah di production. Maka selama setahun terdapat 24 rilis.
 
+Jika kita asumsikan, persiapan untuk rilis memerlukan waktu 10 jam maka :
 
+ <img src="/asset/DevOps-Release-Management.png" style="zoom:100%;" />
 
+Jika kita perhatikan **bi-weekly releases** mengkonsumsi banyak waktu dan energi, apalagi jika terdapat hotfix problem yang harus diselesaikan. Solusi dari problema ini adalah **Automation**.
+
+Sekitar tahun 2015-an tools untuk melakukan automation belum cukup matang, bash scripting masih dianggap kurang ideal untuk melakukan perubahan state pada production server. Namun kini perubahan besar telah datang semenjak Docker dan platform untuk orchestration muncul seperti kubernetes atau docker swarm.
+
+Jika kita menggunakan kubernetes untuk proses deployment time kita bisa mereduksi pekerjaan berjam-jam atau di atas 10 jam hanya dengan beberapa klik saja. Dengan begitu konsumsi 240 jam selama setahun dapat direduksi kedalam hitungan menit. 
+
+Kita sudah memasuki masa dimana rilis patch dalam hitungan menit, atau ternyata kita malah merilis sebuah bug yang impaknya cukup serius kita dapat melakukan rollback dalam hitungan menit pula.
+
+Dunia sudah berubah guys, devops tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
