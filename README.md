@@ -2,6 +2,12 @@
 
 ## So What is DevOps?
 
+Okay karena mas gun seneng banget dengan dunia FinTech dan teknologi perbankan, sebagai generasi yang lahir tahun 90an mas gun melihat perusahaan di bidang FinTech melakukan disrupsi besar-besaran di dunia perbankan. 
+
+Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang cost-effective. Wajar saja karena perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**.
+
+
+
 DevOps adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
 Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. 
@@ -11,6 +17,8 @@ Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik 
 Figur **DevOps** mulai lahir karena problema **corporate inefficiency** mulai menjadi masalah serius, karena semakin besar perusahaan maka semakin lama perusahaan tersebut menyelesaikan sebuah **task**. 
 
 Industri skala besar seperti pebankan atau e-commerce mereka memiliki dana yang mumpuni, namun jika anda sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**.
+
+<img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
 
 Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang software engineer yang frustasi dalam memanajemen permasalahan yang dihadapi **developer** dan **operations**.
 
@@ -70,3 +78,7 @@ Jika kita menggunakan kubernetes untuk proses deployment time kita bisa mereduks
 Kita sudah memasuki masa dimana rilis patch dalam hitungan menit, atau ternyata kita malah merilis sebuah bug yang impaknya cukup serius kita dapat melakukan rollback dalam hitungan menit pula.
 
 Dunia sudah berubah guys, devops tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
+
+
+
+Seorang 
