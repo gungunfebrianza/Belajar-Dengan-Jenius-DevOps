@@ -47,6 +47,10 @@ Industri skala besar seperti perbankan atau **e-commerce** mereka mungkin memili
 
 <img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
 
+Jadi peran akhir seorang **DevOps** untuk **enterprise**, dapat dilihat dari seberapa besar **cost** yang bisa ditekan dan kualitas **IT System** yang sangat mumpuni (**High Impact**). 
+
+<img src="/asset/DevOps-Advantage-2.png" style="zoom:100%;" />
+
 ## DevOps As Emerging Role
 
 Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. 
