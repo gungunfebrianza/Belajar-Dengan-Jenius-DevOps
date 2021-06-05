@@ -31,7 +31,7 @@ Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech*
 
 <img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
 
-Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **DevOps** itu sendiri ke dalam ekosistemnya agar bisa bertahan. 
+Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **DevOps** itu sendiri ke dalam ekosistemnya agar bisa bertahan. Peran **DevOps** memberikan perubahan besar pada **landscape** Industri IT.
 
 ## So What is DevOps?
 
@@ -91,11 +91,11 @@ Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** 
 
 Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, dengan tujuan improvisasi **software development cyle** yang lebih baik dari sebelumnya (**Traditional Software Development**). Di bawah ini adalah The Agile Manifesto yang ditulis pada tahun 2001 :
 
-`"Individuals and interactions over processes and tools`
-`Working software over comprehensive documentation`
-`Customer collaboration over contract negotiation`
-`Responding to change over following a plan`
-`That is, while there is value in the items on the right, we value the items on the left more."`
+*"Individuals and interactions over processes and tools*
+*Working software over comprehensive documentation*
+*Customer collaboration over contract negotiation*
+*Responding to change over following a plan*
+*That is, while there is value in the items on the right, we value the items on the left more."*
 
 **Agile Software Development** memecahkan permasalahan komunikasi dan pekerjaan repetitif, **error-prone** yang sangat kronis dalam **Traditional Software Development**. 
 
