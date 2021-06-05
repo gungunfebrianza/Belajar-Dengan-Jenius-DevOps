@@ -93,7 +93,7 @@ Pada **Traditional Software Development** jika berhadapan dengan **deadline**, b
 
 <img src="/asset/Meme-Project.jpg" style="zoom:100%;" />
 
-**Agile Software Development** lebih **adaptable** dari **Traditional Software Development**. Saat berhadapan dengan **deadline**, **agile software development** akan mereduksi target pada final product dengan mengorbankan beberapa fungsionalitas, bukan mengorbankan kualitas.
+**Agile Software Development** lebih **adaptable** dari **Traditional Software Development**. Saat berhadapan dengan **deadline**, **agile software development** akan mereduksi target pada **final product** dengan mengorbankan beberapa fungsionalitas, bukan mengorbankan kualitas.
 
 ### Quick Understanding Market
 
@@ -109,13 +109,13 @@ Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Produ
 
 <img src="/asset/Product Market Fit.png" style="zoom:100%;" />
 
-Untuk mewujudkan hal tersebut kita akan membuat sebuah **Sprint** untuk memberikan sekumpulan fungsionalitas ke dalam **production** dengan periode waktu biasanya per 2 minggu. Manfaat dari aktivitas ini adalah :
+Untuk mewujudkan hal tersebut biasanya kita akan membuat sebuah **Sprint**. Sebuah **Sprint** terdiri dari sekumpulan fungsionalitas yang harus tersedia di dalam **production** dengan periode waktu biasanya per 2 minggu. Manfaat dari aktivitas ini adalah :
 
-1. **Customer** lebih sering mendapatkan value dari product yang kita buat
-2. **Feedback** sampai pada tim development per 2 minggu
+1. **Customer** lebih sering mendapatkan **value** dari **product** yang kita buat
+2. **Feedback** sampai pada tim **development** per 2 minggu
 3. Tim memiliki kemampuan lebih untuk mengukur dan memprediksikan pekerjaan
 
-**Story** adalah sekumpulan fungsionalitas dengan seluruh informasi yang dapat difahami oleh t**im development** sebelum **sprint** dimulai. Kumpulan **story** di sebut dengan **product backlogs**, setiap **story** memiliki **story point** yang digunakan sebagai **measure unit** tingkat kompleksitasnya. 
+**Story** adalah sekumpulan fungsionalitas dengan seluruh detil informasi yang dapat difahami oleh t**im development** sebelum **sprint** dimulai. Kumpulan **story** di sebut dengan **product backlogs**, setiap **story** memiliki **story point** yang digunakan sebagai **measure unit** tingkat kompleksitasnya. 
 
 **Story Point** membantu tim **development** untuk bisa melakukan kalkulasi seberapa banyak **story point** yang dapat mereka berikan sampai **sprint** berakhir. 
 
