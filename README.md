@@ -25,7 +25,7 @@ Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Comput
 
 Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
 
-Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan FinTech startup skala kecil.
+Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan **FinTech** startup skala kecil.
 
 <img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
 
@@ -53,9 +53,17 @@ Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Softwa
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
 
+Saya dah bosen bahas **Waterfall**, begitupun nempelin diagram-nya hehe karena udah usang banget (Silahkan Googling Sendiri). 
+
+Sebab pengembangan dalam Traditional Software Development biasanya menggunakan metode **Waterfall**, kelemahan terbesarnya adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil.
+
 Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Development** adalah :
 
 <img src="/asset\DevOps-Traditional-Software-Development-Problem.png" style="zoom:100%;" /> 
+
+Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***"
+
+Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
 
 
 
