@@ -4,6 +4,15 @@
 
 <img src="/asset/DevOps-Outline.png" style="zoom:100%;" />
 
+## Content Tables
+
+1. DevOps World
+   - Introduction to DevOps
+   - So What is DevOps?
+   - DevOps As Emerging Role
+   - Quick Understanding Market
+   - Release Management
+
 ## Introduction to DevOps
 
 Okay karena mas gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
@@ -34,11 +43,21 @@ Industri skala besar seperti perbankan atau **e-commerce** mereka memiliki dana 
 
 <img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
 
-Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang software engineer yang frustasi dalam memanajemen permasalahan yang dihadapi **developer** dan **operations**.
+## DevOps As Emerging Role
 
-Tahun 2009 istilah DevOps mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
+Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Software Engineer** yang frustasi dalam memanajemen permasalahan yang dihadapi tim **developer** dan tim dibagian **operations**.
+
+Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
+
+Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
+
+Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Development** adalah :
+
+<img src="/asset\DevOps-Traditional-Software-Development-Problem.png" style="zoom:100%;" /> 
+
+
 
 <img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
