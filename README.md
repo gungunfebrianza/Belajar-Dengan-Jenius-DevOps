@@ -36,11 +36,14 @@ Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Produ
 
 <img src="/asset/Product Market Fit.png" style="zoom:100%;" />
 
-Untuk mewujudkan hal tersebut kita akan membuat sebuah **Sprint** untuk memberikan sekumpulan fungsionalitas ke dalam production dengan periode waktu biasanya per 2 minggu. Manfaat dari aktivitas ini adalah :
+Untuk mewujudkan hal tersebut kita akan membuat sebuah **Sprint** untuk memberikan sekumpulan fungsionalitas ke dalam **production** dengan periode waktu biasanya per 2 minggu. Manfaat dari aktivitas ini adalah :
 
-1. Customer lebih sering mendapatkan value dari product yang kita buat
-2. Feedback sampai pada tim development per 2 minggu
+1. **Customer** lebih sering mendapatkan value dari product yang kita buat
+2. **Feedback** sampai pada tim development per 2 minggu
 3. Tim memiliki kemampuan lebih untuk mengukur dan memprediksikan pekerjaan
 
-Story adalah sekumpulan fungsionalitas dengan seluruh informasi yang dapat difahami oleh tim development sebelum sprint dimulai. Kumpulan story di sebut dengan product backlog, setiap story memiliki story point yang digunakan sebagai **measure unit** tingkat kompleksitasnya. 
+**Story** adalah sekumpulan fungsionalitas dengan seluruh informasi yang dapat difahami oleh t**im development** sebelum **sprint** dimulai. Kumpulan **story** di sebut dengan **product backlogs**, setiap **story** memiliki **story point** yang digunakan sebagai **measure unit** tingkat kompleksitasnya. 
 
+**Story Point** membantu tim **development** untuk bisa melakukan kalkulasi seberapa banyak **story point** yang dapat mereka berikan sampai **sprint** berakhir. 
+
+Inti dari semua kegiatan ini adalah satu bagaimana caranya setiap orang dalam tim harapannya terpenuhi dengan komunikasi yang terbuka, prediksi waktu apa yang sedang kita delivery, dan apa saja yang kita butuhkan untuk melakukannya.
