@@ -1,5 +1,9 @@
 # Belajar Dengan Jenius DevOps
 
+## Outline
+
+
+
 ## Introduction to DevOps
 
 Okay karena mas gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
@@ -36,7 +40,7 @@ Tahun 2009 istilah DevOps mulai populer setelah **Patrick Debois** membuat sebua
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
 
-
+<img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
 **DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan  produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
 
