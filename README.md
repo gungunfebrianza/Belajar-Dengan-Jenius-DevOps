@@ -36,3 +36,4 @@ Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Produ
 
 <img src="/asset/Product Market Fit.png" style="zoom:100%;" />
 
+Untuk mewujudkan hal tersebut kita akan membuat sebuah sprint untuk memberikan sekumpulan fungsionalitas ke dalam production dengan periode waktu biasanya per 2 minggu. 
