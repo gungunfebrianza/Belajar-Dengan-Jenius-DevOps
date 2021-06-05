@@ -2,7 +2,7 @@
 
 ## Outline
 
-
+<img src="/asset/DevOps-Outline.png" style="zoom:100%;" />
 
 ## Introduction to DevOps
 
