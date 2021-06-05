@@ -2,9 +2,11 @@
 
 ## So What is DevOps?
 
-Okay karena mas gun seneng banget dengan dunia FinTech dan teknologi perbankan, sebagai generasi yang lahir tahun 90an mas gun melihat perusahaan di bidang FinTech melakukan disrupsi besar-besaran di dunia perbankan. 
+Okay karena mas gun seneng banget dengan dunia FinTech dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang FinTech melakukan disrupsi besar-besaran di dunia perbankan. 
 
-Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang cost-effective. Wajar saja karena perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**.
+Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang cost-effective. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **corporate inefficiency**, semakin besar semakin lamban perkembangannya.
+
+Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**.
 
 
 
