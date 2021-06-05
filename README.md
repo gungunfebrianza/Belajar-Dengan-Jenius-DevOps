@@ -10,7 +10,9 @@
    - Introduction to DevOps
    - So What is DevOps?
    - DevOps As Emerging Role
-   - Quick Understanding Market
+     - Traditional Software Development
+   - Agile Software Development
+     - Quick Understanding Market
    - Release Management
 
 ## Introduction to DevOps
@@ -53,6 +55,8 @@ Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Sof
 
 Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan Patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
 
+### Traditional Software Development
+
 Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
@@ -77,15 +81,23 @@ Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** 
 
 **DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan  produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
 
-Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, improvisasi **software development cyle** yang lebih baik dari sebelumnya. 
+## Agile Software Development
 
-## Quick Understanding Market
+Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, dengan tujuan improvisasi **software development cyle** yang lebih baik dari sebelumnya (**Traditional Software Development**). 
+
+**Agile Software Development** memecahkan permasalahan komunikasi dan pekerjaan repetitif, **error-prone** yang sangat kronis dalam **Traditional Software Development**. **Stakeholder** diikut sertakan dalam manajemen **software** **development** dari awal sampai **testing**, sehingga terhindar dari pembuatan fitur yang ternyata tidak dibutuhkan atau memberikan manfaat signifikan.
+
+Pada **Traditional Software Development** jika berhadapan dengan **deadline**, biasanya akan berakhir seperti ini :
+
+<img src="/asset/Meme-Project.jpg" style="zoom:100%;" />
+
+### Quick Understanding Market
 
 Salah satu mantra yang menarik dalam **Agile Software Development** adalah :
 
 "*Deliver early and deliver often*"
 
-Jika perusahaan kita bisa melakukan delivery value dengan cepat untuk customer, kita bisa mendapatkan respon dari customer lebih awal. Ini sangat penting sehingga kita bisa memahami product kita dipasar lebih cepat dibandingkan kompetitor.
+Jika perusahaan kita bisa melakukan **delivery value** dengan cepat untuk **customer**, kita bisa mendapatkan respon dari **customer** lebih awal pula. Ini sangat penting saat mode validasi atau kompetisi sehingga kita bisa memahami **product** dipasar lebih cepat dibandingkan kompetitor.
 
 <img src="/asset/DevOps-Agile-Mantra.png" style="zoom:100%;" />
 
@@ -109,20 +121,20 @@ Ada banyak **Agile Methodologies** untuk pengembangan **software development**, 
 
 ## Release Management
 
-Jika menggunakan metode **agile** seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model release management quarter release :
+Jika menggunakan metode **agile** seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model **release management quarter release** :
 
-1. **Quarter Release** : Rilis 4x selama setahun, belum termasuk hotfix, emergency release jika terdapat masalah di production.
-2. **Bi-weekly Release** : Rilis selama 1x setiap 2 minggu, belum termasuk hotfix, emergency release jika terdapat masalah di production. Maka selama setahun terdapat 24 rilis.
+1. **Quarter Release** : Rilis 4x selama setahun, belum termasuk **hotfix, emergency release** jika terdapat masalah di production.
+2. **Bi-weekly Release** : Rilis selama 1x setiap 2 minggu, belum termasuk **hotfix, emergency release** jika terdapat masalah di **production**. Maka selama setahun terdapat 24 rilis.
 
 Jika kita asumsikan, persiapan untuk rilis memerlukan waktu 10 jam maka :
 
  <img src="/asset/DevOps-Release-Management.png" style="zoom:100%;" />
 
-Jika kita perhatikan **bi-weekly releases** mengkonsumsi banyak waktu dan energi, apalagi jika terdapat hotfix problem yang harus diselesaikan. Solusi dari problema ini adalah **Automation**.
+Jika kita perhatikan **bi-weekly releases** mengkonsumsi banyak waktu dan energi, apalagi jika terdapat **hotfix problem** yang harus diselesaikan. Solusi dari problema ini adalah **Automation**.
 
-Sekitar tahun 2015-an tools untuk melakukan automation belum cukup matang, bash scripting masih dianggap kurang ideal untuk melakukan perubahan state pada production server. Namun kini perubahan besar telah datang semenjak Docker dan platform untuk orchestration muncul seperti kubernetes atau docker swarm.
+Sekitar tahun 2015-an tools untuk melakukan **automation** belum cukup matang, **bash scripting** masih dianggap kurang ideal untuk melakukan perubahan **state** pada **production server**. Namun kini perubahan besar telah datang semenjak **Docker** dan **platform** untuk **orchestration** muncul seperti **kubernetes** atau **Docker Swarm**.
 
-Jika kita menggunakan kubernetes untuk proses deployment time kita bisa mereduksi pekerjaan berjam-jam atau di atas 10 jam hanya dengan beberapa klik saja. Dengan begitu konsumsi 240 jam selama setahun dapat direduksi kedalam hitungan menit. 
+Jika kita menggunakan **kubernetes** untuk proses **deployment time** kita bisa mereduksi pekerjaan berjam-jam atau di atas 10 jam hanya dengan beberapa klik saja. Dengan begitu konsumsi 240 jam selama setahun dapat direduksi kedalam hitungan menit. 
 
 Kita sudah memasuki masa dimana rilis patch dalam hitungan menit, atau ternyata kita malah merilis sebuah bug yang impaknya cukup serius kita dapat melakukan rollback dalam hitungan menit pula.
 
