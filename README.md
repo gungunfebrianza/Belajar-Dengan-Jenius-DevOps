@@ -2,15 +2,21 @@
 
 ## So What is DevOps?
 
-Okay karena mas gun seneng banget dengan dunia FinTech dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang FinTech melakukan disrupsi besar-besaran di dunia perbankan. 
+Okay karena mas gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
-Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang cost-effective. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **corporate inefficiency**, semakin besar semakin lamban perkembangannya.
+Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **corporate inefficiency**, semakin besar semakin lamban perkembangannya.
 
-Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**.
+<img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
+Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
 
+Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
 
-DevOps adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
+Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan FinTech startup skala kecil.
+
+<img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
+
+**DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
 Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. 
 
@@ -18,7 +24,7 @@ Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik 
 
 Figur **DevOps** mulai lahir karena problema **corporate inefficiency** mulai menjadi masalah serius, karena semakin besar perusahaan maka semakin lama perusahaan tersebut menyelesaikan sebuah **task**. 
 
-Industri skala besar seperti pebankan atau e-commerce mereka memiliki dana yang mumpuni, namun jika anda sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**.
+Industri skala besar seperti pebankan atau **e-commerce** mereka memiliki dana yang mumpuni, namun jika anda sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**.
 
 <img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
 
