@@ -51,7 +51,7 @@ Industri skala besar seperti perbankan atau **e-commerce** mereka memiliki dana 
 
 Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. 
 
-Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Software Engineer** yang frustasi dalam memanajemen permasalahan Traditional Software Development yang dihadapi tim **developer** dan tim dibagian **operations**.
+Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Software Engineer** yang frustasi dalam memanajemen permasalahan **Traditional Software Development** yang dihadapi tim **developer** dan tim dibagian **operations**.
 
 Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan Patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
 
@@ -61,7 +61,9 @@ Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Softwa
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
 
-Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan terbesarnya adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
+**Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **deployment** di **production**.
+
+Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan paling menonjol dalam metode **waterfall** adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
 ![SDLC Model Waterfall | Diaz Astizar](https://astizardiaz.files.wordpress.com/2016/12/waterfall.jpg?w=772)
 
@@ -73,6 +75,8 @@ Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Devel
 
 Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***". Mas Gun sepakat sekali di era otomasi saat ini kalau masih dikerjakan secara manual ya produk gagal.
 
+---------------------XXXXXXXXXXXXX
+
 Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
 
 
@@ -81,9 +85,17 @@ Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** 
 
 **DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan  produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
 
+---------------------XXXXXXXXXXXXX
+
 ## Agile Software Development
 
-Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, dengan tujuan improvisasi **software development cyle** yang lebih baik dari sebelumnya (**Traditional Software Development**). 
+Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, dengan tujuan improvisasi **software development cyle** yang lebih baik dari sebelumnya (**Traditional Software Development**). Di bawah ini adalah The Agile Manifesto yang ditulis pada tahun 2001 :
+
+`"Individuals and interactions over processes and tools`
+`Working software over comprehensive documentation`
+`Customer collaboration over contract negotiation`
+`Responding to change over following a plan`
+`That is, while there is value in the items on the right, we value the items on the left more."`
 
 **Agile Software Development** memecahkan permasalahan komunikasi dan pekerjaan repetitif, **error-prone** yang sangat kronis dalam **Traditional Software Development**. 
 
@@ -147,3 +159,4 @@ Dunia sudah berubah guys, devops tamvan macam kita eksistensinya seksi untuk per
 
 
 Seorang 
+
