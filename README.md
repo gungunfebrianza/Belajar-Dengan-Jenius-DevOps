@@ -22,6 +22,8 @@ Tahun 2009 istilah DevOps mulai populer setelah Patrick Debois membuat sebuah **
 
 Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, improvisasi **software development cyle** yang lebih baik dari sebelumnya. 
 
+## Quick Understanding Market
+
 Salah satu mantra yang menarik dalam **Agile Software Development** adalah :
 
 "Deliver early and deliver often"
@@ -30,5 +32,7 @@ Jika perusahaan kita bisa melakukan delivery value dengan cepat untuk customer, 
 
 <img src="/asset/DevOps-Agile-Mantra.png" style="zoom:100%;" />
 
-Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Product Playbook**, mayoritas kegagalan produk suatu perusahaan adalah tidak tercapainya **Product Market-Fit**.
+Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Product Playbook**, mayoritas kegagalan produk suatu perusahaan adalah tidak tercapainya **Product Market-Fit**. 
+
+<img src="/asset/Product Market Fit.png" style="zoom:100%;" />
 
