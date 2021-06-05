@@ -85,11 +85,15 @@ Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** 
 
 Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, dengan tujuan improvisasi **software development cyle** yang lebih baik dari sebelumnya (**Traditional Software Development**). 
 
-**Agile Software Development** memecahkan permasalahan komunikasi dan pekerjaan repetitif, **error-prone** yang sangat kronis dalam **Traditional Software Development**. **Stakeholder** diikut sertakan dalam manajemen **software** **development** dari awal sampai **testing**, sehingga terhindar dari pembuatan fitur yang ternyata tidak dibutuhkan atau memberikan manfaat signifikan.
+**Agile Software Development** memecahkan permasalahan komunikasi dan pekerjaan repetitif, **error-prone** yang sangat kronis dalam **Traditional Software Development**. 
+
+**Stakeholder** diikut sertakan dalam manajemen **software** **development** dari awal sampai **testing**, sehingga terhindar dari pembuatan fitur yang ternyata tidak dibutuhkan atau memberikan manfaat signifikan.
 
 Pada **Traditional Software Development** jika berhadapan dengan **deadline**, biasanya akan berakhir seperti ini :
 
 <img src="/asset/Meme-Project.jpg" style="zoom:100%;" />
+
+**Agile Software Development** lebih **adaptable** dari **Traditional Software Development**. Saat berhadapan dengan **deadline**, **agile software development** akan mereduksi target pada final product dengan mengorbankan beberapa fungsionalitas, bukan mengorbankan kualitas.
 
 ### Quick Understanding Market
 
