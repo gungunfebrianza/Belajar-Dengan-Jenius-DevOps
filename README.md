@@ -15,7 +15,7 @@
 
 ## Introduction to DevOps
 
-Okay karena mas gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
+Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
 Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **corporate inefficiency**, semakin besar semakin lamban perkembangannya.
 
@@ -28,6 +28,8 @@ Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari
 Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan **FinTech** startup skala kecil.
 
 <img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
+
+Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **DevOps** itu sendiri ke dalam ekosistemnya agar bisa bertahan. 
 
 ## So What is DevOps?
 
@@ -45,9 +47,11 @@ Industri skala besar seperti perbankan atau **e-commerce** mereka memiliki dana 
 
 ## DevOps As Emerging Role
 
-Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Software Engineer** yang frustasi dalam memanajemen permasalahan yang dihadapi tim **developer** dan tim dibagian **operations**.
+Terminologi ini sempat muncul sekitar tahun 2007 yang merepresentasikan dua istilah yaitu **Development (Dev)** dan **Operations (Ops)**. 
 
-Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
+Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Software Engineer** yang frustasi dalam memanajemen permasalahan Traditional Software Development yang dihadapi tim **developer** dan tim dibagian **operations**.
+
+Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan Patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
 
 Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
 
@@ -57,15 +61,13 @@ Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan met
 
 ![SDLC Model Waterfall | Diaz Astizar](https://astizardiaz.files.wordpress.com/2016/12/waterfall.jpg?w=772)
 
-Terlebih cost untuk fixing bug berpotensi deadly untuk perusahaan.
-
-
+Terlebih **cost** untuk **fixing bug** berpotensi **deadly** untuk perusahaan, banyaknya **steps** yang harus dilakukan bisa membuat perusahaan kehilangan **revenue**. Malah totoz, bukanya untung malah buntung.
 
 Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Development** adalah :
 
 <img src="/asset\DevOps-Traditional-Software-Development-Problem.png" style="zoom:100%;" /> 
 
-Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***"
+Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***". Mas Gun sepakat sekali di era otomasi saat ini kalau masih dikerjakan secara manual ya produk gagal.
 
 Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
 
@@ -81,7 +83,7 @@ Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile 
 
 Salah satu mantra yang menarik dalam **Agile Software Development** adalah :
 
-"Deliver early and deliver often"
+"*Deliver early and deliver often*"
 
 Jika perusahaan kita bisa melakukan delivery value dengan cepat untuk customer, kita bisa mendapatkan respon dari customer lebih awal. Ini sangat penting sehingga kita bisa memahami product kita dipasar lebih cepat dibandingkan kompetitor.
 
