@@ -20,11 +20,15 @@ Tahun 2009 istilah DevOps mulai populer setelah Patrick Debois membuat sebuah **
 
 **DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan delivery produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
 
-Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, improvisasi **software development cyle** yang lebih baik dari sebelumnya. Salah satu mantra yang menarik dalam Agile Software Development adalah :
+Gagasan tentang **DevOps** memiliki akar yang kuat dengan prinsip dalam **Agile Software Development**, improvisasi **software development cyle** yang lebih baik dari sebelumnya. 
+
+Salah satu mantra yang menarik dalam **Agile Software Development** adalah :
 
 "Deliver early and deliver often"
 
+Jika perusahaan kita bisa melakukan delivery value dengan cepat untuk customer, kita bisa mendapatkan respon dari customer lebih awal. Ini sangat penting sehingga kita bisa memahami product kita dipasar lebih cepat dibandingkan kompetitor.
 
+<img src="/asset/DevOps-Agile-Mantra.png" style="zoom:100%;" />
 
-
+Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Product Playbook**, mayoritas kegagalan produk suatu perusahaan adalah tidak tercapainya **Product Market-Fit**.
 
