@@ -53,9 +53,13 @@ Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Softwa
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
 
-Saya dah bosen bahas **Waterfall**, begitupun nempelin diagram-nya hehe karena udah usang banget (Silahkan Googling Sendiri). 
+Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan terbesarnya adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
-Sebab pengembangan dalam Traditional Software Development biasanya menggunakan metode **Waterfall**, kelemahan terbesarnya adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil.
+![SDLC Model Waterfall | Diaz Astizar](https://astizardiaz.files.wordpress.com/2016/12/waterfall.jpg?w=772)
+
+Terlebih cost untuk fixing bug berpotensi deadly untuk perusahaan.
+
+
 
 Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Development** adalah :
 
