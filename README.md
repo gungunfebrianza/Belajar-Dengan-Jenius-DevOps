@@ -46,4 +46,16 @@ Untuk mewujudkan hal tersebut kita akan membuat sebuah **Sprint** untuk memberik
 
 **Story Point** membantu tim **development** untuk bisa melakukan kalkulasi seberapa banyak **story point** yang dapat mereka berikan sampai **sprint** berakhir. 
 
-Inti dari semua kegiatan ini adalah satu bagaimana caranya setiap orang dalam tim harapannya terpenuhi dengan komunikasi yang terbuka, prediksi waktu apa yang sedang kita delivery, dan apa saja yang kita butuhkan untuk melakukannya.
+Inti dari semua kegiatan ini adalah satu bagaimana caranya setiap orang dalam tim harapannya terpenuhi dengan komunikasi yang terbuka, prediksi waktu apa yang sedang kita **delivery**, dan apa saja yang kita butuhkan untuk melakukannya.
+
+Ada banyak **Agile Methodologies** untuk pengembangan **software development**, salah satunya adalah **scrum**. Jika kita bandingkan dengan metodologi lainnya semuanya sama saja fokus pada konsep yang sama, yaitu : peningkatan kualitas komunikasi antar aktor dalam tim yang sama.
+
+## Release Management
+
+Jika menggunakan metode agile seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model release management quarter release :
+
+1. Quarter Release : Rilis 4x selama setahun, termasuk hotfix, emergency release jika terdapat masalah di production.
+2. Bi-weekly Release : Rilis
+
+
+
