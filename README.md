@@ -1,6 +1,6 @@
 # Belajar Dengan Jenius DevOps
 
-## So What is DevOps?
+## Introduction to DevOps
 
 Okay karena mas gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
@@ -16,9 +16,11 @@ Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech*
 
 <img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
 
+## So What is DevOps?
+
 **DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
-Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. 
+Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. Perusahaan yang tidak mampu bersaing memiliki resiko kegagalan yang lebih besar.
 
 <img src="/asset/DevOps-Faster-Delivery.png" style="zoom:100%;" />
 
