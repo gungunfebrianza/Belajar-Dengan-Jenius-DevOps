@@ -11,6 +11,10 @@
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
+   - DevOps Way
+     - Culture
+     - Tools
+     - Processes
    - Agile Software Development
      - Quick Understanding Market
    - Release Management
@@ -119,9 +123,13 @@ Seorang **DevOps Engineer** juga memperkenalkan bahwa **DevOps** bukan hanya sek
 
 <img src="/asset/DevOps-Way.png" style="zoom:100%;" />
 
-DevOps adalah gabungan dari sebuah culture, tools dan processes dengan tujuan agar dapat memberikan business value lebih cepat. 
+DevOps adalah gabungan dari sebuah culture, tools dan processes dengan tujuan agar dapat memberikan **business value** lebih cepat. 
 
-**Culture** yang membangun kolaborasi antar entitas, melepaskan silo working yang terjadi pada **Traditional Software** **Development**. Sebuah **culture** yang membangun tim dengan kemampuan multidisiplin, bukan hanya individu dengan kemampuan multidisiplin ilmu. 
+### Culture
+
+**Culture** yang membangun kolaborasi antar entitas, melepaskan **silo working** yang terjadi pada **Traditional Software** **Development**. Sebuah **culture** yang membangun tim dengan kemampuan multidisiplin, bukan hanya individu dengan kemampuan multidisiplin ilmu. 
+
+### Tools
 
 Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
 
