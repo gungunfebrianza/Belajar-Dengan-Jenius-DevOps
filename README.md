@@ -65,7 +65,9 @@ Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Softwa
 
 <img src="/asset/DevOps-Traditional-Software-Management.png" style="zoom:100%;" />
 
-**Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **deployment** di **production**.
+Pada proses **Software Development Life Cycle (SDLC)** di atas umumnya :
+
+**Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **Testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **Deployment** di **Production**.
 
 Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan paling menonjol dalam metode **waterfall** adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
