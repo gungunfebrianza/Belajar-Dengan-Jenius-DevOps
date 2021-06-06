@@ -75,7 +75,7 @@ Problem yang paling sering dan populer disini - **It's Not Works On My Machine S
 
 <img src="/asset/DevOps-Silo.png" style="zoom:100%;" />
 
-Jika problem komunikasi ini terus berlanjut, maka impaknya adalah produk yang dihasilkan memiliki resiko kegagalan yang lebih tinggi. Biaya yang sangat tinggi, waktu pengerjaan molor dan **performance** yang tidak sesuai ekspektasi **stakeholder**.
+Jika **problem** komunikasi ini terus berlanjut, maka impaknya adalah produk yang dihasilkan memiliki resiko kegagalan yang lebih tinggi. Biaya yang sangat tinggi, waktu pengerjaan molor dan **performance** yang tidak sesuai ekspektasi **stakeholder**.
 
 Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan paling menonjol dalam metode **waterfall** adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
@@ -89,7 +89,11 @@ Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Devel
 
 Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***". Mas Gun sepakat sekali di era otomasi saat ini kalau masih dikerjakan secara manual ya produk gagal.
 
-Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan open source, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali tools untuk DevOps. Kini DevOps mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
+Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
+
+Di bawah ini adalah beberapa **DevsOps Open Source Tools** yang terus dikembangkan komunitas :
+
+<img src="/asset/DevOps-Open-Source-Tools.png" style="zoom:100%;" />
 
 ---------------------XXXXXXXXXXXXX
 
