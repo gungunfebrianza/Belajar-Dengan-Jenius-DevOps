@@ -69,6 +69,8 @@ Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi 
 
 <img src="/asset/DevOps-Problem2.png" style="zoom:100%;" />
 
+**Developer** biasanya memberikan beberapa instruksi dan konfigurasi untuk **Operator**, jika terdapat instruksi dan konfigurasi yang tidak tercatat atau terlewat oleh **Operator** karena dilakukan secara manual maka seringkali menimbulkan masalah.
+
 ### Traditional Software Development
 
 Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
@@ -101,9 +103,11 @@ Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That 
 
 ## DevOps Way
 
-Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
+<img src="/asset/DevOps-Problem3.png" style="zoom:100%;" />
 
+Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip **Agile** yang radikal.
 
+Dalam beberapa kasus seorang DevOps dapat ikut serta dalam proses development, namun fokus utamanya tetap menjamin operasi bisnis perusahaan.
 
 <img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
