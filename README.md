@@ -152,8 +152,8 @@ Ketika **Culture** sudah di bangun, komitmen pada **Tools** yang akan digunakan 
 
 <img src="/asset/DevOps-Way2.png" style="zoom:100%;" />
 
-Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies** seperti :
-**Source Code Management** seperti **git**, **Continues Integration** seperti **jenkins**, **Cloud Computing** seperti **EC2** pada **Amazon Web Services (AWS)**.
+Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies** minimum seperti :
+**Source Code Management** seperti **git**, **Continues Integration** seperti **jenkins**, **Cloud Computing** seperti **EC2** pada **Amazon Web Services (AWS)**, **Containerization** seperti **Docker** dan **Artifact Repository Management** seperti **Nexus**.
 
 #### Continues Integration (CI)
 
@@ -161,9 +161,13 @@ Pada **Continues Integration** **(CI)** kita dapat melakukan otomasi **testing**
 
 #### Continues Delivery (CD)
 
-Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continues Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **stagging**. Kegiatan ini disebut dengan **Continues Delivary (CD)**.
+Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continues Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **staging**. Kegiatan ini disebut dengan **Continues Delivary (CD)**.
+
+
 
 #### Continues Deployment
+
+
 
 ## Agile Software Development
 
@@ -199,6 +203,8 @@ Jika anda pernah membaca buku karya **Dan Olsen** yang berjudul **The Lean Produ
 
 <img src="/asset/Product Market Fit.png" style="zoom:100%;" />
 
+## Release Management
+
 Untuk mewujudkan hal tersebut **Delivery Early, Delivery Often**, biasanya kita akan membuat sebuah **Sprint**. Sebuah **Sprint** terdiri dari sekumpulan fungsionalitas yang harus tersedia di dalam **production** dengan periode waktu biasanya per 2 minggu. Manfaat dari aktivitas ini adalah :
 
 1. **Customer** lebih sering mendapatkan **value** dari **product** yang kita buat
@@ -211,11 +217,11 @@ Untuk mewujudkan hal tersebut **Delivery Early, Delivery Often**, biasanya kita 
 
 Inti dari semua kegiatan ini adalah satu bagaimana caranya setiap orang dalam tim harapannya terpenuhi dengan komunikasi yang terbuka, prediksi waktu apa yang sedang kita **delivery**, dan apa saja yang kita butuhkan untuk melakukannya.
 
-Ada banyak **Agile Methodologies** untuk pengembangan **software development**, salah satunya adalah **scrum**. Jika kita bandingkan dengan metodologi lainnya semuanya sama saja fokus pada konsep yang sama, yaitu : peningkatan kualitas komunikasi antar aktor dalam tim yang sama.
+Ada banyak **Agile Methodologies** untuk pengembangan **software development**, salah satunya adalah **scrum**. Jika kita bandingkan dengan metodologi lainnya semuanya sama saja fokus pada konsep yang sama, yaitu : 
 
-## Release Management
+Peningkatan kualitas komunikasi dan koordinasi antar aktor dalam tim yang sama.
 
-Jika menggunakan metode **agile** seperti sebelumnya, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model **release management quarter release** :
+Jika menggunakan metode **agile**, dimana kita akan melakukan **delivery product** versi terbaru yaitu setiap 2 minggu (bi-weekly) maka pola kerja kita sangat konsumtif. Apalagi jika dibandingkan dengan model **release management quarter release** :
 
 1. **Quarter Release** : Rilis 4x selama setahun, belum termasuk **hotfix, emergency release** jika terdapat masalah di production.
 2. **Bi-weekly Release** : Rilis selama 1x setiap 2 minggu, belum termasuk **hotfix, emergency release** jika terdapat masalah di **production**. Maka selama setahun terdapat 24 rilis.
@@ -233,8 +239,3 @@ Jika kita menggunakan **kubernetes** untuk proses **deployment time** kita bisa 
 Kita sudah memasuki masa dimana rilis patch dalam hitungan menit, atau ternyata kita malah merilis sebuah bug yang impaknya cukup serius kita dapat melakukan rollback dalam hitungan menit pula.
 
 Dunia sudah berubah guys, devops tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
-
-
-
-Seorang 
-
