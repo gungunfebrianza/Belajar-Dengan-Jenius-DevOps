@@ -69,11 +69,13 @@ Pada proses **Software Development Life Cycle (SDLC)** di atas umumnya :
 
 **Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **Testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **Deployment** dan **Monitoring** di **Production**.
 
-Pada perusahaan dan organisasi yang lebih besar sering kali terjadi Silo, beberapa departements, groups atau perorangan tidak mau berbagi informasi satu sama lain. Di tambah kompleksitas masing-masing entitas mungkin memiliki preferensi yang berbeda-beda.
+Pada perusahaan dan organisasi yang lebih besar sering kali terjadi Silo, beberapa **departments**, **groups** atau perorangan tidak mau berbagi informasi satu sama lain. Di tambah kompleksitas masing-masing entitas mungkin memiliki preferensi yang berbeda-beda.
+
+Problem yang paling sering dan populer disini - **It's Not Works On My Machine Syndrome**
 
 <img src="/asset/DevOps-Silo.png" style="zoom:100%;" />
 
-Jika problem komunikasi ini terus berlanjut, maka impaknya adalah produk yang dihasilkan memiliki resiko kegagalan yang lebih tinggi. Biaya yang sangat tinggi, waktu pengerjaan molor dan performance yang tidak sesuai ekspektasi stakeholder.
+Jika problem komunikasi ini terus berlanjut, maka impaknya adalah produk yang dihasilkan memiliki resiko kegagalan yang lebih tinggi. Biaya yang sangat tinggi, waktu pengerjaan molor dan **performance** yang tidak sesuai ekspektasi **stakeholder**.
 
 Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan paling menonjol dalam metode **waterfall** adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
@@ -86,6 +88,8 @@ Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Devel
 <img src="/asset\DevOps-Traditional-Software-Development-Problem.png" style="zoom:100%;" /> 
 
 Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***". Mas Gun sepakat sekali di era otomasi saat ini kalau masih dikerjakan secara manual ya produk gagal.
+
+Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan open source, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali tools untuk DevOps. Kini DevOps mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
 
 ---------------------XXXXXXXXXXXXX
 
