@@ -157,11 +157,11 @@ Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies*
 
 #### Continues Integration (CI)
 
-Pada **Continues Integration** (CI) kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
+Pada **Continues Integration** **(CI)** kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
 
 #### Continues Delivery (CD)
 
-
+Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continues Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **stagging**. Kegiatan ini disebut dengan **Continues Delivary (CD)**.
 
 #### Continues Deployment
 
