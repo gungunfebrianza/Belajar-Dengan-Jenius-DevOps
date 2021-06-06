@@ -35,7 +35,7 @@ Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **
 
 ## So What is DevOps?
 
-**DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, e-commerce dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
+**DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, **e-commerce** dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
 Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. Eksistensi **DevOps** membuat perusahaan yang tidak mampu bersaing secara kompetitif memiliki resiko kegagalan yang lebih besar.
 
@@ -73,7 +73,7 @@ Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi 
 
 Buat yang tahu bagaimana rumitnya **develop**, **test**, **build** sebuah **source code** diberbagai **environment** atau **os** yang berbeda pasti sering berhadapan dengan **dependency problem**. Setiap sistem boleh jadi memiliki versi **tools**, **interpreter**, **compiler** yang berbeda-beda.
 
-Pada kenyataanya sulit sekali membangun **Consistent Configuration Management** jika kita masih menggunakan **Traditional Software Development**.
+Saat uji coba berjalan dengan baik namun ternyata tidak berjalan saat sudah masuk **production**. Inilah kenyataanya sulit sekali membangun **Consistent Configuration Management** jika kita masih menggunakan **Traditional Software Development**.
 
 ### Traditional Software Development
 
@@ -109,13 +109,19 @@ Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That 
 
 <img src="/asset/DevOps-Problem3.png" style="zoom:100%;" />
 
-Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip **Agile** yang radikal.
+Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development** menggunakan prinsip-prinsip **Agile** yang radikal.
 
 Dalam beberapa kasus seorang **DevOps** dapat ikut serta dalam proses **development**, namun fokus utamanya tetap menjamin operasi bisnis perusahaan.
 
 <img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
+Seorang **DevOps Engineer** juga memperkenalkan bahwa **DevOps** bukan hanya sekedar **roles** tetapi sebuah gagasan yang lebih luas :
 
+<img src="/asset/DevOps-Way.png" style="zoom:100%;" />
+
+DevOps adalah gabungan dari sebuah culture, tools dan processes dengan tujuan agar dapat memberikan business value lebih cepat. 
+
+**Culture** yang membangun kolaborasi antar entitas, melepaskan silo working yang terjadi pada **Traditional Software** **Development**. Sebuah **culture** yang membangun tim dengan kemampuan multidisiplin, bukan hanya individu dengan kemampuan multidisiplin ilmu. 
 
 Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
 
