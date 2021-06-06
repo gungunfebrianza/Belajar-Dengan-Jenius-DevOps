@@ -171,7 +171,25 @@ Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repos
 
 **Continues Deployment** adalah ekstensi tambahan dari **Continuous Delivery (CD)**, statusnya bisa dipertimbangkan sebagai opsi. Setiap perusahaan memiliki **maturity** dan **complexity** yang berbeda-beda. Perbedaanya dengan **Continues Delivery (CD)** pada **Continues Deployment** otomasi dilakukan secara **end-to-end**.
 
+Pada **Continuous Deployment** otomasi **deployment application** terjadi semenjak **Developer** melakukan **code commit**, semuanya akan diotomasi sampai **production**. Karena proses ini cukup advance, untuk bisa otomasi sampai production diperlukan wide coverage dan kemampuan testing yang mumpuni mulai dari :
 
+1. **Functional Testing**
+   1. **Unit Testing**
+   2. **Integration Testing**
+   3. **Regression Testing**
+2. **Non-Functional Testing**
+   1. **Performance Testing**
+   2. **Load Testing**
+   3. **Stress Testing**
+   4. **Penetration Testing**
+
+Sehingga jarang sekali dilakukan oleh perusahaan-perusahaan yang menganut **devops**, hanya perusahaan-perusahaan yang sudah memiliki para **engineers** dengan kemampuan seperti pasukan **avengers** biasanya melakukan ini.
+
+Pada **Continuous Deployment** tipe **deployment** yang digunakan biasanya **Blue/Green Deployment**. Kita akan membangun sebuah replikasi infrastruktur untuk periode jangka pendek. 
+
+Terdapat Infrastruktur baru yang juga sudah menyediakan aplikasi terbaru yang sedang berjalan, juga mempertahankan infrastruktur lama dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
+
+Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
 ## Agile Software Development
 
