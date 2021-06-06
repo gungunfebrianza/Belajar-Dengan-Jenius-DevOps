@@ -15,6 +15,9 @@
      - Culture
      - Tools
      - Processes
+       - Continues Integration (CI)
+       - Continues Delivery (CD)
+       - Continues Deployment
    - Agile Software Development
      - Quick Understanding Market
    - Release Management
@@ -152,7 +155,15 @@ Ketika **Culture** sudah di bangun, komitmen pada **Tools** yang akan digunakan 
 Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies** seperti :
 **Source Code Management** seperti **git**, **Continues Integration** seperti **jenkins**, **Cloud Computing** seperti **EC2** pada **Amazon Web Services (AWS)**.
 
+#### Continues Integration (CI)
+
 Pada **Continues Integration** (CI) kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
+
+#### Continues Delivery (CD)
+
+
+
+#### Continues Deployment
 
 ## Agile Software Development
 
