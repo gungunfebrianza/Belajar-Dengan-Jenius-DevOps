@@ -15,9 +15,9 @@
      - Culture
      - Tools
      - Processes
-       - Continues Integration (CI)
-       - Continues Delivery (CD)
-       - Continues Deployment
+       - Continuous Integration (CI)
+       - Continuous Delivery (CD)
+       - Continuous Deployment
    - Agile Software Development
      - Quick Understanding Market
    - Release Management
