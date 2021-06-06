@@ -67,7 +67,13 @@ Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Softwa
 
 Pada proses **Software Development Life Cycle (SDLC)** di atas umumnya :
 
-**Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **Testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **Deployment** di **Production**.
+**Business Analysts** akan menyusun sebuah **Business Requirement**, selanjutnya **Developers** akan menerjemahkan **Business Requirement** ke dalam kode pemrograman, dan **QA** melakukan **Testing**. Sampai akhirnya tim **SysAdmin** membantu melakukan **Deployment** dan **Monitoring** di **Production**.
+
+Pada perusahaan dan organisasi yang lebih besar sering kali terjadi Silo, beberapa departements, groups atau perorangan tidak mau berbagi informasi satu sama lain. Di tambah kompleksitas masing-masing entitas mungkin memiliki preferensi yang berbeda-beda.
+
+<img src="/asset/DevOps-Silo.png" style="zoom:100%;" />
+
+Jika problem komunikasi ini terus berlanjut, maka impaknya adalah produk yang dihasilkan memiliki resiko kegagalan yang lebih tinggi. Biaya yang sangat tinggi, waktu pengerjaan molor dan performance yang tidak sesuai ekspektasi stakeholder.
 
 Pengembangan dalam **Traditional Software Developmen**t biasanya menggunakan metode **Waterfall**, kelemahan paling menonjol dalam metode **waterfall** adalah pada sebagian besar kasus kurang **adaptable** dan **slow** sehingga memberikan **rate survival** yang sangat kecil. 
 
