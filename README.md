@@ -174,14 +174,14 @@ Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repos
 Pada **Continuous Deployment** otomasi **deployment application** terjadi semenjak **Developer** melakukan **code commit**, semuanya akan diotomasi sampai **production**. Karena proses ini cukup advance, untuk bisa otomasi sampai production diperlukan wide coverage dan kemampuan testing yang mumpuni mulai dari :
 
 1. **Functional Testing**
-   1. **Unit Testing**
-   2. **Integration Testing**
-   3. **Regression Testing**
+   - **Unit Testing**
+   - **Integration Testing**
+   - **Regression Testing**
 2. **Non-Functional Testing**
-   1. **Performance Testing**
-   2. **Load Testing**
-   3. **Stress Testing**
-   4. **Penetration Testing**
+   - **Performance Testing**
+   - **Load Testing**
+   - **Stress Testing**
+   - **Penetration Testing**
 
 Sehingga jarang sekali dilakukan oleh perusahaan-perusahaan yang menganut **devops**, hanya perusahaan-perusahaan yang sudah memiliki para **engineers** dengan kemampuan seperti pasukan **avengers** biasanya melakukan ini.
 
@@ -254,10 +254,10 @@ Jika kita asumsikan, persiapan untuk rilis memerlukan waktu 10 jam maka :
 
 Jika kita perhatikan **bi-weekly releases** mengkonsumsi banyak waktu dan energi, apalagi jika terdapat **hotfix problem** yang harus diselesaikan. Solusi dari problema ini adalah **Automation**.
 
-Sekitar tahun 2015-an tools untuk melakukan **automation** belum cukup matang, **bash scripting** masih dianggap kurang ideal untuk melakukan perubahan **state** pada **production server**. Namun kini perubahan besar telah datang semenjak **Docker** dan **platform** untuk **orchestration** muncul seperti **kubernetes** atau **Docker Swarm**.
+Sekitar tahun 2015-an **tools** untuk melakukan **automation** belum cukup matang, **bash scripting** masih dianggap kurang ideal untuk melakukan perubahan **state** pada **production server**. Namun kini perubahan besar telah datang semenjak **Docker** dan **platform** untuk **orchestration** muncul seperti **kubernetes** atau **Docker Swarm**.
 
 Jika kita menggunakan **kubernetes** untuk proses **deployment time** kita bisa mereduksi pekerjaan berjam-jam atau di atas 10 jam hanya dengan beberapa klik saja. Dengan begitu konsumsi 240 jam selama setahun dapat direduksi kedalam hitungan menit. 
 
-Kita sudah memasuki masa dimana rilis patch dalam hitungan menit, atau ternyata kita malah merilis sebuah bug yang impaknya cukup serius kita dapat melakukan rollback dalam hitungan menit pula.
+Kita sudah memasuki masa dimana rilis **patch** dalam hitungan menit, atau ternyata kita malah merilis sebuah **bug** yang impaknya cukup serius kita dapat melakukan **rollback** dalam hitungan menit pula.
 
-Dunia sudah berubah guys, devops tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
+Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
