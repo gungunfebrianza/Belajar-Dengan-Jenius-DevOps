@@ -71,6 +71,10 @@ Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi 
 
 **Developer** biasanya memberikan beberapa instruksi dan konfigurasi untuk **Operator**, jika terdapat instruksi dan konfigurasi yang tidak tercatat atau terlewat oleh **Operator** karena dilakukan secara manual maka seringkali menimbulkan masalah.
 
+Buat yang tahu bagaimana rumitnya **develop**, **test**, **build** sebuah **source code** diberbagai **environment** atau **os** yang berbeda pasti sering berhadapan dengan **dependency problem**. Setiap sistem boleh jadi memiliki versi **tools**, **interpreter**, **compiler** yang berbeda-beda.
+
+Pada kenyataanya sulit sekali membangun **Consistent Configuration Management** jika kita masih menggunakan **Traditional Software Development**.
+
 ### Traditional Software Development
 
 Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
@@ -107,11 +111,11 @@ Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That 
 
 Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip **Agile** yang radikal.
 
-Dalam beberapa kasus seorang DevOps dapat ikut serta dalam proses development, namun fokus utamanya tetap menjamin operasi bisnis perusahaan.
+Dalam beberapa kasus seorang **DevOps** dapat ikut serta dalam proses **development**, namun fokus utamanya tetap menjamin operasi bisnis perusahaan.
 
 <img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
-**DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan  produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
+
 
 Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
 
