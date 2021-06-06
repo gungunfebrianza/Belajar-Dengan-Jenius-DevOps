@@ -67,9 +67,9 @@ Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat s
 
 Saat proses **Release Management** :
 
-**Problem** disini adalah **developer** ingin terus dan tertuntut tantangan berinovasi dalam ekosistemnya sendiri. **Developer** juga ingin pekerjaan segera cepat selesai. Jika organisasi perusahaan tersebut besar dan kompleks program yang dirilis **developer** akan diuji terlebih dahulu oleh **tester** sebelum diberikan kepada operator.
+**Problem** disini adalah **developer** ingin terus dan tertuntut tantangan berinovasi dalam ekosistemnya sendiri. **Developer** juga ingin pekerjaan segera cepat selesai. Jika organisasi perusahaan tersebut besar dan kompleks program yang dirilis **developer** akan diuji terlebih dahulu oleh **tester** sebelum diberikan kepada bagian **operations**.
 
-Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi **downtime** dan **back-end server** mampu mengatasi **huge traffic**.
+Bagian **Operations** memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi **downtime** dan **back-end server** mampu mengatasi **huge traffic**.
 
 <img src="/asset/DevOps-Problem2.png" style="zoom:100%;" />
 
@@ -123,7 +123,7 @@ Seorang **DevOps Engineer** juga memperkenalkan bahwa **DevOps** bukan hanya sek
 
 <img src="/asset/DevOps-Way.png" style="zoom:100%;" />
 
-DevOps adalah gabungan dari sebuah culture, tools dan processes dengan tujuan agar dapat memberikan **business value** lebih cepat. 
+**DevOps** adalah gabungan dari sebuah **culture**, **tools** dan **processes** dengan tujuan agar dapat memberikan **business value** lebih cepat. 
 
 ### Culture
 
@@ -131,9 +131,15 @@ DevOps adalah gabungan dari sebuah culture, tools dan processes dengan tujuan ag
 
 ### Tools
 
-Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
+Komitmen untuk menentukan **tools** yang akan digunakan dalam perusahaan sangat penting. Jika bagian **Development**, **DevOps engineer** dan **Operations** masih menggunakan ego sektoralnya dalam pengunaan **tools**, maka problema **silo working** akan terjadi lagi. 
 
-Di bawah ini adalah beberapa **DevsOps Open Source Tools** yang terus dikembangkan komunitas :
+**DevOps Engineer** merekomendasikan **tools** yang harus diketahui bagian **development** dan **operations**, **DevOps Engineer** merekomendasikan **tools** yang dapat mempermudah keduanya untuk menyelesaikan pekerjaan. Penggunaan **tools** yang sama agar dapat dengan mudah difahami oleh semua tim.
+
+
+
+Dari permasalahan sebelumnya **Traditional Software Development** kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. 
+
+Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. Di bawah ini adalah beberapa **DevsOps Open Source Tools** yang terus dikembangkan komunitas :
 
 <img src="/asset/DevOps-Open-Source-Tools.png" style="zoom:100%;" />
 
