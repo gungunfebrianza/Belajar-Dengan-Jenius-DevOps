@@ -63,9 +63,11 @@ Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat s
 
 Saat proses **Release Management** :
 
-**Problem** disini adalah **developer** ingin terus dan tertuntut tantangan berinovasi dalam ekosistemnya sendiri. **Developer** juga ingin pekerjaan segera cepat selesai. Jika organisasi perusahaan tersebut besar dan kompleks program yang dirilis **developer** akan diuji terlebih dahulu oleh tester sebelum diberikan kepada operator.
+**Problem** disini adalah **developer** ingin terus dan tertuntut tantangan berinovasi dalam ekosistemnya sendiri. **Developer** juga ingin pekerjaan segera cepat selesai. Jika organisasi perusahaan tersebut besar dan kompleks program yang dirilis **developer** akan diuji terlebih dahulu oleh **tester** sebelum diberikan kepada operator.
 
 Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi **downtime** dan **back-end server** mampu mengatasi **huge traffic**.
+
+<img src="/asset/DevOps-Problem2.png" style="zoom:100%;" />
 
 ### Traditional Software Development
 
