@@ -153,19 +153,23 @@ Ketika **Culture** sudah di bangun, komitmen pada **Tools** yang akan digunakan 
 <img src="/asset/DevOps-Way2.png" style="zoom:100%;" />
 
 Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies** minimum seperti :
-**Source Code Management** seperti **git**, **Continues Integration** seperti **jenkins**, **Cloud Computing** seperti **EC2** pada **Amazon Web Services (AWS)**, **Containerization** seperti **Docker** dan **Artifact Repository Management** seperti **Nexus**.
+**Source Code Management** seperti **git**, **Continuous Integration** seperti **jenkins**, **Cloud Computing** seperti **EC2** pada **Amazon Web Services (AWS)**, **Containerization** seperti **Docker** dan **Artifact Repository Management** seperti **Nexus**.
 
 #### Continues Integration (CI)
 
-Pada **Continues Integration** **(CI)** kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
+Pada **Continuous Integration** **(CI)** kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
 
 #### Continues Delivery (CD)
 
-Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continues Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **staging**. Kegiatan ini disebut dengan **Continues Delivary (CD)**.
+Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continuous Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **staging**. Kegiatan ini disebut dengan **Continues Delivery (CD)**.
 
+**Continues Delivery (CD)** akan menggunakan **application** yang telah disiapkan **Continuous Integration (CI)** untuk di otomasi lebih lanjut. Seperti kegiatan eksekusi **Functional** dan **Acceptance Testing**, baik itu **alpha** atau **beta testing**. 
 
+Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repository Management** seperti **Nexus**, kita akan mempelajarinya nanti. Pada **Continuous Delivery (CD)** proses deployment dilakukan secara manual untuk lingkungan yang sensitif seperti **production environment**. (Manual karena biasanya ada proses **approval** tertentu)
 
-#### Continues Deployment
+#### Continuous Deployment
+
+**Continues Deployment** adalah ekstensi tambahan dari **Continuous Delivery (CD)**, statusnya bisa dipertimbangkan sebagai opsi. Setiap perusahaan memiliki **maturity** dan **complexity** yang berbeda-beda. Perbedaanya dengan **Continues Delivery (CD)** pada **Continues Deployment** otomasi dilakukan secara **end-to-end**.
 
 
 
