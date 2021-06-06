@@ -59,6 +59,14 @@ Pertama kali diperkenalkan oleh **Patrick Debois** seorang figur di bidang **Sof
 
 Tahun 2009 istilah **DevOps** mulai populer setelah **Patrick Debois** membuat sebuah **conference** dengan nama **DevOpDays**. Event tersebut sukses menjadi perbincangan di kalangan para **software engineer**, gagasan Patrick dianggap solutif karena ternyata banyak juga **software engineer** menghadapi permasalahan yang sama.
 
+<img src="/asset/DevOps-Problem.png" style="zoom:100%;" />
+
+Saat proses **Release Management** :
+
+**Problem** disini adalah **developer** ingin terus dan tertuntut tantangan berinovasi dalam ekosistemnya sendiri. **Developer** juga ingin pekerjaan segera cepat selesai. Jika organisasi perusahaan tersebut besar dan kompleks program yang dirilis **developer** akan diuji terlebih dahulu oleh tester sebelum diberikan kepada operator.
+
+Operator memiliki tanggung jawab terhadap **Scalability** jangan sampai terjadi **downtime** dan **back-end server** mampu mengatasi **huge traffic**.
+
 ### Traditional Software Development
 
 Kurang lebih di bawah ini adalah figur-figur yang ada dalam **Traditional Software Development** :
@@ -71,7 +79,7 @@ Pada proses **Software Development Life Cycle (SDLC)** di atas umumnya :
 
 Pada perusahaan dan organisasi yang lebih besar sering kali terjadi Silo, beberapa **departments**, **groups** atau perorangan tidak mau berbagi informasi satu sama lain. Di tambah kompleksitas masing-masing entitas mungkin memiliki preferensi yang berbeda-beda.
 
-Problem yang paling sering dan populer disini - **It's Not Works On My Machine Syndrome**
+**Problem** yang paling sering dan populer disini - **It's Not Works On My Machine Syndrome**
 
 <img src="/asset/DevOps-Silo.png" style="zoom:100%;" />
 
@@ -89,21 +97,23 @@ Secara garis besar, hal yang membuat frustasi dalam **Traditional Software Devel
 
 Sebagaimana dikatakan **Lord** **Dogecoin**, **Elon musk** "***Any Product That Needs A Manual is Broken***". Mas Gun sepakat sekali di era otomasi saat ini kalau masih dikerjakan secara manual ya produk gagal.
 
-Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
+## DevOps Way
 
-Di bawah ini adalah beberapa **DevsOps Open Source Tools** yang terus dikembangkan komunitas :
-
-<img src="/asset/DevOps-Open-Source-Tools.png" style="zoom:100%;" />
-
----------------------XXXXXXXXXXXXX
-
-Peran seorang **DevOps** sama seperti **QA**, berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
+Peran seorang **DevOps** berada di antara **Developments** dan **Operations** terlibat secara penuh dalam **Software Development Life Cycle (SDLC)**. Menyelesaikan seluruh permasalahan dalam **Traditional Software Development **menggunakan prinsip-prinsip yang radikal.
 
 
 
 <img src="/asset/DevOps-Focus.png" style="zoom:100%;" />
 
 **DevOps** membantu memecahkan permasalahan antara **developments** dan **operations**, **developments** cenderung ingin berinovasi dan memberikan  produk yang dirilis dengan cepat dan operations yang cenderung ingin bisa menjamin **production system** yang stabil dengan kualitas sistem yang terjaga.
+
+Dari permasalahan di atas kita harus berterima kasih untuk mereka yang berjuang dalam gerakan **Open Source**, mereka para pejuang yang menjadi akar keberhasilan karena kini banyak sekali **tools** untuk **DevOps**. Kini **DevOps** mulai banyak diakuisisi institusi dan tingkat adopsinya semakin meningkat. 
+
+Di bawah ini adalah beberapa **DevsOps Open Source Tools** yang terus dikembangkan komunitas :
+
+<img src="/asset/DevOps-Open-Source-Tools.png" style="zoom:100%;" />
+
+Banyak sekali kan? jangan khawatir kita akan mempelajarinya, jika kita bisa menggunakan salah satu **tools** maka kita juga akan memiliki model mental untuk memahami **tools** lainnya.
 
 ---------------------XXXXXXXXXXXXX
 
