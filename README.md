@@ -72,7 +72,7 @@ Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari
 
 Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Terakhir mas gun pelajari **Mainframe Computing** dengan **clock speed 5 + GHz** sudah bisa menyelesaikan permasalan perbankan.
 
-Jika dikaji lebih serius penggunaan Mainframe Computing
+Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, sementara layanan **cloud** lebih dinamis dan bisa memberikan fungsi-fungsi yang menarik. Layanan **Cloud Computing** secara **DevOps** sangat **fluid** bisa menyesuaikan diri sesuai dengan kebutuhan komputasi perbankan.
 
 Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan **FinTech** startup skala kecil.
 
