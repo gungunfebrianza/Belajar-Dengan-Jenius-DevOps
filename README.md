@@ -22,6 +22,14 @@ Git
 
 Nexus
 
+**Containerization :**
+
+Docker
+
+**Continuous Integration :**
+
+Jenkins
+
 **Provisioning** : 
 
 Terraform
