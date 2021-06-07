@@ -10,6 +10,30 @@
 
 Node.js | Python | Boto3
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span>Node.js</span><br><br> 
+<img src="H:\The New Alexandria\Belajar Dengan Jenius DevOps\Belajar-Dengan-Jenius-DevOps\asset\Python.png" style="zoom:25%;" />
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br> 
+<img src="H:\The New Alexandria\Belajar Dengan Jenius DevOps\Belajar-Dengan-Jenius-DevOps\asset\Python.png" style="zoom:25%;" />
+      <td width="25%" align="center">
+        <span>Cloud Computing</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cloud_computing.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Compiler Construction</span><br><br> 
+        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 **Amazon Web Resources** :
 
 IAM | VPC | EC2 |  EBS | RDS | SNS | CloudWatch | Elasticsearch | DLM | S3 | CloudFormation | EKS | ECR
@@ -72,7 +96,7 @@ Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari
 
 Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Terakhir mas gun pelajari **Mainframe Computing** dengan **clock speed 5 + GHz** sudah bisa menyelesaikan permasalan perbankan.
 
-Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh Accenture dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak sustainable untuk jangka panjang (**Long Term**)
+Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh **Accenture** dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak **sustainable** untuk jangka panjang (**Long Term**)
 
 **Bank** di anggap akan lebih **agile** jika sudah menemukan alasan untuk migrasi ke **cloud**. Sementara layanan **cloud** lebih dinamis dan bisa memberikan fungsi-fungsi yang menarik untuk perbankan. Layanan **Cloud Computing** secara **DevOps** sangat **fluid** bisa menyesuaikan diri sesuai dengan kebutuhan komputasi perbankan yang sangat dinamis.
 
