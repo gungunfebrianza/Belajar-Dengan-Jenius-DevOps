@@ -4,6 +4,18 @@
 
 <img src="/asset/DevOps-Outline.png" style="zoom:100%;" />
 
+**Programming Languages & Modules** :  
+
+Node.js | Python | Boto3
+
+**Amazon Web Resources** :
+
+IAM | VPC | EC2 |  EBS | RDS | SNS | CloudWatch | Elasticsearch | DLM | S3 | CloudFormation | 
+
+**Provisioning** : 
+
+Terraform
+
 ## Content Tables
 
 1. DevOps World
