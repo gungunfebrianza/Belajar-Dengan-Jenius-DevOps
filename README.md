@@ -66,6 +66,8 @@ Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar keh
 
 Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
 
+**Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
+
 Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
 
 Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech** mendisrupsi perbankan yaitu kemampuan mereka untuk **break things faster**, peran **DevOps** sangat bersahabat dengan **FinTech** startup skala kecil.
