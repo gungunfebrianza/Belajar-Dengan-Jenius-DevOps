@@ -12,7 +12,7 @@ Node.js | Python | Boto3
 
 **Amazon Web Resources** :
 
-IAM | VPC | EC2 |  EBS | RDS | SNS | CloudWatch | Elasticsearch | DLM | S3 | CloudFormation | 
+IAM | VPC | EC2 |  EBS | RDS | SNS | CloudWatch | Elasticsearch | DLM | S3 | CloudFormation | EKS
 
 **Source Code Manager :**
 
@@ -20,7 +20,7 @@ Git
 
 **Artifact Source Code Manager :**
 
-Nexus
+Nexus | Docker Hub
 
 **Containerization :**
 
@@ -29,6 +29,10 @@ Docker
 **Continuous Integration :**
 
 Jenkins
+
+**Orchestration :**
+
+Kubernetes
 
 **Provisioning** : 
 
