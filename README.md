@@ -201,11 +201,17 @@ Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies*
 
 #### Continuous Integration (CI)
 
+Untuk melakukan **Continuous Integration (CI)**, diperlukan **Source Code Manager** dan **CI Tools** :
+
 <img src="/asset/DevOps-CI.png" style="zoom:100%;" />
 
 Pada **Continuous Integration** **(CI)** kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
 
-Praktek Otomasi integration code changes from muliple contributor, you will commit and push to github and CI tools will automatically detec 
+<img src="/asset/DevOps-CI2.png" style="zoom:100%;" />
+
+Selanjutnya dalam **CI Tools** kita dapat membaca seluruh kegiatan otomasi apakah berhasil atau terdapat kegagalan didalamnya :
+
+<img src="/asset\Report.png" style="zoom:30%;" />
 
 #### Continuous Delivery (CD)
 
