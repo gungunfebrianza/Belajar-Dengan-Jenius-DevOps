@@ -58,9 +58,9 @@ Terraform
 
 ## Introduction to DevOps
 
-Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
+Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik. Sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
-Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **corporate inefficiency**, semakin besar semakin lamban perkembangannya.
+Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
@@ -68,11 +68,11 @@ Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Comput
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
-Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
-
 Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Terakhir mas gun pelajari **Mainframe Computing** dengan **clock speed 5 + GHz** sudah bisa menyelesaikan permasalan perbankan.
 
 Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh **Accenture** dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak **sustainable** untuk jangka panjang (**Long Term**)
+
+Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
 
 **Bank** di anggap akan lebih **agile** jika sudah menemukan alasan untuk migrasi ke **cloud**. Sementara layanan **cloud** lebih dinamis dan bisa memberikan fungsi-fungsi yang menarik untuk perbankan. Layanan **Cloud Computing** secara **DevOps** sangat **fluid** bisa menyesuaikan diri sesuai dengan kebutuhan komputasi perbankan yang sangat dinamis.
 
@@ -92,7 +92,7 @@ Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik 
 
 <img src="/asset/DevOps-Faster-Delivery.png" style="zoom:100%;" />
 
-Figur **DevOps** mulai lahir karena problema **corporate inefficiency** mulai menjadi masalah serius, sebab semakin besar suatu perusahaan maka semakin lama potensi perusahaan tersebut menyelesaikan sebuah **task**. 
+Figur **DevOps** mulai lahir karena problema **corporate inefficiency** mulai menjadi masalah serius, sebab semakin besar suatu perusahaan maka semakin lama potensi perusahaan tersebut menyelesaikan sebuah **task**. Sehingga peluang perusahaan atau startup skala kecil sampai menengah bisa melakukan disrupsi dengan cepat.
 
 Industri skala besar seperti perbankan atau **e-commerce** mereka mungkin memiliki dana yang mumpuni, namun jika anda berada dalam sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**.
 
@@ -217,11 +217,13 @@ Manfaat dari kegiatan ini adalah kita dapat mendeteksi sebuah **issue** yang tid
 
 #### Continuous Delivery (CD)
 
-Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continuous Integration (CI)** selanjutnya adalah bagaimana cara melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **staging**. Kegiatan ini disebut dengan **Continuous Delivery (CD)**.
+Jika seluruh kegiatan yang dibutuhkan telah selesai pada **Continuous Integration (CI)** selanjutnya adalah melakukan **deployment application** kedalam sebuah **non-production environments**, biasanya di sebut dengan **staging**. Kegiatan ini disebut dengan **Continuous Delivery (CD)**.
+
+<img src="/asset/DevOps-CD.png" style="zoom:80%;" />
 
 **Continuous Delivery (CD)** akan menggunakan **application** yang telah disiapkan **Continuous Integration (CI)** untuk di otomasi lebih lanjut. Seperti kegiatan eksekusi **Functional** dan **Acceptance Testing**, baik itu **alpha** atau **beta testing**. 
 
-Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repository Management** seperti **Nexus**, kita akan mempelajarinya nanti. Pada **Continuous Delivery (CD)** proses deployment dilakukan secara manual untuk lingkungan yang sensitif seperti **production environment**. (Manual karena biasanya ada proses **approval** tertentu)
+Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repository Management** seperti **Nexus**, kita akan mempelajarinya nanti. Pada **Continuous Delivery (CD)** proses **deployment** dilakukan secara manual untuk lingkungan yang sensitif seperti **production environment**. (Manual karena biasanya ada proses **approval** tertentu)
 
 #### Continuous Deployment
 
