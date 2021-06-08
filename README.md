@@ -10,30 +10,6 @@
 
 Node.js | Python | Boto3
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
-        <span>Node.js</span><br><br> 
-<img src="H:\The New Alexandria\Belajar Dengan Jenius DevOps\Belajar-Dengan-Jenius-DevOps\asset\Python.png" style="zoom:25%;" />
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br> 
-<img src="H:\The New Alexandria\Belajar Dengan Jenius DevOps\Belajar-Dengan-Jenius-DevOps\asset\Python.png" style="zoom:25%;" />
-      <td width="25%" align="center">
-        <span>Cloud Computing</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/cloud_computing.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Compiler Construction</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/gungunfebrianza/blob/master/assets/compiler.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
 **Amazon Web Resources** :
 
 IAM | VPC | EC2 |  EBS | RDS | SNS | CloudWatch | Elasticsearch | DLM | S3 | CloudFormation | EKS | ECR
@@ -225,7 +201,11 @@ Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies*
 
 #### Continuous Integration (CI)
 
+<img src="/asset/DevOps-CI.png" style="zoom:100%;" />
+
 Pada **Continuous Integration** **(CI)** kita dapat melakukan otomasi **testing**, **compilation**, atau **build** sebuah **artifact** dan kegiatan otomasi lainnya seperti **static code analysis** yang bermanfaat untuk memeriksa kerentanan dalam **source code application**.
+
+Praktek Otomasi integration code changes from muliple contributor, you will commit and push to github and CI tools will automatically detec 
 
 #### Continuous Delivery (CD)
 
