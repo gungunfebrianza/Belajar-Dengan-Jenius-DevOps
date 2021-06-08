@@ -211,7 +211,9 @@ Pada **Continuous Integration** **(CI)** kita dapat melakukan otomasi **testing*
 
 Selanjutnya dalam **CI Tools** kita dapat membaca seluruh kegiatan otomasi apakah berhasil atau terdapat kegagalan didalamnya :
 
-<img src="/asset\Report.png" style="zoom:30%;" />
+<img src="/asset/Report.png" style="zoom:30%;" />
+
+Manfaat dari kegiatan ini adalah kita dapat mendeteksi sebuah **issue** yang tidak diinginkan lebih awal, dan terhindar dari masalah **integration hell** yang sering terjadi dalam sebuah **startup**.
 
 #### Continuous Delivery (CD)
 
