@@ -229,17 +229,11 @@ Untuk menyelesaikan proses **CI/CD** ini kita memerlukan sebuah **Artifact Repos
 
 **Continuous Deployment** adalah ekstensi tambahan dari **Continuous Delivery (CD)**, statusnya bisa dipertimbangkan sebagai opsi. Setiap perusahaan memiliki **maturity** dan **complexity** yang berbeda-beda. Perbedaanya dengan **Continuous Delivery (CD)** pada **Continuous Deployment** otomasi dilakukan secara **end-to-end**.
 
-Pada **Continuous Deployment** otomasi **deployment application** terjadi semenjak **Developer** melakukan **code commit**, semuanya akan diotomasi sampai **production**. Karena proses ini cukup advance, untuk bisa otomasi sampai production diperlukan wide coverage dan kemampuan testing yang mumpuni mulai dari :
+<img src="/asset/DevOps-ContinuousDeployment.png" style="zoom:100%;" />
 
-1. **Functional Testing**
-   - **Unit Testing**
-   - **Integration Testing**
-   - **Regression Testing**
-2. **Non-Functional Testing**
-   - **Performance Testing**
-   - **Load Testing**
-   - **Stress Testing**
-   - **Penetration Testing**
+Pada **Continuous Deployment** otomasi **deployment application** terjadi semenjak **Developer** melakukan **code commit**, semuanya akan diotomasi sampai **production**. Karena proses ini cukup **advance**, untuk bisa otomasi sampai **production** diperlukan **wide coverage** dan kemampuan **testing** yang mumpuni mulai dari :
+
+<img src="/asset/DevOps-Deployment.png" style="zoom:100%;" />
 
 Sehingga jarang sekali dilakukan oleh perusahaan-perusahaan yang menganut **devops**, hanya perusahaan-perusahaan yang sudah memiliki para **engineers** dengan kemampuan seperti pasukan **avengers** biasanya melakukan ini.
 
