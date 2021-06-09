@@ -64,6 +64,10 @@ Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar keh
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
+Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Julienne McLean** konsultan perbankan **JPMorgan Chase** berkata :
+
+“*When I look at disruptors in the financial services space, they exploit speed. That is the cheat code to survive*” 
+
 Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
