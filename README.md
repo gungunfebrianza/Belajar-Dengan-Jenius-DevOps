@@ -98,9 +98,11 @@ Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik 
 
 Figur **DevOps** mulai lahir karena problema **corporate inefficiency** mulai menjadi masalah serius, sebab semakin besar suatu perusahaan maka semakin lama potensi perusahaan tersebut menyelesaikan sebuah **task**. Sehingga peluang perusahaan atau startup skala kecil sampai menengah bisa melakukan disrupsi dengan cepat.
 
-Industri skala besar seperti perbankan atau **e-commerce** mereka mungkin memiliki dana yang mumpuni, namun jika anda berada dalam sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**.
+Industri skala besar seperti perbankan atau **e-commerce** mereka mungkin memiliki dana yang mumpuni, namun jika anda berada dalam sebuah startup kecil maka anda harus mereduksi biaya dengan cara melakukan **automation**. Terdapat mantra dalam **DevOps** : *Anything that can be automated must be automated*.
 
 <img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
+
+**Julienne McLean** konsultan perbankan **JPMorgan Chase** juga berkata dengan menerapkan DevOps, CI/CD, dan **Automations** mereka bisa mempercepat rilis product secara signifikan. Manfaat besar lainnya **developer** bisa menjadi lebih fokus mengerjakan hal-hal yang mereka sukai untuk lebih kreatif dan inovatif.
 
 Jadi peran akhir seorang **DevOps** untuk **enterprise**, dapat dilihat dari seberapa besar **cost** yang bisa ditekan dan kualitas **IT System** yang sangat mumpuni (**High Impact**). 
 
@@ -317,3 +319,8 @@ Jika kita menggunakan **kubernetes** untuk proses **deployment time** kita bisa 
 Kita sudah memasuki masa dimana rilis **patch** dalam hitungan menit, atau ternyata kita malah merilis sebuah **bug** yang impaknya cukup serius kita dapat melakukan **rollback** dalam hitungan menit pula.
 
 Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk perusahaan. ea.
+
+## Interesting Notes :
+
+Tahun 2001 IBM yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
+
