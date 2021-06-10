@@ -322,7 +322,7 @@ Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk
 
 ## Interesting Notes :
 
-Tahun 2001 IBM yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
-
-**IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
+1. Usia Mainframe lebih tua dari sistem operasi linux, mainframe hadir pada tahun 1940an dan pada tahun 1960an sudah mendominasi dunia bisnis. Linux kernel hadir tahun 1991. Sehingga IBM membuat OS sendiri khusus untuk mainframe, OS/360 dan OS/390 adalah OS untuk mainframe IBM sebelum akhirnya diganti dengan penerusnya z/OS pada awal tahun 2000an.
+2. Tahun 2001 IBM yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
+3. **IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
 
