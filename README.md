@@ -322,7 +322,10 @@ Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk
 
 ## Interesting Notes :
 
-1. Usia Mainframe lebih tua dari sistem operasi linux, mainframe hadir pada tahun 1940an dan pada tahun 1960an sudah mendominasi dunia bisnis. Linux kernel hadir tahun 1991. Sehingga IBM membuat OS sendiri khusus untuk mainframe, OS/360 dan OS/390 adalah OS untuk mainframe IBM sebelum akhirnya diganti dengan penerusnya z/OS pada awal tahun 2000an.
-2. Tahun 2001 IBM yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
-3. **IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
+1. Usia **Mainframe** lebih tua dari sistem operasi **linux**, **mainframe** hadir pada tahun 1940an dan pada tahun 1960an **mainframe** sudah mendominasi dunia bisnis. **Linux kernel** hadir tahun **1991**. 
+2. IBM membuat **OS** sendiri khusus untuk **mainframe**, **OS/360** dan **OS/390** adalah **OS** untuk **mainframe IBM** sebelum akhirnya diganti dengan penerusnya **z/OS** pada awal tahun 2000an.
+3. Tahun 2001 **IBM** yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
+4. Pada **Commodity Server** meskipun memiliki infrastruktur yang bagus terdapat **issue** pada **database**, **special case** pada **SQL Server 2005** memiliki kemampuan untuk memproses **1,379 transactions/sec** dengan total **119 million transactiond/day**.
+5. **IBM z13** memiliki kapabilitas untuk memproses **2.5 billion transaction/day**. 
+6. **IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
 
