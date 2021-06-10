@@ -324,3 +324,5 @@ Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk
 
 Tahun 2001 IBM yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
 
+**IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
+
