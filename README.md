@@ -327,6 +327,6 @@ Dunia sudah berubah guys, **DevOps** tamvan macam kita eksistensinya seksi untuk
 3. Tahun 2001 **IBM** yang sudah mengalami keuntungan besar-besaran dari penjualan **mainframe computer** untuk perbankan, penerbangan, pemerintah hingga dunia kesehatan melakukan Investasi **1 Billion US Dollar** untuk pengembangan **OS Linux**.
 4. **Mainframe Computer** pertama didesain untuk Departemen Pertahanan Amerika menghadapi perang dingin (**cold war**).
 5. Pada **Commodity Server** meskipun memiliki infrastruktur yang bagus terdapat **issue** pada **database**, **special case** pada **SQL Server 2005** memiliki kemampuan untuk memproses **1,379 transactions/sec** dengan total **119 million transactiond/day**.
-6. **IBM z13** memiliki kapabilitas untuk memproses **2.5 billion transaction/day**, **IBM z13** di desain untuk **mobile app economy** yang sedang **booming**. 
+6. **IBM z13** memiliki kapabilitas untuk memproses **2.5 billion transaction/day**, **IBM z13** di desain untuk **mobile app economy** yang sedang **booming**.  **IBM z13** memiliki kemampuan untuk **encrypt mobile transaction** secara **real-time** dan memberikan insight seluruh transaksi sekaligus, pemerintah & perusahaan dapat membaca **Fraud Detection** saat itu juga.
 7. **IBM z15** memiliki kapabilitas untuk memproses **1 trillion web transaction/day** dan menjalankan 2.4 juta **Docker containers** sekaligus.
 
