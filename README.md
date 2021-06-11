@@ -65,6 +65,10 @@ Terraform
 
 Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik. Sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
+Tahun 1994, Microsoft Founder Bill Gates membuat statement menarik : 
+
+*“Banking is necessary, banks are not”*
+
 **FintTech** atau **Financial Technology** adalah perusahaan yang memberikan layanan keuangan sama seperti **bank**. Kecepatan mereka untuk akuisisi **customer** bersifat disruptif untuk perbankan, meskipun begitu jangkauan disrupsi **FinTech** masih terbatas regulasi. Terdapat regulasi yang membatasi jumlah dana yang dapat di transaksikan.
 
 Startup tersebut diantaranya adalah :
@@ -81,11 +85,11 @@ Valusi terakhir **Wise** mencapai **$ 5 Billion**, dengan 10 juta pengguna.
 
 Layanan **BaaS Stripe** membantu setiap **customer** untuk bisa menyimpan uang, melakukan pembayaran, hingga mendapatkan bunga. Kini valusi **stripe** mencapai **$ 95 Billion**, dengan pendapatan pada tahun 2020 mencapai 1 Trilliun USD. 
 
-### Robinhood
+### **Robinhood**
 
-Perusahaan ini yang awalnya berfokus pada stockbroker kini menyediakan layanan trading untuk cryptocurrency, selain stock dan ETFs. Dengan pengguna yang mereka klaim kini sudah mencapai 13 juta pengguna, pendapatan mereka pada Q1 2021 mencapai $ 331 Million.
+Perusahaan ini yang awalnya berfokus pada **stockbroker** kini menyediakan layanan trading untuk **cryptocurrency**, selain **stock** dan **ETFs**. Dengan pengguna yang mereka klaim kini sudah mencapai 13 juta pengguna, pendapatan mereka pada **Q1 2021** mencapai **$ 331 Million**.
 
-Kini mereka juga menyediakan layanan Debit Card diseluruh dunia selama tempat tersebut mendukung Mastercard.
+Kini mereka juga menyediakan layanan **Debit Card** diseluruh dunia selama tempat tersebut mendukung **Mastercard**.
 
 
 
