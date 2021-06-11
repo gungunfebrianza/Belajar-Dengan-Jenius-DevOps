@@ -56,11 +56,29 @@ Terraform
      - Quick Understanding Market
    - Release Management
 
-## Introduction to DevOps
+# Introduction to DevOps
+
+## DevOps, FinTech & Banking Industry
 
 Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik. Sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
-Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi.
+**FintTech** atau **Financial Technology** adalah perusahaan yang memberikan layanan keuangan sama seperti **bank**. Kecepatan mereka untuk akuisisi **customer** bersifat disruptif untuk perbankan, meskipun begitu jangkauan disrupsi **FinTech** masih terbatas regulasi. Terdapat regulasi yang membatasi jumlah dana yang dapat di transaksikan.
+
+Startup tersebut diantaranya adalah :
+
+
+
+Tidak ada yang akan mengira di masa depan saat startups **ride-hailing** uber tiba-tiba membangun inovasi **Uber Money**.   Perusahaan uber menawarkan Microloan untuk para driver, 
+
+Di Asia, Grab telah mendapatkan dukungan dari **Monetary Authority of Singapore** (MAS) untuk membangun bank digital.
+
+Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
+
+Selain fintech juga terdapat alternative financial channel lain yang mendisrupsi perbankan salah satunya adalah cryptocurrency.
+
+<img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
+
+Selain perusahaan-perusahaan raksasa tersebut, perusahaan Paypal juga kini mendukung
 
 Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
@@ -92,8 +110,6 @@ Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Jul
 
 Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
 "Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
-
-
 
 ## So What is DevOps?
 
