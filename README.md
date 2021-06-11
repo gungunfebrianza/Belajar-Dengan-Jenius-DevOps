@@ -40,8 +40,11 @@ Terraform
 
 ## Content Tables
 
-1. DevOps World
-   - Introduction to DevOps
+1. Introduction to DevOps
+   - DevOps, FinTech, & Banking Industry
+     - Wise (Transferwise)
+     - Stripe
+     - Robinhood
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -66,11 +69,25 @@ Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbank
 
 Startup tersebut diantaranya adalah :
 
-**Wise (Transferwise)**
+### **Wise (Transferwise)**
 
-Startup ini fokus membangun layanan transfer uang antar negara dengan biaya rata-rata 0,7%, sangat jauh sekali jika menggunakan layanan perbankan di amerika yang menekankan biaya sebesar 3-4%. Wise menyediakan layanan Debit Card untuk menyimpan dana, transfer dana dan pengunaan dana yang dapat dibelanjakan di 55 negara. 
+Startup ini fokus membangun layanan transfer uang antar negara dengan biaya rata-rata 0,7%, sangat jauh sekali jika menggunakan layanan perbankan di amerika yang menekankan biaya sebesar 3-4%. **Wise** menyediakan layanan **Debit Card** untuk menyimpan dana, transfer dana dan pengunaan dana yang dapat dibelanjakan di 55 negara. 
 
-Valusi terakhir Wise mencapai $ 5 Billion, dengan 10 juta pengguna.
+Valusi terakhir **Wise** mencapai **$ 5 Billion**, dengan 10 juta pengguna.
+
+### **Stripe**
+
+**Startup** ini fokus membangun layanan **payment processor** yang dapat membantu para **web developer** untuk integrasi sistem pembayaran pada **web application** yang mereka buat. Layanan mereka sudah digunakan di 100 negara. Kini mereka menyediakan **BaaS** (**Banking as a Service**). 
+
+Layanan **BaaS Stripe** membantu setiap **customer** untuk bisa menyimpan uang, melakukan pembayaran, hingga mendapatkan bunga. Kini valusi **stripe** mencapai **$ 95 Billion**, dengan pendapatan pada tahun 2020 mencapai 1 Trilliun USD. 
+
+### Robinhood
+
+Perusahaan ini yang awalnya berfokus pada stockbroker kini menyediakan layanan trading untuk cryptocurrency, selain stock dan ETFs. Dengan pengguna yang mereka klaim kini sudah mencapai 13 juta pengguna, pendapatan mereka pada Q1 2021 mencapai $ 331 Million.
+
+Kini mereka juga menyediakan layanan Debit Card diseluruh dunia selama tempat tersebut mendukung Mastercard.
+
+
 
 Tidak ada yang akan mengira di masa depan saat startups **ride-hailing** uber tiba-tiba membangun inovasi **Uber Money**.   Perusahaan uber menawarkan Microloan untuk para driver, 
 
