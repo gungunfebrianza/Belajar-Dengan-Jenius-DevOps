@@ -66,7 +66,11 @@ Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbank
 
 Startup tersebut diantaranya adalah :
 
+**Wise (Transferwise)**
 
+Startup ini fokus membangun layanan transfer uang antar negara dengan biaya rata-rata 0,7%, sangat jauh sekali jika menggunakan layanan perbankan di amerika yang menekankan biaya sebesar 3-4%. Wise menyediakan layanan Debit Card untuk menyimpan dana, transfer dana dan pengunaan dana yang dapat dibelanjakan di 55 negara. 
+
+Valusi terakhir Wise mencapai $ 5 Billion, dengan 10 juta pengguna.
 
 Tidak ada yang akan mengira di masa depan saat startups **ride-hailing** uber tiba-tiba membangun inovasi **Uber Money**.   Perusahaan uber menawarkan Microloan untuk para driver, 
 
