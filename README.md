@@ -45,6 +45,8 @@ Terraform
      - Wise (Transferwise)
      - Stripe
      - Robinhood
+     - Grab
+     - CBDC
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
