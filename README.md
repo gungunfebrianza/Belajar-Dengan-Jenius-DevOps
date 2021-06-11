@@ -66,10 +66,6 @@ Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar keh
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
-Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Julienne McLean** konsultan perbankan **JPMorgan Chase** berkata :
-
-“*When I look at disruptors in the financial services space, they exploit speed. That is the cheat code to survive*” 
-
 Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
@@ -89,6 +85,15 @@ Inilah yang menjadikan peran **DevOps** dibalik kesuksesan perusahaan **FinTech*
 <img src="/asset/DevOps-Intro.png" style="zoom:100%;" />
 
 Pada akhirnya agar bisa bertahan perbankan harus mengakuisisi **FinTech** dan **DevOps** itu sendiri ke dalam ekosistemnya agar bisa bertahan. Peran **DevOps** memberikan perubahan besar pada **landscape** Industri IT.
+
+Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Julienne McLean** konsultan perbankan **JPMorgan Chase** berkata :
+
+“*When I look at disruptors in the financial services space, they exploit speed. That is the cheat code to survive*” 
+
+Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
+"Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
+
+
 
 ## So What is DevOps?
 
