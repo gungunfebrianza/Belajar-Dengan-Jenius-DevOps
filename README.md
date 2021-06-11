@@ -91,11 +91,21 @@ Perusahaan ini yang awalnya berfokus pada **stockbroker** kini menyediakan layan
 
 Kini mereka juga menyediakan layanan **Debit Card** diseluruh dunia selama tempat tersebut mendukung **Mastercard**.
 
-
-
 Tidak ada yang akan mengira di masa depan saat startups **ride-hailing** uber tiba-tiba membangun inovasi **Uber Money**.   Perusahaan uber menawarkan Microloan untuk para driver, 
 
 Di Asia, Grab telah mendapatkan dukungan dari **Monetary Authority of Singapore** (MAS) untuk membangun bank digital.
+
+### **CBDC (Central Bank Digital Currency)**
+
+Pada tanggal 8 Juni 2021 **Hong Kong Monetary Authority (HKMA)** meluncurkan strategi **FinTech 2025**. Dalam strategi tersebut terdapat [5 Fokus Area](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2021/06/20210608-4/) diantaranya adalah :
+
+- **All Bank Go to Fintech**
+
+  **HKMA** menekan **Traditional Bank** untuk melakukan transformasi menjadi **Smart Bank** dengan melakukan adopsi **FinTech**, proses digitalisasi harus dilakukan secara keseluruhan operasi perbankan. **HKMA** sendiri yang akan memberikan **guideline** untuk perbankan. 
+
+- **CBDC (Central Bank Digital Currency)**
+
+  Eksistensi sistem keuangan terdesentralisasi menjadi ancaman perbankan, untuk itu **central bank** secara global mulai melakukan perlawanan dengan cara menerbitkan mata uang digital mereka sendiri. Langkah ini juga didukung oleh **IMF** (**International Monetary Fund**)
 
 Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
 
