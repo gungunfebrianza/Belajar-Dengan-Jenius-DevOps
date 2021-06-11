@@ -60,6 +60,8 @@ Terraform
 
 Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik. Sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
+Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi.
+
 Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
