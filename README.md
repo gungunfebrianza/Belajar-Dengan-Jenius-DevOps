@@ -91,9 +91,11 @@ Perusahaan ini yang awalnya berfokus pada **stockbroker** kini menyediakan layan
 
 Kini mereka juga menyediakan layanan **Debit Card** diseluruh dunia selama tempat tersebut mendukung **Mastercard**.
 
-Tidak ada yang akan mengira di masa depan saat startups **ride-hailing** uber tiba-tiba membangun inovasi **Uber Money**.   Perusahaan uber menawarkan Microloan untuk para driver, 
+### **Grab**
 
-Di Asia, Grab telah mendapatkan dukungan dari **Monetary Authority of Singapore** (MAS) untuk membangun bank digital.
+Tidak ada yang akan mengira di masa depan saat startups **ride-hailing**, yang bertransformasi menjadi superapps akhirnya juga menyediakan layanan **financial** seperti pinjaman, asuransi, pembayaran dan investasi melalui **mobile application** yang mereka sediakan.
+
+Di Asia, **Grab** telah mendapatkan dukungan dari **Monetary Authority of Singapore** (**MAS**) untuk membangun bank digital. Masyarakat dapat melakukan deposit pada bank digital dan mendapatkan layanan perbankan seperti pada umumnya, Bank Digital akan mulai beroperasi pada tahun 2022.
 
 ### **CBDC (Central Bank Digital Currency)**
 
