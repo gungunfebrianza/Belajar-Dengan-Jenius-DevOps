@@ -134,13 +134,15 @@ Selain itu perbankan juga di hantui perusahaan-perusahaan raksasa seperti **Face
 
 Selain perusahaan-perusahaan raksasa tersebut, perusahaan **Paypal** juga kini mendukung **cryptocurrency** pada layanan mereka. Terdapat dukungan untuk pengelolaan **bitcoin** dalam perusahaan tersebut.
 
+### Bank Challenges
+
 Banyak dan besar sekali ya tantangan perbankan?
 
 Kalau diamati secara detail penyebabnya adalah **bank** sebagai pemain besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
-Bank juga mengalami struggling di lini :
+Bank juga mengalami **struggling** di lini :
 
 - **Legacy IT System** 
 
