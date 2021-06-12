@@ -116,19 +116,23 @@ Selain tantangan dari **FinTech**, perbankan juga harus berhadapan dengan tantan
 
 ### **Cryptocurrency**
 
-Selain fintech juga terdapat alternative financial channel lain yang mendisrupsi perbankan salah satunya adalah cryptocurrency.
+Selain **fintech** juga terdapat **alternative financial channel** lain yang mendisrupsi perbankan salah satunya adalah **cryptocurrency**. Tingkat **confidence** masyarakat pada uang kertas (**Fiat**) bisa menurun, masyarakat bisa cenderung lebih senang menyimpannya dalam bentuk **crypto** daripada di bank.
 
 <img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
 
-### Facebook 
+### **Facebook** 
 
-Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
+Selain itu perbankan juga di hantui perusahaan-perusahaan raksasa seperti **Facebook**, **Google**, **Amazon** dan **Apple**, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
 
-### Paypal
+**Facebook** juga kini mengembangkan Diem sebuah **stablecoin**. 
 
-Selain perusahaan-perusahaan raksasa tersebut, perusahaan Paypal juga kini mendukung
+### **Paypal**
 
-Kalau diamati secara detail penyebabnya adalah bank sebagai perusahaan besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
+Selain perusahaan-perusahaan raksasa tersebut, perusahaan **Paypal** juga kini mendukung **cryptocurrency** pada layanan mereka. Terdapat dukungan untuk pengelolaan **bitcoin** dalam perusahaan tersebut.
+
+Banyak dan besar sekali tantangan perbankan.
+
+Kalau diamati secara detail penyebabnya adalah bank sebagai pemain besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
