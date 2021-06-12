@@ -116,15 +116,25 @@ Selain tantangan dari **FinTech**, perbankan juga harus berhadapan dengan tantan
 
 ### **Cryptocurrency**
 
-Selain **fintech** juga terdapat **alternative financial channel** lain yang mendisrupsi perbankan salah satunya adalah **cryptocurrency**. Tingkat **confidence** masyarakat pada uang kertas (**Fiat**) bisa menurun, masyarakat bisa cenderung lebih senang menyimpannya dalam bentuk **crypto** daripada di bank.
+Selain **fintech** juga terdapat **alternative financial channel** lain yang mendisrupsi perbankan salah satunya adalah **cryptocurrency**. Tingkat **confidence** masyarakat pada uang kertas (**Fiat**) bisa menurun, masyarakat bisa cenderung lebih senang menyimpannya dalam bentuk **crypto** daripada di **bank**.
+
+Saking sulitnya diprediksikan perbankan di Texas mencoba untuk beradaptasi dengan cara mengizinkan perbankan untuk bisa mengadopsi **virtual currency**, seperti **bitcoin** dan sebagainya.
 
 <img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
+
+Izin tersebut muncul setelah Negara El Savador mendeklarasikan bahwa **Bitcoin** diperbolehkan sebagai alat transaksi pembayaran yang sah di negaranya. Dibawah ini adalah dokumen paling bersejarah setelah **Whitepaper** yang ditulis oleh **Satoshi Nakamoto** :
+
+<img src="/asset/BitcoinLaw.jpg" style="zoom:100%;" />
+
+<img src="/asset/BitcoinLaw2.jpg" style="zoom:100%;" />
+
+
 
 ### **Facebook** 
 
 Selain itu perbankan juga di hantui perusahaan-perusahaan raksasa seperti **Facebook**, **Google**, **Amazon** dan **Apple**, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
 
-**Facebook** juga kini mengembangkan Diem sebuah **stablecoin**. 
+**Facebook** juga kini mengembangkan **Diem** sebuah **stablecoin**. 
 
 ### **Paypal**
 
