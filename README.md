@@ -51,7 +51,8 @@ Terraform
      - Facebook
      - Paypal
      - Bank Challenges
-       - Mainframe & Cobol Applications
+       - Cobol Applications
+       - Mainframe Computer
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -154,7 +155,7 @@ Bank juga mengalami **struggling** di lini :
 
   Berdasarkan riset yang dibangun oleh **Avanade**, secara mayoritas permasalahan perbankan adalah kesulitan mengakuisisi **DevOps Engineer** dan menerapkan **DevOps Culture**.
 
-#### **Mainframe & Cobol Applications**
+#### **Cobol Applications**
 
 Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. Berdasarkan laporan [thomsonreuters](http://fingfx.thomsonreuters.com/gfx/rngs/USA-BANKS-COBOL/010040KH18J/index.html) di USA 43% sistem perbankan dibangun menggunakan bahasa Cobol :
 
@@ -172,7 +173,23 @@ Tahun ini tepatnya saat buku ini ditulis usia bahasa pemrograman **Cobol** sudah
 
 Terdapat pengesahan regulasi terbaru di new jersey yang baru di sahkan pada tahun 2020, yaitu pemberian uang sebesar  600 dollar perminggu untuk 362 ribu warganya. Namun tantangan yang harus dihadapi pemerintah New Jersey adalah melakukan perubahan kode pemrograman pada sistemnya.
 
-Permasalahannya adalah sistem Unemployment Insurance Software System mereka berusia 40 tahun dan ditulis menggunakan bahasa pemrograman Cobol. Software tersebut telah dioptimasi selama beberapa dekade dan diprogram ulang, namun tidak ada yang sanggup melakukannya sehingga pemerintah New Jersey harus mencari jasa pihak ke 3.
+Permasalahannya adalah sistem **Unemployment Insurance Software System** mereka berusia 40 tahun dan ditulis menggunakan bahasa pemrograman **Cobol**. **Software** tersebut telah dioptimasi selama beberapa dekade dan diprogram ulang, namun tidak ada yang sanggup melakukannya sehingga pemerintah **New Jersey** harus mencari jasa pihak ke 3.
+
+Ahli pemrograman **Cobol**, berkomentar **software** tersebut telah dikembangkan sejak lama kemungkinan para ahli yang memeriksa kode pemrograman tersebut akan berakhir menjadi **Reverse Engineering Project** dimana mereka akan menjadi seorang arkeologis disana. wkwk medoq sekali ya.
+
+<img src="/asset/DevOps-Mainframe4.png" style="zoom:100%;" />
+
+Tantangan terbesar dari **Cobol Programmer** selanjutnya bukan hanya dari bahasa pemrograman **Cobol** itu sendiri tetapi kemampuan untuk memahami teknologi di infrastruktur sebelumnya. Sebab saat menyentuh Aplikasi **Cobol** di **production** tanpa memahami latar belakang dan sejarahnya hanya akan menambahkan resiko.
+
+Itu sebabnya para ahli Cobol berkata :
+
+"*If all the COBOL programs stopped working, the US economy would collapse.*"
+
+#### Mainframe Computer
+
+**Mainframe Computer** adalah teknologi komputer tahun 60an yang kehadirannya menandai revolusi digital di era revolusi industri ke 3, sampai saat ini 92 dari 100 bank terbaik didunia masih menggunakan **Mainframe Computer**. Mainframe adalah monster ketika berhadapan dengan masalah **computation** dan **transaction processing**.
+
+**Mainframe Computer** didesain untuk bisa menangani jutaan transaksi secara conccurent,
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
