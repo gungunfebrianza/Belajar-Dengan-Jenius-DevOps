@@ -48,6 +48,8 @@ Terraform
      - Grab
      - CBDC
      - Cryptocurrency
+     - Facebook
+     - Paypal
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -112,13 +114,17 @@ Selain tantangan dari **FinTech**, perbankan juga harus berhadapan dengan tantan
 
   Eksistensi sistem keuangan terdesentralisasi menjadi ancaman perbankan, untuk itu **central bank** secara global mulai melakukan perlawanan dengan cara menerbitkan mata uang digital mereka sendiri. Langkah ini juga didukung oleh **IMF** (**International Monetary Fund**)
 
-Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
-
 ### **Cryptocurrency**
 
 Selain fintech juga terdapat alternative financial channel lain yang mendisrupsi perbankan salah satunya adalah cryptocurrency.
 
 <img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
+
+### Facebook 
+
+Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
+
+### Paypal
 
 Selain perusahaan-perusahaan raksasa tersebut, perusahaan Paypal juga kini mendukung
 
