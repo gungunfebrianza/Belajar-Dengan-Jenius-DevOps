@@ -189,11 +189,18 @@ Itu sebabnya para ahli Cobol berkata :
 
 **Mainframe Computer** adalah teknologi komputer tahun 60an yang kehadirannya menandai revolusi digital di era revolusi industri ke 3, sampai saat ini 92 dari 100 bank terbaik didunia masih menggunakan **Mainframe Computer**. Mainframe adalah monster ketika berhadapan dengan masalah **computation** dan **transaction processing**.
 
-**Mainframe Computer** didesain untuk bisa menangani jutaan transaksi secara conccurent,
+**Mainframe Computer** didesain untuk bisa menangani jutaan transaksi secara **conccurent**, Pada **Mainframe Computer IBM z13** terdapat kapabilitas untuk memproses **2.5 billion transactions/day**, Sementara pada **Mainframe Computer IBM z15** memiliki kapabilitas untuk memproses **1 trillion transactions/day.**
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
-Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Terakhir mas gun pelajari **Mainframe Computing** dengan **clock speed 5 + GHz** sudah bisa menyelesaikan permasalan perbankan.
+Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Namun kecanggihan **mainframe computer** tetap tidak mengubah statusnya sebagai **Legacy IT System**.
+
+Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
+"Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
+
+
+
+
 
 Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh **Accenture** dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak **sustainable** untuk jangka panjang (**Long Term**)
 
@@ -215,8 +222,7 @@ Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Jul
 
 Dalam 
 
-Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
-"Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
+
 
 ## So What is DevOps?
 
