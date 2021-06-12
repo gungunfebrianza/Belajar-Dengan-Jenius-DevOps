@@ -166,6 +166,14 @@ Begitupun saat kita melakukan penarikan atau belanja menggunakan **ATM** terdapa
 
 Tahun ini tepatnya saat buku ini ditulis usia bahasa pemrograman **Cobol** sudah mencapai 60 tahun, dengan versi terakhir **Cobol 6.3.0**. Bahasa ini lebih tua dari bahasa pemrograman C & C++.
 
+**Mainframe & Cobol** adalah **Legacy IT System** perbankan yang menjadi tantangan untuk melakukan inovasi berkelanjutan. Permasalahan serius yang bisa timbul dalam Legacy IT System ini dapat dipelajari dari kejadian **shortage** **Cobol Programmer** yang menimpa pemerintahan **New Jersey** :
+
+<img src="/asset/DevOps-Mainframe3.png" style="zoom:100%;" />
+
+Terdapat pengesahan regulasi terbaru di new jersey yang baru di sahkan pada tahun 2020, yaitu pemberian uang sebesar  600 dollar perminggu untuk 362 ribu warganya. Namun tantangan yang harus dihadapi pemerintah New Jersey adalah melakukan perubahan kode pemrograman pada sistemnya.
+
+Permasalahannya adalah sistem Unemployment Insurance Software System mereka berusia 40 tahun dan ditulis menggunakan bahasa pemrograman Cobol. Software tersebut telah dioptimasi selama beberapa dekade dan diprogram ulang, namun tidak ada yang sanggup melakukannya sehingga pemerintah New Jersey harus mencari jasa pihak ke 3.
+
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
 Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Terakhir mas gun pelajari **Mainframe Computing** dengan **clock speed 5 + GHz** sudah bisa menyelesaikan permasalan perbankan.
