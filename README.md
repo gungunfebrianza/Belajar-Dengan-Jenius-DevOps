@@ -160,9 +160,11 @@ Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 
 
 <img src="/asset/DevOps-Mainframe1.png" style="zoom:100%;" />
 
-Begitupun saat kita melakukan penarikan atau belanja menggunakan ATM terdapat 95% kode cobol yang dieksekusi. Sistem perpajakan yang dibangun pemerintahan USA, yaitu IRS juga masih mengandalkan **Mainframe Computer** dan aplikasi **Cobol**. 
+Begitupun saat kita melakukan penarikan atau belanja menggunakan **ATM** terdapat 95% kode **Cobol** yang dieksekusi. Sistem perpajakan yang dibangun pemerintahan **USA**, yaitu **IRS** juga masih mengandalkan **Mainframe Computer** dan aplikasi **Cobol**. 
 
+<img src="/asset/DevOps-Mainframe2.png" style="zoom:100%;" />
 
+Tahun ini tepatnya saat buku ini ditulis usia bahasa pemrograman **Cobol** sudah mencapai 60 tahun, dengan versi terakhir **Cobol 6.3.0**. Bahasa ini lebih tua dari bahasa pemrograman C & C++.
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
