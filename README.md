@@ -122,31 +122,35 @@ Saking sulitnya diprediksikan perbankan di Texas mencoba untuk beradaptasi denga
 
 <img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
 
-Izin tersebut muncul setelah Negara **El Savador** mendeklarasikan bahwa **Bitcoin** diperbolehkan sebagai alat transaksi pembayaran yang sah di negaranya. Dibawah ini adalah dokumen paling bersejarah setelah **Whitepaper** yang ditulis oleh **Satoshi Nakamoto** :
-
-<img src="/asset/BitcoinLaw.jpg" style="zoom:60%;" />
-
-<img src="/asset/BitcoinLaw2.jpg" style="zoom:60%;" />
-
-
+Izin tersebut muncul setelah Negara El Savador mendeklarasikan bahwa **Bitcoin** diperbolehkan sebagai alat transaksi pembayaran yang sah di negaranya. 
 
 ### **Facebook** 
 
 Selain itu perbankan juga di hantui perusahaan-perusahaan raksasa seperti **Facebook**, **Google**, **Amazon** dan **Apple**, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
 
-**Facebook** juga kini mengembangkan **Diem** sebuah **stablecoin**. 
+**Facebook** juga kini mengembangkan **Diem** sebuah **stablecoin**, dengan kemampuan skalabilitas yang bisa membangun milyaran akun disertai kemampuan transaksi dengan kecepatan tinggi.
 
 ### **Paypal**
 
 Selain perusahaan-perusahaan raksasa tersebut, perusahaan **Paypal** juga kini mendukung **cryptocurrency** pada layanan mereka. Terdapat dukungan untuk pengelolaan **bitcoin** dalam perusahaan tersebut.
 
-Banyak dan besar sekali tantangan perbankan.
+Banyak dan besar sekali ya tantangan perbankan?
 
-Kalau diamati secara detail penyebabnya adalah bank sebagai pemain besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
+Kalau diamati secara detail penyebabnya adalah **bank** sebagai pemain besar kehilangan kemampuan untuk membangun sistem IT yang **cost-effective**. Wajar saja untuk ukuran perbankan pasti berhadapan dengan penyakit **Corporate Inefficiency**, semakin besar semakin lamban perkembangannya.
 
 <img src="/asset/DevOps-Intro-0.png" style="zoom:100%;" />
 
-Terlebih perbankan saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
+Bank juga mengalami struggling di lini :
+
+- **Legacy IT System** 
+
+  Tantangan resiko keamanan (**security risk**) pada **Legacy IT System** masih menjadi tantangan untuk melakukan **Digital Transformation**.
+
+- **Lack of DevOps Skill**
+
+  Berdasarkan riset yang dibangun oleh **Avanade**, secara mayoritas permasalahan perbankan adalah kesulitan mengakuisisi **DevOps Engineer** dan menerapkan **DevOps Culture**.
+
+Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
