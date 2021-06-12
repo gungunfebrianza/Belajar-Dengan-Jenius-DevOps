@@ -47,6 +47,7 @@ Terraform
      - Robinhood
      - Grab
      - CBDC
+     - Cryptocurrency
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -67,13 +68,13 @@ Terraform
 
 Okay karena mas Gun seneng banget dengan dunia **FinTech** dan teknologi perbankan, ini jadi pembahasan awal menarik. Sebagai generasi yang lahir tahun 90an mas Gun melihat perusahaan di bidang **FinTech** melakukan disrupsi besar-besaran di dunia perbankan. 
 
-Tahun 1994, Microsoft Founder Bill Gates membuat statement menarik : 
+Tahun 1994, **Microsoft Founder Bill Gates** membuat **statement** menarik : 
 
 *“Banking is necessary, banks are not”*
 
 **FintTech** atau **Financial Technology** adalah perusahaan yang memberikan layanan keuangan sama seperti **bank**. Kecepatan mereka untuk akuisisi **customer** bersifat disruptif untuk perbankan, meskipun begitu jangkauan disrupsi **FinTech** masih terbatas regulasi. Terdapat regulasi yang membatasi jumlah dana yang dapat di transaksikan.
 
-Startup tersebut diantaranya adalah :
+**Startup** dan perusahaan tersebut diantaranya adalah :
 
 ### **Wise (Transferwise)**
 
@@ -95,13 +96,13 @@ Kini mereka juga menyediakan layanan **Debit Card** diseluruh dunia selama tempa
 
 ### **Grab**
 
-Tidak ada yang akan mengira di masa depan saat startups **ride-hailing**, yang bertransformasi menjadi superapps akhirnya juga menyediakan layanan **financial** seperti pinjaman, asuransi, pembayaran dan investasi melalui **mobile application** yang mereka sediakan.
+Tidak ada yang akan mengira di masa depan saat startups **ride-hailing**, yang bertransformasi menjadi **Super Apps** akhirnya juga menyediakan layanan **financial** seperti pinjaman, asuransi, pembayaran dan investasi melalui **mobile application** yang mereka sediakan.
 
-Di Asia, **Grab** telah mendapatkan dukungan dari **Monetary Authority of Singapore** (**MAS**) untuk membangun bank digital. Masyarakat dapat melakukan deposit pada bank digital dan mendapatkan layanan perbankan seperti pada umumnya, Bank Digital akan mulai beroperasi pada tahun 2022.
+Di Asia, **Grab** telah mendapatkan dukungan dari **Monetary Authority of Singapore** (**MAS**) untuk membangun bank digital. Masyarakat dapat melakukan deposit pada bank digital dan mendapatkan layanan perbankan seperti pada umumnya, **Bank Digital** akan mulai beroperasi pada tahun 2022.
 
 ### **CBDC (Central Bank Digital Currency)**
 
-Pada tanggal 8 Juni 2021 **Hong Kong Monetary Authority (HKMA)** meluncurkan strategi **FinTech 2025**. Dalam strategi tersebut terdapat [5 Fokus Area](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2021/06/20210608-4/) diantaranya adalah :
+Selain tantangan dari **FinTech**, perbankan juga harus berhadapan dengan tantangan untuk berinovasi dan beradaptasi dengan regulasi. Pada tanggal 8 Juni 2021 **Hong Kong Monetary Authority (HKMA)** meluncurkan strategi **FinTech 2025**. Dalam strategi tersebut terdapat [5 Fokus Area](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2021/06/20210608-4/) diantaranya adalah :
 
 - **All Bank Go to Fintech**
 
@@ -112,6 +113,8 @@ Pada tanggal 8 Juni 2021 **Hong Kong Monetary Authority (HKMA)** meluncurkan str
   Eksistensi sistem keuangan terdesentralisasi menjadi ancaman perbankan, untuk itu **central bank** secara global mulai melakukan perlawanan dengan cara menerbitkan mata uang digital mereka sendiri. Langkah ini juga didukung oleh **IMF** (**International Monetary Fund**)
 
 Selain itu mereka juga di hantui perusahaan-perusahaan raksasa seperti Facebook, Google, Amazon dan Apple, kompetitor-kompetitor dengan skala rivalitas yang sangat sulit ditandingi. 
+
+### **Cryptocurrency**
 
 Selain fintech juga terdapat alternative financial channel lain yang mendisrupsi perbankan salah satunya adalah cryptocurrency.
 
@@ -147,6 +150,8 @@ Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Jul
 
 “*When I look at disruptors in the financial services space, they exploit speed. That is the cheat code to survive*” 
 
+Dalam 
+
 Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
 "Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
 
@@ -164,7 +169,7 @@ Industri skala besar seperti perbankan atau **e-commerce** mereka mungkin memili
 
 <img src="/asset/DevOps-Advantage.png" style="zoom:100%;" />
 
-**Julienne McLean** konsultan perbankan **JPMorgan Chase** juga berkata dengan menerapkan DevOps, CI/CD, dan **Automations** mereka bisa mempercepat rilis product secara signifikan. Manfaat besar lainnya **developer** bisa menjadi lebih fokus mengerjakan hal-hal yang mereka sukai untuk lebih kreatif dan inovatif.
+**Julienne McLean** konsultan perbankan **JPMorgan Chase** juga berkata dengan menerapkan **DevOps**, **CI/CD**, dan **Automations** mereka bisa mempercepat rilis product secara signifikan. Manfaat besar lainnya **developer** bisa menjadi lebih fokus mengerjakan hal-hal yang mereka sukai untuk lebih kreatif dan inovatif.
 
 Jadi peran akhir seorang **DevOps** untuk **enterprise**, dapat dilihat dari seberapa besar **cost** yang bisa ditekan dan kualitas **IT System** yang sangat mumpuni (**High Impact**). 
 
