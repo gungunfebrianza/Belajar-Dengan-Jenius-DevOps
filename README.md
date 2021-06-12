@@ -122,11 +122,11 @@ Saking sulitnya diprediksikan perbankan di Texas mencoba untuk beradaptasi denga
 
 <img src="/asset/BankBitcoin.jpg" style="zoom:80%;" />
 
-Izin tersebut muncul setelah Negara El Savador mendeklarasikan bahwa **Bitcoin** diperbolehkan sebagai alat transaksi pembayaran yang sah di negaranya. Dibawah ini adalah dokumen paling bersejarah setelah **Whitepaper** yang ditulis oleh **Satoshi Nakamoto** :
+Izin tersebut muncul setelah Negara **El Savador** mendeklarasikan bahwa **Bitcoin** diperbolehkan sebagai alat transaksi pembayaran yang sah di negaranya. Dibawah ini adalah dokumen paling bersejarah setelah **Whitepaper** yang ditulis oleh **Satoshi Nakamoto** :
 
-<img src="/asset/BitcoinLaw.jpg" style="zoom:100%;" />
+<img src="/asset/BitcoinLaw.jpg" style="zoom:60%;" />
 
-<img src="/asset/BitcoinLaw2.jpg" style="zoom:100%;" />
+<img src="/asset/BitcoinLaw2.jpg" style="zoom:60%;" />
 
 
 
