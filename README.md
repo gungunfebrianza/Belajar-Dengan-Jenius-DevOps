@@ -50,6 +50,8 @@ Terraform
      - Cryptocurrency
      - Facebook
      - Paypal
+     - Bank Challenges
+       - Mainframe & Cobol Applications
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -134,7 +136,7 @@ Selain itu perbankan juga di hantui perusahaan-perusahaan raksasa seperti **Face
 
 Selain perusahaan-perusahaan raksasa tersebut, perusahaan **Paypal** juga kini mendukung **cryptocurrency** pada layanan mereka. Terdapat dukungan untuk pengelolaan **bitcoin** dalam perusahaan tersebut.
 
-### Bank Challenges
+### **Bank Challenges**
 
 Banyak dan besar sekali ya tantangan perbankan?
 
@@ -152,7 +154,15 @@ Bank juga mengalami **struggling** di lini :
 
   Berdasarkan riset yang dibangun oleh **Avanade**, secara mayoritas permasalahan perbankan adalah kesulitan mengakuisisi **DevOps Engineer** dan menerapkan **DevOps Culture**.
 
-Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. 
+#### **Mainframe & Cobol Applications**
+
+Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. Berdasarkan laporan [thomsonreuters](http://fingfx.thomsonreuters.com/gfx/rngs/USA-BANKS-COBOL/010040KH18J/index.html) di USA 43% sistem perbankan dibangun menggunakan bahasa Cobol :
+
+<img src="/asset/DevOps-Mainframe1.png" style="zoom:100%;" />
+
+Begitupun saat kita melakukan penarikan atau belanja menggunakan ATM terdapat 95% kode cobol yang dieksekusi. Sistem perpajakan yang dibangun pemerintahan USA, yaitu IRS juga masih mengandalkan **Mainframe Computer** dan aplikasi **Cobol**. 
+
+
 
 **Mainframe Computing** masih dianggap lebih **Reliable**, karena akurasinya untuk menyelesaikan komputasi pada **decimal arithmetic**. Juga kemampuan **Mainframe Computing** memproses jutaan transaksi perdetik, masalah **Availability** mendikte perbankan untuk tidak boleh mengalami **downtime**.
 
