@@ -351,9 +351,7 @@ Ketika kita berbicara **CI**, **CD**, **Continuous Delivery** atau **Continuos M
 
 Jika kegiatan **Release Management** dilakukan oleh salah seorang **Developer** dikomputer atau laptopnya sendiri, mulai dari **update master branch**, setup **docker image**, **build**, **test** sampai rilis di **production** dilakukan dikomputernya sendiri ini sangat tidak efektif dan metode pengembangan **software** yang salah (**Bad Practice**).
 
-
-
-Untuk melakukan **Continuous Integration (CI)**, diperlukan **Source Code Manager** dan **CI Tools** :
+Semua bisa di otomasi dengan memanfaatkan sebuah **server** yang kita buat secara khusus. Untuk melakukan **Continuous Integration (CI)**, diperlukan **Source Code Manager** dan **CI Tools** :
 
 <img src="/asset/DevOps-CI.png" style="zoom:100%;" />
 
@@ -395,9 +393,11 @@ Terdapat Infrastruktur baru yang juga sudah menyediakan aplikasi terbaru yang se
 
 Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
-#### Continues Monitoring
+#### Continues Monitoring 
 
+#### Infrastructure as Code (IaC)
 
+**IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan Cloud Computing.
 
 ## Agile Software Development
 
