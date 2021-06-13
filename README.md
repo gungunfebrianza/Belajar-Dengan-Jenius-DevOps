@@ -199,15 +199,13 @@ Pengembangan **applications** pada **Mainframe Computer** masih menggunakan **Tr
 
 "**Bank** memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
 
+Terdapat inisiatif untuk menerapkan **DevOps** pada **Mainframe Computer** yang di gagas oleh **[Open Mainframe Project](https://www.openmainframeproject.org/about)** di bawah payung **[The Linux Foundation](https://www.linuxfoundation.org/projects)**. Inisiatif itu diwujudkan dengan membuat sebuah **Open Source Framework** yang diberi nama dengan **Zowe**.
 
-
-
+<img src="/asset/openmainframeproject-color.svg" style="zoom:30%;" />
 
 Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh **Accenture** dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak **sustainable** untuk jangka panjang (**Long Term**)
 
-Sebagian perbankan di indonesia saat ini masih ragu untuk melakukan migrasi dari **Mainframe Computing** kelayanan **Cloud Computing**. Jika memang sudah **feasible**, **software engineer** dengan spesialisasi **cloud computing** mampu membuat replikasi beberapa produk dan layanan perbankan.
 
-**Bank** di anggap akan lebih **agile** jika sudah menemukan alasan untuk migrasi ke **cloud**. Sementara layanan **cloud** lebih dinamis dan bisa memberikan fungsi-fungsi yang menarik untuk perbankan. Layanan **Cloud Computing** secara **DevOps** sangat **fluid** bisa menyesuaikan diri sesuai dengan kebutuhan komputasi perbankan yang sangat dinamis.
 
 Disisi lain **startup FinTech** dengan skala kecil sampai menengah mulai mendisrupsi perbankan. Kapabilitas mereka yang bisa dengan cepat membangun **High Impact IT System** dan **Break Things Faster** jadi andalannya di pasar. 
 
