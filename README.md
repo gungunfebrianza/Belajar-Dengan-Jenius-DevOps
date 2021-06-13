@@ -397,7 +397,9 @@ Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **clo
 
 #### Infrastructure as Code (IaC)
 
-**IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan Cloud Computing.
+**IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan **Cloud Computing**. **IaC** mengurangi kompleksitas pembangunan infrastruktur secara manual, hanya dengan menulis kode 
+
+Pada **AWS** dengan **AWS VPC** (**Virtual Private Cloud**) kita dapat membangun sebuah **data center** secara **cloud**. Dengan **VPC**, kita dapat membangun **private network** sendiri yang sama persis dengan **traditional data center** pada umumnya. Hanya saja dengan **AWS** kita memiliki kemampuan scalability yang lebih dinamis.
 
 ## Agile Software Development
 
