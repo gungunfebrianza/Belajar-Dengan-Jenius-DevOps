@@ -195,8 +195,9 @@ Itu sebabnya para ahli Cobol berkata :
 
 Selain dukungan **cryptography** di level **hardware**, kecepatan analitik juga menjadi tuntutan utama agar sistem **ATM**, **Credit Card** dan internal perbankan yang memerlukan respon dengan kecepatan **instant**. Namun kecanggihan **mainframe computer** tetap tidak mengubah statusnya sebagai **Legacy IT System**.
 
-Menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
-"Bank memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
+Pengembangan **applications** pada **Mainframe Computer** masih menggunakan **Traditional Software Development**. Pemanfaatan **DevOps** juga seringkali dianggap tidak **reliable**, padahal menurut **Jonathan Webster**, Former **CIO Lloyd Banking Group Digital** :
+
+"**Bank** memiliki banyak **engineer** dengan talenta yang dapat diandalkan untuk mendukung **mainframe computer** dalam sistem perbankan mereka. Tim tersebut dapat digunakan untuk mengembangkan kembali **legacy system** yang telah dibangun, namun kebanyakan tim tersebut tidak digunakan karena terdapat miskonsepsi bahwa praktek **DevOps** tidak dapat diterapkan dalam **mainframe computer** dan **legacy system**. Anda bisa dan harus melakukannya."
 
 
 
