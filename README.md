@@ -397,11 +397,17 @@ Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **clo
 
 #### Infrastructure as Code (IaC)
 
-**IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan **Cloud Computing**. **IaC** mengurangi kompleksitas pembangunan infrastruktur secara manual, hanya dengan menulis kode 
+**IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan **Cloud Computing**. Jika sebelumnya anda menulis kode untuk membangun sebuah program, kini anda dapat menulis kode untuk membangun sebuah infrastruktur. 
+
+Kita akan menulis sebuah **script** yang merepresentasikan sebuah infrastruktur.
+
+**IaC** mengurangi kompleksitas pembangunan infrastruktur secara manual, **IaC** menyelesaikan permasalahan seperti konfigurasi ulang desain **data center** atau pembangunan ulang infrastruktur yang sama namun di **region** yang berbeda. Kini pekerjaan di atas bisa lebih dipermudah.
+
+<img src="/asset/DevOps-IaC.png" style="zoom:100%;" />
 
 Pada **AWS** dengan **AWS VPC** (**Virtual Private Cloud**) kita dapat membangun sebuah **data center** secara **cloud**. Dengan **VPC**, kita dapat membangun **private network** sendiri yang sama persis dengan **traditional data center** pada umumnya. Hanya saja dengan **AWS** kita memiliki kemampuan **scalability** yang lebih dinamis.
 
-Tidak perlu lagi menunggu berbulan-bulan untuk membangun sebuah data center, dengan **AWS VPC** kita dapat melakukannya hanya dengan beberapa klik saja. **AWS** juga mempermudah kita untuk bisa membangun **VPC** di berbagai **region** untuk pengamanan data infrastruktur yang lebih baik.
+Tidak perlu lagi menunggu berbulan-bulan untuk membangun sebuah **Data Center**, dengan **AWS VPC** kita dapat melakukannya hanya dengan beberapa klik saja. **AWS** juga mempermudah kita untuk bisa membangun **VPC** di berbagai **region** untuk pengamanan data infrastruktur yang lebih baik.
 
 ## Agile Software Development
 
