@@ -349,6 +349,10 @@ Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies*
 
 Ketika kita berbicara **CI**, **CD**, **Continuous Delivery** atau **Continuos Monitoring** maka artinya kita sedang melakukan membicarakan sebuah **Automation**. Sebuah proses kerja yang dapat mempermudah tim (**Dev** & **Ops**) untuk bisa memberikan **delivery value** dengan optimal.
 
+Jika kegiatan **Release Management** dilakukan oleh salah seorang **Developer** dikomputer atau laptopnya sendiri, mulai dari **update master branch**, setup **docker image**, **build**, **test** sampai rilis di **production** dilakukan dikomputernya sendiri ini sangat tidak efektif dan metode pengembangan **software** yang salah (**Bad Practice**).
+
+
+
 Untuk melakukan **Continuous Integration (CI)**, diperlukan **Source Code Manager** dan **CI Tools** :
 
 <img src="/asset/DevOps-CI.png" style="zoom:100%;" />
