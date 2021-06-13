@@ -347,6 +347,8 @@ Untuk bisa memahami **CI/CD** kita perlu memahami beberapa **stack technologies*
 
 #### Continuous Integration (CI)
 
+Ketika kita berbicara **CI**, **CD**, **Continuous Delivery** atau **Continuos Monitoring** maka artinya kita sedang melakukan membicarakan sebuah **Automation**. Sebuah proses kerja yang dapat mempermudah tim (**Dev** & **Ops**) untuk bisa memberikan **delivery value** dengan optimal.
+
 Untuk melakukan **Continuous Integration (CI)**, diperlukan **Source Code Manager** dan **CI Tools** :
 
 <img src="/asset/DevOps-CI.png" style="zoom:100%;" />
@@ -359,7 +361,7 @@ Selanjutnya dalam **CI Tools** kita dapat membaca seluruh kegiatan otomasi apaka
 
 <img src="/asset/Report.png" style="zoom:30%;" />
 
-Manfaat dari kegiatan ini adalah kita dapat mendeteksi sebuah **issue** yang tidak diinginkan lebih awal, dan terhindar dari masalah **integration hell** yang sering terjadi dalam sebuah **startup**.
+Manfaat dari kegiatan ini adalah kita dapat mendeteksi sebuah **issue** yang tidak diinginkan lebih awal, dan terhindar dari masalah **integration hell** yang sering terjadi dalam sebuah **startup**. Memperbaiki **bug** yang sudah memasuki **production**, terdapat biaya besar yang harus ditanggung, jadi lebih bijak di deteksi lebih awal. 
 
 #### Continuous Delivery (CD)
 
@@ -388,6 +390,10 @@ Pada **Continuous Deployment** tipe **deployment** yang digunakan biasanya **Blu
 Terdapat Infrastruktur baru yang juga sudah menyediakan aplikasi terbaru yang sedang berjalan, juga mempertahankan infrastruktur lama dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
 
 Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
+
+#### Continues Monitoring
+
+
 
 ## Agile Software Development
 
