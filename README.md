@@ -53,6 +53,7 @@ Terraform
      - Bank Challenges
        - Cobol Applications
        - Mainframe Computer
+   - DevOps & Disruption
    - So What is DevOps?
    - DevOps As Emerging Role
      - Traditional Software Development
@@ -203,9 +204,13 @@ Terdapat inisiatif untuk menerapkan **DevOps** pada **Mainframe Computer** yang 
 
 <img src="/asset/openmainframeproject-color.svg" style="zoom:30%;" />
 
-Jika dikaji lebih serius penggunaan **Mainframe Computing** memiliki beban biaya yang mahal dan gak **economies of scale**, berdasarkan laporan yang dibuat oleh **Accenture** dengan judul **Reframe your Mainframe** dikatakan bahwa **Mainframe Computing** dikatakan tidak **sustainable** untuk jangka panjang (**Long Term**)
+**Zowe** membantu penerapan **DevOps** dan **Agile Software Development** pada **Legacy IT System**. Di bawah ini adalah contoh penerapan bagaimana kita dapat menguji aplikasi atau kode **cobol** yang ada pada **Endevor** untuk diterapkan sebagai proses CI. **Output** yang diharapkan adalah hasil dari **Static Code Analysis** aplikasi atau kode **cobol**.
 
+<img src="/asset/DevOps-Zowe.png" style="zoom:100%;" />
 
+Di atas adalah contoh bagaimana penerapan **DevOps Tooling** untuk studi kasus **static code analysis** pada **Legacy IT System**, penerapan **DevOps** dan **Agile Software Development** menjadi harapan untuk perbankan agar bisa bersaing dintengah kompetisi yang sangat ketat.
+
+## DevOps & Disruption
 
 Disisi lain **startup FinTech** dengan skala kecil sampai menengah mulai mendisrupsi perbankan. Kapabilitas mereka yang bisa dengan cepat membangun **High Impact IT System** dan **Break Things Faster** jadi andalannya di pasar. 
 
@@ -219,13 +224,13 @@ Saat acara virtual [Devops World](https://www.cloudbees.com/devops-world), **Jul
 
 “*When I look at disruptors in the financial services space, they exploit speed. That is the cheat code to survive*” 
 
-Dalam 
-
-
-
 ## So What is DevOps?
 
-**DevOps** adalah peran baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, **e-commerce** dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
+<img src="/asset/DevOps-Engineer.png" style="zoom:50%;" />
+
+**DevOps** adalah sebuah profesi, seorang **DevOps engineer** akan memperkenalkan bagaimana cara menerapkan sebuah **DevOps Culture**, **DevOps Tools** dan **DevOps Process**. Semua itu dilakukan agar **DevOps Engineer** bisa membantu tim, startup atau perusahaanya bisa melakukan **delivery business value** dengan cepat.
+
+**DevOps Engineer** baru yang kini eksistensinya vital dalam industry IT, mulai dari sektor perbankan, keuangan, **e-commerce** dan sebagainya. Sekali lagi kenapa figur **DevOps** di anggap sangat vital? karena figur **DevOps** dapat membantu **To Break things faster** mempercepat **delivery business value** untuk user. 
 
 Figur **DevOps** membuat, perusahaan atau startup bisa berkompetisi dengan baik dipasar, sehingga pasar menjadi lebih kompetitif. Eksistensi **DevOps** membuat perusahaan yang tidak mampu bersaing secara kompetitif memiliki resiko kegagalan yang lebih besar.
 
