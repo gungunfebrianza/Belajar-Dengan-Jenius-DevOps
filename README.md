@@ -432,6 +432,8 @@ Oleh karena itu menjadi tantangan tersendiri untuk seorang **DevOps Engineer** u
 
 <img src="/asset/WebSecurityRoot.png" style="zoom:100%;" />
 
+Saking luasnya jadi nilai lebih bagi seorang **DevOps** jika berkolaborasi dengan **team** yang juga membidangi masalah **security** dalam suatu perusahaan atau startup.
+
 #### Infrastructure as Code (IaC)
 
 **IaC** adalah sebuah **best practice** dalam **DevOps** bagaimana cara membuat sebuah **programmable infrastructure** pada layanan **Cloud Computing**. Jika sebelumnya anda menulis kode untuk membangun sebuah program, kini anda dapat menulis kode untuk membangun sebuah infrastruktur. 
