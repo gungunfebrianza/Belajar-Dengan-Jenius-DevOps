@@ -73,6 +73,7 @@ SonarQube | ZAP
        - Continuous Delivery (CD)
        - Continuous Deployment
        - Continuous Monitoring
+       - DevSecOps
        - Infrastructure as Code (IaC)
    - Agile Software Development
      - Quick Understanding Market
@@ -416,6 +417,12 @@ Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru 
 Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika terdapat informasi penting dari sistem yang kita buat. Di bawah ini adalah runutan proses yang dilakukan pada **Continuous Monitoring** :
 
 <img src="/asset/DevOps-Monitoring.png" style="zoom:100%;" />
+
+#### DevSecOps
+
+DevSecOps adalah terminologi keren yang lagi populer di kalangan DevOps
+
+<img src="/asset/DevOps-Security.png" style="zoom:100%;" />
 
 #### Infrastructure as Code (IaC)
 
