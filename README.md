@@ -36,7 +36,11 @@ Kubernetes
 
 **Provisioning** : 
 
-Terraform
+Terraform | AWS CloudFormation
+
+**Configuration Provisioning** : 
+
+Ansible
 
 ## Content Tables
 
