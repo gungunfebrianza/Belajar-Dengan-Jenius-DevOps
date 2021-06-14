@@ -393,9 +393,15 @@ Pada **Continuous Deployment** otomasi **deployment application** terjadi semenj
 
 Sehingga jarang sekali dilakukan oleh perusahaan-perusahaan yang menganut **devops**, hanya perusahaan-perusahaan yang sudah memiliki para **engineers** dengan kemampuan seperti pasukan **avengers** biasanya melakukan ini.
 
-Pada **Continuous Deployment** tipe **deployment** yang digunakan biasanya **Blue/Green Deployment**. Kita akan membangun sebuah replikasi infrastruktur untuk periode jangka pendek. 
+Pada **Continuous Deployment** tipe **deployment** yang digunakan biasanya **Blue/Green Deployment**. Kita akan membangun sebuah replikasi infrastruktur dari **production** untuk periode jangka pendek. Infrastruktur saat ini disebut dengan **Blue** dan replika infrstruktur disebut dengan **Green**.
 
-Terdapat Infrastruktur baru yang juga sudah menyediakan aplikasi terbaru yang sedang berjalan, juga mempertahankan infrastruktur lama dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
+Inti dari **Blue/Green Deployment** adalah manajemen **traffic**.
+
+<img src="/asset/DevOps-BlueGreenDeployment.png" style="zoom:100%;" />
+
+Pada gambar di atas terdapat ilustrasi **Blue/Green Deployment** menggunakan layanan AWS (**Amazon Route 53**). Terdapat Infrastruktur baru (**Green**) yang juga sudah menyediakan aplikasi terbaru, juga terdapat infrastruktur lama (**Blue**) dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. 
+
+Jika **Green** sudah sudah maka traffic akan di alihkan menuju Green Infrastructure. Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
 
 Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
