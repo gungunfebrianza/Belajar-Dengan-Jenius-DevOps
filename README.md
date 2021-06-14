@@ -395,17 +395,17 @@ Sehingga jarang sekali dilakukan oleh perusahaan-perusahaan yang menganut **devo
 
 Pada **Continuous Deployment** tipe **deployment** yang digunakan biasanya **Blue/Green Deployment**. Kita akan membangun sebuah replikasi infrastruktur dari **production** untuk periode jangka pendek. Infrastruktur saat ini disebut dengan **Blue** dan replika infrstruktur disebut dengan **Green**.
 
-Inti dari **Blue/Green Deployment** adalah manajemen **traffic**.
+Inti dari **Blue/Green Deployment** adalah manajemen **traffic**. 
 
 <img src="/asset/DevOps-BlueGreenDeployment.png" style="zoom:100%;" />
 
 Pada gambar di atas terdapat ilustrasi **Blue/Green Deployment** menggunakan layanan AWS (**Amazon Route 53**). Terdapat Infrastruktur baru (**Green**) yang juga sudah menyediakan aplikasi terbaru, juga terdapat infrastruktur lama (**Blue**) dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. 
 
-Jika **Green** sudah sudah maka **traffic** akan di alihkan dari **Blue Infrastructure** menuju **Green Infrastructure**. Jika terdapat masalah yang teridentifikasi, rollback bisa dilakukan dengan cepat tinggal revert kembali traffic dari **Green Infrastructure** ke **Blue Infrastructure**.
+Jika **Green** sudah sudah maka **traffic** akan di alihkan dari **Blue Infrastructure** menuju **Green Infrastructure**. Jika terdapat masalah yang teridentifikasi, **rollback** bisa dilakukan dengan cepat tinggal **revert** kembali **traffic** dari **Green Infrastructure** ke **Blue Infrastructure**.
 
-Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
+Secara teknis biasanya **Canary Testing** akan dilakukan yaitu sebagian kecil **traffic** akan diuji coba, misal **90%** **traffic** memasuki **Blue Infrastructure** dan **10%** menuju **Green Infrastructure**. Strategy ini membantu mengurangi resiko saat **deployment**, **Quick Rollback** dapat diterapkan dan mencegah problema **downtime**.
 
-Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
+Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan. Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
 #### Continues Monitoring 
 
