@@ -401,7 +401,9 @@ Inti dari **Blue/Green Deployment** adalah manajemen **traffic**.
 
 Pada gambar di atas terdapat ilustrasi **Blue/Green Deployment** menggunakan layanan AWS (**Amazon Route 53**). Terdapat Infrastruktur baru (**Green**) yang juga sudah menyediakan aplikasi terbaru, juga terdapat infrastruktur lama (**Blue**) dengan aplikasi sebelumnya yang tetap berjalan sampai uji coba dianggap selesai. 
 
-Jika **Green** sudah sudah maka traffic akan di alihkan menuju Green Infrastructure. Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
+Jika **Green** sudah sudah maka **traffic** akan di alihkan dari **Blue Infrastructure** menuju **Green Infrastructure**. Jika terdapat masalah yang teridentifikasi, rollback bisa dilakukan dengan cepat tinggal revert kembali traffic dari **Green Infrastructure** ke **Blue Infrastructure**.
+
+Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan.
 
 Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
