@@ -424,7 +424,7 @@ Terdapat dua tipe **monitoring** yang dapat kita lakukan yaitu :
 
 **Black Box Monitoring** adalah kegiatan untuk melakukan observasi dengan sekup diluar sistem, tanpa melakukan observasi pada keseluruhan infrastruktur secara internal. **Metrics** yang diukur diantaranya adalah **latency** dan **throughput** yang akan dirasakan oleh user.
 
-**Latency** mengukur berapa lama sistem pada infrastruktur mampu memberikan respon setelah user melakukan permintaan. Contoh permintaan dapat berupa **HTTP Request**, **remote server** akan membalasnya dengan memberikan **HTTP Response**.
+**Latency** mengukur berapa lama waktu yang diperlukan sistem pada infrastruktur untuk memberikan respon setelah user melakukan permintaan. Contoh permintaan dapat berupa **HTTP Request**, **remote server** akan membalasnya dengan memberikan **HTTP Response**. Semakin cepat maka user akan mendapatkan **experience** yang bagus.
 
 #### DevSecOps
 
