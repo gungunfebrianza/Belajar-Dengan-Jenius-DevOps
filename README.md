@@ -42,6 +42,10 @@ Terraform | AWS CloudFormation
 
 Ansible
 
+**Security Testing** : 
+
+SonarQube | ZAP
+
 ## Content Tables
 
 1. Introduction to DevOps
