@@ -42,6 +42,10 @@ Terraform | AWS CloudFormation
 
 Ansible
 
+**Monitoring Tools** : 
+
+Nagios | Splunk | AppDynamics | Grafana |  Prometheus
+
 **Security Testing** : 
 
 SonarQube | ZAP
@@ -427,8 +431,6 @@ Terdapat dua tipe **monitoring** yang dapat kita lakukan yaitu :
 **Latency** mengukur berapa lama waktu yang diperlukan sistem pada infrastruktur untuk memberikan respon setelah user melakukan permintaan. Contoh permintaan dapat berupa **HTTP Request**, **remote server** akan membalasnya dengan memberikan **HTTP Response**. Semakin cepat maka user akan mendapatkan **experience** yang bagus.
 
 **Throughput** mengukur seberapa banyak permintaan dapat dilayani oleh sistem yang kita bangun, biasanya dalam satuan detik. Pengukuran **throughput** dilakukan pada **stage performance testing**, sehingga dapat digunakan untuk menentukan perencanaan kapabilitas **hardware** saat **production**.
-
-
 
 #### DevSecOps
 
