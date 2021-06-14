@@ -428,9 +428,9 @@ Ada **Developer** yang mampu menulis dengan tingkat keamanan yang baik, ada juga
 
 <img src="/asset/DevOps-Security.png" style="zoom:100%;" />
 
-Oleh karena itu menjadi tantangan tersendiri untuk seorang **DevOps Engineer** untuk mempelajari lebih jauh tentang **Computer Security**. Menjadi nilai lebih dan ekstensi tambahan
+Oleh karena itu menjadi tantangan tersendiri untuk seorang **DevOps Engineer** untuk mempelajari lebih jauh tentang **Computer Security**. Menjadi nilai lebih dan ekstensi tambahan sendiri jika memiliki pengetahuan di bidang **Computer Security** yang amat luas.
 
-
+<img src="/asset/WebSecurityRoot.png" style="zoom:100%;" />
 
 #### Infrastructure as Code (IaC)
 
