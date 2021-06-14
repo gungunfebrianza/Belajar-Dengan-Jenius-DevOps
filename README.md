@@ -411,7 +411,11 @@ Secara teknis biasanya **Canary Testing** akan dilakukan yaitu sebagian kecil **
 
 Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru dengan aplikasi versi terbaru digunakan. Sebelum era **cloud computing** metode ini sangat memakan biaya, namun era **cloud computing** mempermudah dan memperkecil biaya metode **Blue/Green Deployment**.
 
-#### Continues Monitoring 
+#### Continuous Monitoring 
+
+Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika terdapat informasi penting dari sistem yang kita buat. Di bawah ini adalah runutan proses yang dilakukan pada **Continuous Monitoring** :
+
+<img src="/asset/DevOps-Monitoring.png" style="zoom:100%;" />
 
 #### Infrastructure as Code (IaC)
 
