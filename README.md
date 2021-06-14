@@ -418,6 +418,12 @@ Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika te
 
 <img src="/asset/DevOps-Monitoring.png" style="zoom:100%;" />
 
+Terdapat dua tipe **monitoring** yang dapat kita lakukan yaitu :
+
+<img src="/asset/DevOps-Monitoring2.png" style="zoom:100%;" />
+
+**Black Box Monitoring** adalah kegiatan untuk melakukan observasi dengan sekup diluar sistem, tanpa melakukan observasi pada keseluruhan infrastruktur secara internal.
+
 #### DevSecOps
 
 **DevSecOps** secara analogi mirip dengan dunia **programming**, ada istilah **secure programming** & **innocent programming**. 
