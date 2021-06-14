@@ -420,9 +420,11 @@ Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika te
 
 #### DevSecOps
 
-DevSecOps adalah terminologi keren yang lagi populer di kalangan DevOps
+**DevSecOps** adalah terminologi keren yang lagi populer di kalangan **DevOps**, disini peran seorang **DevOps Engineer** harus bisa mengawali pengembangan sistem yang aman dari awal sampai akhir. Secure By Design harus sudah disusun dari awal.
 
 <img src="/asset/DevOps-Security.png" style="zoom:100%;" />
+
+Secara analogi mirip dengan **programming**, ada istilah **secure programming** dan **innocent programming**. Ada **Developer** yang mampu menulis dengan tingkat keamanan yang baik, ada juga **developer** yang menulis kode untuk sekedar jalan saja, **"just works"** tanpa memahami kerentanan (**Vulnerability**) dari kode yang di tulisnya.
 
 #### Infrastructure as Code (IaC)
 
