@@ -418,7 +418,9 @@ Jika sudah selesai infrastruktur lama akan diberhentikan, infrastruktur terbaru 
 
 #### Continuous Monitoring 
 
-Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika terdapat informasi penting dari sistem yang kita buat. Di bawah ini adalah runutan proses yang dilakukan pada **Continuous Monitoring** :
+Tujuan akhir dari **Continuous Monitoring** adalah mengetahui lebih awal jika terdapat informasi penting dari sistem yang kita buat. Informasi dapat berupa **logs** dari **level** **sytem**, **application**, **network** atau **database**, **server health**, user **activity**, **vulnerability** dan sebagainya.
+
+Di bawah ini adalah runutan proses yang dilakukan pada **Continuous Monitoring** :
 
 <img src="/asset/DevOps-Monitoring.png" style="zoom:100%;" />
 
