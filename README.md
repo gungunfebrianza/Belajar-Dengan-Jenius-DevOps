@@ -64,6 +64,8 @@ Terraform
        - Continuous Integration (CI)
        - Continuous Delivery (CD)
        - Continuous Deployment
+       - Continuous Monitoring
+       - Infrastructure as Code (IaC)
    - Agile Software Development
      - Quick Understanding Market
    - Release Management
@@ -409,7 +411,7 @@ Tidak perlu lagi menunggu berbulan-bulan untuk membangun sebuah **Data Center**,
 
 AWS memiliki **AWS CloudFormation** untuk menerapkan **Infrastructure as Code** (**IaC**). Dengan **AWS CloudFormation** kita akan menulis sebuah **script** yang merepresentasikan sebuah infrastruktur, kita akan mempelajari pembahasan **IaC** di sesi khusus.
 
-Selain **AWS CloudFormation** juga terdapat **open source tools** untuk menerapkan **Infrastructure as Code** (**IaC**) yaitu **Terraform**.
+Selain **AWS CloudFormation** juga terdapat **open source tools** untuk menerapkan **Infrastructure as Code** (**IaC**) yaitu **Terraform**. **Tools** yang dibuat oleh **HashiCorp** ini mendukung berbagai **Cloud Service Provider**, selain **AWS** terdapat **GCP**, **Azure** dan lainnya.
 
 ## Agile Software Development
 
