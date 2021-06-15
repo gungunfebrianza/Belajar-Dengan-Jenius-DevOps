@@ -442,7 +442,9 @@ Kita bisa melakukan **monitoring** dari **level system**, **application**, **dat
 
 <img src="/asset/DevOps-Monitoring3.png" style="zoom:100%;" />
 
+Pada **System Monitoring** kita memerlukan informasi seperti **CPU Usage**, **Disk Usage**, **Memory Usage** dan sebagainya.
 
+**Continuous Monitoring** memberikan kita informasi **post mortem analysis** secara **realtime** seperti :
 
 <img src="/asset/DevOps-Monitoring4.png" style="zoom:100%;" />
 
