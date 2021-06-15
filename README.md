@@ -446,7 +446,7 @@ Pada **System Monitoring** kita memerlukan informasi seperti **CPU Usage**, **Di
 
 Pada **Application Monitoring**, seluruh tim dapat mendapatkan informasi dari **application** yang dibuat. Terdapat **Tool** seperti **AppDynamic** yang dapat membantu tim IT memahami **Key Performance Indicator** (KPI) dari **product** terhadap bisnis. 
 
-Terdapat tools **Prometheus** dan **Grafana** yang juga dapat digunakan untuk memonitor sampai level container.
+Terdapat **tools** **Prometheus** dan **Grafana** yang juga dapat digunakan untuk melakukan **monitor** di level **container**. **Prometheus** digunakan untuk memahami **liveness** dan **readiness**, **alerting** dan **application metrics** dan **Grafana** digunakan untuk visualisasi **performance** dan **availability** **metrics**.
 
 **Continuous Monitoring** memberikan kita informasi **post mortem analysis** secara **realtime** seperti :
 
