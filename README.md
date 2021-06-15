@@ -442,7 +442,11 @@ Kita bisa melakukan **monitoring** dari **level system**, **application**, **dat
 
 <img src="/asset/DevOps-Monitoring3.png" style="zoom:100%;" />
 
-Pada **System Monitoring** kita memerlukan informasi seperti **CPU Usage**, **Disk Usage**, **Memory Usage** dan sebagainya.
+Pada **System Monitoring** kita memerlukan informasi seperti **CPU Usage**, **Disk Usage**, **Memory Usage**, **Request per Second**, **Error-rates**, **Response Times**, **Peak Response Times** dan segala bentuk **metrics** yang mempengaruhi transaksi bisnis.
+
+Pada **Application Monitoring**, seluruh tim dapat mendapatkan informasi dari **application** yang dibuat. Terdapat **Tool** seperti **AppDynamic** yang dapat membantu tim IT memahami **Key Performance Indicator** (KPI) dari **product** terhadap bisnis. 
+
+Terdapat tools **Prometheus** dan **Grafana** yang juga dapat digunakan untuk memonitor sampai level container.
 
 **Continuous Monitoring** memberikan kita informasi **post mortem analysis** secara **realtime** seperti :
 
