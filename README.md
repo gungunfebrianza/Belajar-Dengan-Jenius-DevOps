@@ -171,6 +171,8 @@ Bank juga mengalami **struggling** di lini :
 
   Berdasarkan riset yang dibangun oleh **Avanade**, secara mayoritas permasalahan perbankan adalah kesulitan mengakuisisi **DevOps Engineer** dan menerapkan **DevOps Culture**.
 
+<img src="/asset/DevOps-BankProblem.png" style="zoom:100%;" />
+
 #### **Cobol Applications**
 
 Terlebih mayoritas perbankan secara global saat ini masih menggunakan teknologi 90an, **Mainframe Computing** dan Aplikasi yang ditulis menggunakan bahasa tahun 50an, bahasa pemrograman **Cobol**. Berdasarkan laporan [thomsonreuters](http://fingfx.thomsonreuters.com/gfx/rngs/USA-BANKS-COBOL/010040KH18J/index.html) di USA 43% sistem perbankan dibangun menggunakan bahasa Cobol :
@@ -433,6 +435,16 @@ Terdapat dua tipe **monitoring** yang dapat kita lakukan yaitu :
 **Latency** mengukur berapa lama waktu yang diperlukan sistem pada infrastruktur untuk memberikan respon setelah user melakukan permintaan. Contoh permintaan dapat berupa **HTTP Request**, **remote server** akan membalasnya dengan memberikan **HTTP Response**. Semakin cepat maka user akan mendapatkan **experience** yang bagus.
 
 **Throughput** mengukur seberapa banyak permintaan dapat dilayani oleh sistem yang kita bangun, biasanya dalam satuan detik. Pengukuran **throughput** dilakukan pada **stage performance testing**, sehingga dapat digunakan untuk menentukan perencanaan kapabilitas **hardware** saat **production**.
+
+Pada **White Box Monitoring**, kegiatan untuk melakukan observasi cenderung dilakukan di dalam internal infrastruktur itu sendiri. **Metrics** yang diukur dalam **White Box Monitoring** bersifat **fine-grained**, ada banyak sekali klasifikasi dan sangat bercabang **details** di dalamnya.
+
+Kita bisa melakukan **monitoring** dari **level system**, **application**, **database** dan **network** :
+
+<img src="/asset/DevOps-Monitoring3.png" style="zoom:100%;" />
+
+
+
+<img src="/asset/DevOps-Monitoring4.png" style="zoom:100%;" />
 
 #### DevSecOps
 
