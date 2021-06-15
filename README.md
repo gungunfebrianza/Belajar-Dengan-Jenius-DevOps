@@ -448,6 +448,12 @@ Pada **Application Monitoring**, seluruh tim dapat mendapatkan informasi dari **
 
 Terdapat **tools** **Prometheus** dan **Grafana** yang juga dapat digunakan untuk melakukan **monitor** di level **container**. **Prometheus** digunakan untuk memahami **liveness** dan **readiness**, **alerting** dan **application metrics** dan **Grafana** digunakan untuk visualisasi **performance** dan **availability** **metrics**.
 
+**Application Monitoring** tergolong cukup rumit, jika pada production anda menggunakan **java**, maka problem bisa berasal dari aplikasi yang dibuat, **application server** yang digunakan atau **virtual machine** yang digunakan (**JVM**). 
+
+Begitu juga saat menggunakan **Node.js**, kesalahan bisa terdapat pada aplikasi yang kita buat, pada **level application server** atau pada **Node Runtime Engine** itu sendiri.
+
+Pada **Database Monitoring** deteksi penyebab **bottleneck**, **slow query**, **disk I/O** dan pada **Network Monitoring** untuk memastikan infrastruktur yang kita bangun berjalan dengan baik, membaca apakah terjadi **overload data link**, **network connection problem**, monitor **routers**, **switches** dan segala **problem** yang bisa menyebabkan **crash**.
+
 **Continuous Monitoring** memberikan kita informasi **post mortem analysis** secara **realtime** seperti :
 
 <img src="/asset/DevOps-Monitoring4.png" style="zoom:100%;" />
