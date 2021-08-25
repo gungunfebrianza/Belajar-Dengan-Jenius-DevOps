@@ -40,9 +40,10 @@ Di bawah ini adalah contoh informasi dari running instance dalam Amazon EC2 :
 
 Terdapat informasi tambahan lainnya :
 
-| Instance Info |             Value             | Description |
-| :-----------: | :---------------------------: | :---------: |
-|    VPC ID     |         vpc-893ee9ef          |             |
-|   Subnet ID   |        subnet-74cdba2d        |             |
-|   IAM Role    | EC2-Call-All-AWS-Services-Gun |             |
+| Instance Info |             Value             |   Description   |
+| :-----------: | :---------------------------: | :-------------: |
+|    VPC ID     |         vpc-893ee9ef          |                 |
+|   Subnet ID   |        subnet-74cdba2d        |                 |
+|   IAM Role    | EC2-Call-All-AWS-Services-Gun | Manual Creation |
+|   Platform    |            Ubuntu             |                 |
 
