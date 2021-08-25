@@ -1,5 +1,7 @@
 # Belajar Dengan Jenius DevOps
 
+# Author : Gun Gun Febrianza
+
 ## Outline
 
 <img src="/asset/DevOps-Outline.png" style="zoom:100%;" />
