@@ -18,19 +18,25 @@ Fitur **Amazon** **EC2** :
 
 3. **Secure Login Information**
 
-   Sistem untuk melakukan login yang aman, AWS akan menyimpan public-key dan kita akan menyimpan private-key untuk melakukan login ke dalam **instance**.
+   Sistem untuk melakukan login yang aman, **AWS** akan menyimpan **public-key** dan kita akan menyimpan **private-key** untuk melakukan **login** ke dalam **instance**.
 
-4. **Instance Store Volumes**
+4. **Firewall Configuration**
+
+   Pengaturan **Protocol**, **Ports** dan **Source IP Ranges** yang dapat mengakses **instances** milik kita.
+
+5. **Instance Store Volumes**
 
    Tempat penyimpanan sementara yang akan dihapus jika perintah **stop**, **hibernate** atau **terminate** dieksekusi pada **instances**. 
 
-5. **Persistent Storage Volumes**
+6. **Amazon Elastic Block Store (EBS) Integration**
 
-6. **Amazon Elastic IP Integration** 
+   Tempat penyimpanan permanen menggunakan layanan **Amazon Elastic Block Store (EBS)**.
+
+7. **Amazon Elastic IP Integration** 
 
    Dukungan penerapan **Static IPv4 Addresses** menggunakan layanan **Amazon Elastic IP**.
 
-7. **Virtual Private Clouds (VPCs)**
+8. **Virtual Private Clouds (VPCs)**
 
    Kita dapat membuat jaringan komputer virtual secara terisolasi.
 
