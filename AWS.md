@@ -38,3 +38,11 @@ Di bawah ini adalah contoh informasi dari running instance dalam Amazon EC2 :
 |      Key Name       |                      X-Development                      |             |
 |     Launch Time     |                 2021/08/25 16:06 GMT+7                  |             |
 
+Terdapat informasi tambahan lainnya :
+
+| Instance Info |             Value             | Description |
+| :-----------: | :---------------------------: | :---------: |
+|    VPC ID     |         vpc-893ee9ef          |             |
+|   Subnet ID   |        subnet-74cdba2d        |             |
+|   IAM Role    | EC2-Call-All-AWS-Services-Gun |             |
+
