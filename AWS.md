@@ -1,8 +1,40 @@
 # Belajar Dengan Jenius DevOps
 
-# Author : Gun Gun Febrianza
+## Author : Gun Gun Febrianza
+
+
 
 # AWS EC2 (Elastic Cloud Computing)
+
+Fitur **Amazon** **EC2** :
+
+1. **Virtual Computing Environment**
+
+   Lingkungan untuk melakukan komputasi virtual yang disebut dengan **instance**.
+
+2. **Preconfigured Templates**
+
+   Kita dapat membangun sebuah template untuk **instance** menggunakan **Amazon Machine Images (AMIs)**  
+
+3. **Secure Login Information**
+
+   Sistem untuk melakukan login yang aman, AWS akan menyimpan public-key dan kita akan menyimpan private-key untuk melakukan login ke dalam **instance**.
+
+4. **Instance Store Volumes**
+
+   Tempat penyimpanan sementara yang akan dihapus jika perintah **stop**, **hibernate** atau **terminate** dieksekusi pada **instances**. 
+
+5. **Persistent Storage Volumes**
+
+6. **Amazon Elastic IP Integration** 
+
+   Dukungan penerapan **Static IPv4 Addresses** menggunakan layanan **Amazon Elastic IP**.
+
+7. **Virtual Private Clouds (VPCs)**
+
+   Kita dapat membuat jaringan komputer virtual secara terisolasi.
+
+   
 
 ## General Purpose Instance 
 
@@ -102,4 +134,20 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 |       Encryption       |                        Not Encrypted                         |             |
 |       KMS Key ID       |                                                              |             |
 |  Multi-attach Enabled  |                              No                              |             |
+
+
+
+----
+
+# [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
+
+
+
+
+
+
+
+
+
+# [EC2 Auto Scaling API Reference](https://docs.aws.amazon.com/autoscaling/ec2/APIReference/Welcome.html) 
 
