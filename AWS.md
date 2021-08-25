@@ -48,4 +48,18 @@ Terdapat informasi tambahan lainnya :
 |       Platform       |            Ubuntu             |                 |
 | Credit Specification |           Unlimited           |                 |
 | Virtualization Type  |              HVM              |                 |
+|   Number of vCPUs    |               8               |                 |
+|       Tenancy        |            Default            |                 |
+
+## Storage
+
+### Root Device Details
+
+Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari **Running Instance** di atas :
+
+|   Storage Info   |   Value   | Description |
+| :--------------: | :-------: | :---------: |
+| Root device name | /dev/sda1 |             |
+| Root device type |    EBS    |             |
+| EBS Optimization |  enabled  |             |
 
