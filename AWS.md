@@ -14,7 +14,25 @@
 
 
 
-# Running Instance
+# AWS EC2 Dashboard
+
+## Instances 
+
+## Images 
+
+## Elastic Block Store 
+
+## Network & Security 
+
+## Load Balancing 
+
+## Auto Scaling
+
+---
+
+
+
+# Example Running Instance
 
 Di bawah ini adalah contoh informasi dari running instance dalam Amazon EC2 :
 
@@ -62,4 +80,26 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 | Root device name | /dev/sda1 |             |
 | Root device type |    EBS    |             |
 | EBS Optimization |  enabled  |             |
+
+### Block Device Details
+
+|      Storage Info      |                            Value                             | Description |
+| :--------------------: | :----------------------------------------------------------: | :---------: |
+|          Name          |                                                              |             |
+|       Volume ID        |                    vol-00fbee6da3f467e4a                     |             |
+|          Size          |                            60 GiB                            |             |
+|      Volume Type       |                             gp2                              |             |
+|          IOPS          |                             180                              |             |
+|       Throughput       |                              -                               |             |
+|        Snapshot        |                    snap-0c83907cbff0eb0fb                    |             |
+|        Created         |             August 25, 2021 at 4:06:54 PM UTC+7              |             |
+|   Availability Zone    |                       ap-southeast-1c                        |             |
+|         State          |                            in-use                            |             |
+|      Alarm Status      |                            *None*                            |             |
+| Attachment Information | [i-0d06ceabb68b31c80 (Server A - Development)](https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:search=i-0d06ceabb68b31c80;sort=instanceId):/dev/sda1 (attached) |             |
+|       Monitoring       |                                                              |             |
+|     Volume Status      |                                                              |             |
+|       Encryption       |                        Not Encrypted                         |             |
+|       KMS Key ID       |                                                              |             |
+|  Multi-attach Enabled  |                              No                              |             |
 
