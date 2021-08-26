@@ -298,6 +298,34 @@ Kita coba akses **IP Server** kita
 
 <img src="asset/AWS-NGINX-Maudy.png" style="zoom:100%;" />
 
+----
+
+## Cheatsheet
+
+Untuk memeriksa status **nginx** eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo systemctl status nginx
+```
+
+Untuk menambahkan **nginx** agar otomatis berjalan saat **start up** eksekusi perintah berikut :
+
+```bash
+~$ sudo systemctl enable nginx
+```
+
+Untuk menghentikan **nginx** eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo systemctl stop nginx
+```
+
+Untuk menjalankan **nginx** eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo systemctl start nginx
+```
+
 
 
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
