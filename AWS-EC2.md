@@ -72,7 +72,7 @@ Fitur **Amazon** **EC2** :
 
 # Example Running Instance
 
-Di bawah ini adalah contoh informasi dari running instance dalam Amazon EC2 :
+Di bawah ini adalah contoh informasi dari running instance dalam **Amazon EC2** :
 
 
 
@@ -144,6 +144,26 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 
 ----
+
+
+
+# Quick Start EC2
+
+
+
+## Browser-based SSH Connection
+
+Dalam **Dashboard EC2** kita dapat login ke dalam **server** menggunakan **browser-based SSH Connection** :
+
+<img src="F:\DevOps\Belajar-Dengan-Jenius-DevOps\asset\AWS-Browser-based-SSH.png" style="zoom:100%;" />
+
+Di bawah ini adalah gambar saat kita sudah terhubung dengan **instances** yang kita miliki :
+
+<img src="F:\DevOps\Belajar-Dengan-Jenius-DevOps\asset\AWS-Browser-based-SSH2.png" style="zoom:80%;" />
+
+
+
+
 
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
 
