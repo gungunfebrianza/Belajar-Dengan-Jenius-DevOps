@@ -268,6 +268,36 @@ Selanjutnya jika kita mencoba akses **IP Server** kita maka hasilnya akan berhas
 
 <img src="asset/AWS-NGINX.png" style="zoom:100%;" />
 
+Jika kita ingin mengubah tampilan halaman depan website, ikuti langkah berikut :
+
+Pertama kita harus menjadi root terlebih dahulu :
+
+```bash
+~$ sudo -s
+```
+
+Selanjutnya kita akan berpindah directory :
+
+```bash
+~$ cd /var/www/html
+```
+
+Eksekusi perintah di bawah ini :
+
+```bash
+ ~$ echo "Hello Indonesiaku, Maudy!" > index.nginx-debian.html
+```
+
+Kemudian restart nginx :
+
+```bash
+~$ systemctl restart nginx
+```
+
+Kita coba akses **IP Server** kita
+
+<img src="asset/AWS-NGINX-Maudy.png" style="zoom:100%;" />
+
 
 
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
