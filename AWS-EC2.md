@@ -149,16 +149,6 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 
 
-
-
-
-
-
-
-
-
-
-
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
 
 
