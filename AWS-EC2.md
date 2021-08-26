@@ -326,6 +326,24 @@ Untuk menjalankan **nginx** eksekusi perintah di bawah ini :
 ~$ sudo systemctl start nginx
 ```
 
+Untuk menjalankan ulang **nginx** eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo systemctl restart nginx
+```
+
+Jika kita membuat perubahan konfigurasi pada **nginx** kita dapat memuat ulang konfigurasi tanpa harus melakukan **Dropping Connections** :
+
+```bash
+~$ sudo systemctl reload nginx
+```
+
+Secara default nginx akan otomatis berjalan ketika pertama kali server boots kita dapat mengubah pengaturan tersebut jika tidak menginginkannya, eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo systemctl disable nginx
+```
+
 
 
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
