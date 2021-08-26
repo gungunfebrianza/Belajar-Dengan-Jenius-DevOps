@@ -216,6 +216,8 @@ Aug 26 05:40:44 ip-172-31-32-18 systemd[1]: Starting A high performance web serv
 Aug 26 05:40:44 ip-172-31-32-18 systemd[1]: Started A high performance web server and a reverse proxy server.
 ```
 
+----------
+
 
 
 ## Install net-tools
@@ -244,7 +246,27 @@ tcp6       0      0 :::22                   :::*                    LISTEN      
 tcp6       0      0 :::80                   :::*                    LISTEN      15321/nginx: master 
 ```
 
+Jika kita mencoba akses **IP Server** kita maka hasilnya akan gagal :
 
+http://13.229.17.209/
+
+<img src="asset/AWS-NGINX-Fail.png" style="zoom:100%;" />
+
+Solusinya kita harus melakukan konfigurasi **Firewall** yang kita miliki melalui **Security Group**.
+
+------
+
+
+
+## Setup HTTP Inbound Rules
+
+Pada **Dashboard EC2** pilih **menu Security Group**, pada **security group** yang kita gunakan pilih **Edit Inbound Rules**. Selanjutnya tambahkan **HTTP** :
+
+<img src="asset/AWS-Security-Group-HTTP.png" style="zoom:100%;" />
+
+Selanjutnya jika kita mencoba akses **IP Server** kita maka hasilnya akan berhasil :
+
+<img src="asset/AWS-NGINX.png" style="zoom:100%;" />
 
 
 
