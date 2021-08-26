@@ -218,6 +218,36 @@ Aug 26 05:40:44 ip-172-31-32-18 systemd[1]: Started A high performance web serve
 
 
 
+## Install net-tools
+
+Intall **net-tools** dengan mengeksekusi perintah di bawah ini :
+
+```bash
+~$ sudo apt install net-tools
+```
+
+Setelah itu eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo netstat -ntlp
+```
+
+Perintah di atas akan memproduksi output :
+
+```
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      753/sshd: /usr/sbin 
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      15321/nginx: master 
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      445/systemd-resolve 
+tcp6       0      0 :::22                   :::*                    LISTEN      753/sshd: /usr/sbin 
+tcp6       0      0 :::80                   :::*                    LISTEN      15321/nginx: master 
+```
+
+
+
+
+
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
 
 
