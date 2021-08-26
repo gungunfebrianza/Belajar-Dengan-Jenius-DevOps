@@ -346,6 +346,24 @@ Secara default nginx akan otomatis berjalan ketika pertama kali server boots kit
 
 
 
+-----
+
+## Logs Nginx
+
+-------
+
+Setiap **request** pada **web server** akan tercatat disini, untuk melihatnya eksekusi perintah berikut :
+
+```bash
+~$ sudo tail -f /var/log/nginx/access.log
+```
+
+
+
+
+
+
+
 # [EC2 API Reference](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html)
 
 
