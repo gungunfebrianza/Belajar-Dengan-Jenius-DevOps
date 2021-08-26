@@ -360,6 +360,29 @@ Setiap **request** pada **web server** akan tercatat disini, untuk melihatnya ek
 
 
 
+# Install Node.js
+
+## Node Source
+
+Untuk melakukan instalasi **node.js** kita dapat menggunakan [Node Source](https://github.com/nodesource/distributions), **Node.js Binary Distribution**.
+
+```bash
+~$ curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+~$ sudo apt-get install -y nodejs
+```
+
+
+
+
+
+# Install MySQL
+
+Untuk melakukan instalasi eksekusi perintah di bawah ini :
+
+```bash
+~$ sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+```
+
 
 
 
