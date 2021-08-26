@@ -23,3 +23,12 @@ Sekumpulan **Availability Zones (AZ)** dikelompokan ke dalam sebuah **regions**,
 ## Key-based Authentication
 
 Public-key disimpan di server dan private-key disimpan oleh pemilik server.
+
+
+
+## Browser-based SSH Connection
+
+Dalam dashboard EC2 kita dapat login ke dalam server menggunakan browser-based SSH Connection :
+
+<img src="asset/AWS-Browser-based-SSH.png" style="zoom:100%;" />
+
