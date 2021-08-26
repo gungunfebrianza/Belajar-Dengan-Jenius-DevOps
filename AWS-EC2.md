@@ -60,9 +60,17 @@ Fitur **Amazon** **EC2** :
 
 ## Elastic Block Store 
 
+
+
 ## Network & Security 
 
+**Firewall** adalah **Network Security System** yang memonitor dan mengendalikan masuknya dan keluarnya sebuah **network traffic** menggunakan **security rules** yang telah ditentukan terlebih dahulu.
+
+
+
 ## Load Balancing 
+
+
 
 ## Auto Scaling
 
