@@ -155,13 +155,35 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 Dalam **Dashboard EC2** kita dapat login ke dalam **server** menggunakan **browser-based SSH Connection** :
 
-<img src="F:\DevOps\Belajar-Dengan-Jenius-DevOps\asset\AWS-Browser-based-SSH.png" style="zoom:100%;" />
+<img src="asset/AWS-Browser-based-SSH.png" style="zoom:100%;" />
 
 Di bawah ini adalah gambar saat kita sudah terhubung dengan **instances** yang kita miliki :
 
-<img src="F:\DevOps\Belajar-Dengan-Jenius-DevOps\asset\AWS-Browser-based-SSH2.png" style="zoom:80%;" />
+<img src="asset/AWS-Browser-based-SSH2.png" style="zoom:80%;" />
 
 
+
+## Putty
+
+
+
+
+
+# Nginx
+
+Kita akan melakukan instalasi **nginx**, eksekusi perintah di bawah ini :
+
+```bash
+sudo apt-get update
+sudo apt-get install nginx
+```
+
+Untuk menjalankan Nginx eksekusi perintah berikut :
+
+```
+sudo /etc/init.d/nginx start
+	Starting nginx (via systemctl): nginx.service.
+```
 
 
 
