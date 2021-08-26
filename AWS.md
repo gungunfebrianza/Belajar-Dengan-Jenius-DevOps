@@ -18,3 +18,8 @@
 
 Sekumpulan **Availability Zones (AZ)** dikelompokan ke dalam sebuah **regions**, saat ini di **AWS** memiliki 22 **regions** yang tersebar ke seluruh dunia.
 
+
+
+## Key-based Authentication
+
+Public-key disimpan di server dan private-key disimpan oleh pemilik server.
