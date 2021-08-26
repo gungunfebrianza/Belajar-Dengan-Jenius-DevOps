@@ -174,15 +174,46 @@ Di bawah ini adalah gambar saat kita sudah terhubung dengan **instances** yang k
 Kita akan melakukan instalasi **nginx**, eksekusi perintah di bawah ini :
 
 ```bash
-sudo apt-get update
-sudo apt-get install nginx
+~$ sudo apt-get update
+~$ sudo apt-get install nginx
 ```
 
-Untuk menjalankan Nginx eksekusi perintah berikut :
+Untuk menjalankan **Nginx** eksekusi perintah berikut :
 
 ```
-sudo /etc/init.d/nginx start
+~$ sudo /etc/init.d/nginx start
 	Starting nginx (via systemctl): nginx.service.
+```
+
+Untuk memastikan **nginx** berjalan dengan benar eksekusi perintah di bawah ini :
+
+```
+~$ sudo systemctl status nginx
+```
+
+Perintah di atas akan memproduksi **output** sebagai berikut :
+
+```
+● nginx.service - A high performance web server and a reverse proxy server
+     Loaded: loaded (/lib/systemd/system/nginx.service; enabled; vendor preset: enabled)
+     Active: active (running) since Thu 2021-08-26 05:40:44 UTC; 3min 19s ago
+       Docs: man:nginx(8)
+   Main PID: 15321 (nginx)
+      Tasks: 9 (limit: 38102)
+     Memory: 11.1M
+     CGroup: /system.slice/nginx.service
+             ├─15321 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+             ├─15322 nginx: worker process
+             ├─15323 nginx: worker process
+             ├─15324 nginx: worker process
+             ├─15325 nginx: worker process
+             ├─15326 nginx: worker process
+             ├─15327 nginx: worker process
+             ├─15328 nginx: worker process
+             └─15329 nginx: worker process
+
+Aug 26 05:40:44 ip-172-31-32-18 systemd[1]: Starting A high performance web server and a reverse proxy server...
+Aug 26 05:40:44 ip-172-31-32-18 systemd[1]: Started A high performance web server and a reverse proxy server.
 ```
 
 
