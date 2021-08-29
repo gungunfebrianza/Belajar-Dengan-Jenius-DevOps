@@ -19,7 +19,7 @@ Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
 
 ## Docker Installation
 
-Untuk melakukan installation, **download script** di bawah ini :
+Untuk melakukan installation pada sistem operasi [ubuntu](https://docs.docker.com/engine/install/ubuntu/), **download script** di bawah ini :
 
 ```bash
 $ curl -fsSL https://get.docker.com -o get-docker.sh
@@ -52,6 +52,28 @@ Untuk melihat versi **docker** yang digunakan :
 ```bash
 $ docker version
 ```
+
+## Container
+
+```bash
+$ docker run nginx
+```
+
+### List Container
+
+Untuk melihat **list container** yang berjalan eksekusi perintah di bawah ini :
+
+```bash
+$ docker ps
+```
+
+
+
+| Container ID | Image | Command      | Created            | Status                | Ports  | Names                |
+| ------------ | ----- | ------------ | ------------------ | --------------------- | ------ | -------------------- |
+| eacb8e1b03db | Nginx | "/docker..." | About a minute ago | Up About a minute ago | 80/tcp | infallible_mizhakani |
+
+
 
 ## Images
 
