@@ -167,6 +167,10 @@ Isi **template name** dan **template version description** seperti pada gambar d
 
 <img src="/asset/EC2-Create-Template-From-Instance2.PNG" style="zoom:90%;" />
 
+## Launch Instance from Templates
+
+<img src="/asset/EC2-Create-Template-From-Instance3.PNG" style="zoom:90%;" />
+
 -----
 
 
