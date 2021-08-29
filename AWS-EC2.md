@@ -159,7 +159,13 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 ## Create EC2 Template
 
+Klik kanan **Running EC2 Instance**, selanjutnya pilih **Context Menu Image and templates** dan klik **Create template from instance** seperti pada gambar di bawah ini :
 
+<img src="/asset/EC2-Create-Template-From-Instance.PNG" style="zoom:90%;" />
+
+Isi **template name** dan **template version description** seperti pada gambar di bawah ini :
+
+<img src="/asset/EC2-Create-Template-From-Instance2.PNG" style="zoom:90%;" />
 
 -----
 
