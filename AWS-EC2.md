@@ -70,7 +70,17 @@ Fitur **Amazon** **EC2** :
 
 
 
-# Example Running Instance
+# EC2 Introduction
+
+## Create EC2
+
+
+
+-------
+
+
+
+## Example Running Instance
 
 Di bawah ini adalah contoh informasi dari running instance dalam **Amazon EC2** :
 
@@ -144,6 +154,14 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 
 ----
+
+
+
+## Create EC2 Template
+
+
+
+-----
 
 
 

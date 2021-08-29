@@ -1,6 +1,17 @@
 # Belajar Dengan Jenius DevOps
 
-# Author : Gun Gun Febrianza
+## Author : Gun Gun Febrianza
+
+-------
+
+
+
+# Table of Contents
+
+1. Docker
+   - Docker Installation
+   - Images
+     - Pulling Image
 
 # Docker
 
@@ -32,12 +43,18 @@ $ docker image ls
 
 Jika kita baru pertama melakukan instalasi, maka belum terdapat **image** dalam mesin komputer kita.
 
-### Pulling Images
+### Pulling Image
 
 Jika kita ingin mendapatkan sebuah **images** terdapat istilah **pulling**, artinya kita akan melakukan **download** sebuah **docker image** yang akan kita simpan dalam mesin komputer kita.
 
 ```bash
 $ docker image pull ubuntu:latest
+```
+
+Untuk memastikan **image** telah kita dapatkan eksekusi perintah :
+
+```bash
+$ docker image ls
 ```
 
 
