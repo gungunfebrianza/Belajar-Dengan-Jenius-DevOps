@@ -14,6 +14,38 @@ Untuk memastikan **docker** telah berjalan eksekusi perintah di bawah ini :
 $ systemctl status docker
 ```
 
+Untuk melihat versi **docker** yang digunakan :
+
+```bash
+$ docker version
+```
+
+## Images
+
+**Images** atau **Docker Images** adalah sebuah **object** yang isinya dapat berubah **OS Filesystem**, **applications**, dan seluruh **application dependencies**. 
+
+Untuk melihat **list images** dalam mesin komputer kita eksekusi perintah di bawah ini :
+
+```bash
+$ docker image ls
+```
+
+Jika kita baru pertama melakukan instalasi, maka belum terdapat **image** dalam mesin komputer kita.
+
+### Pulling Images
+
+Jika kita ingin mendapatkan sebuah **images** terdapat istilah **pulling**, artinya kita akan melakukan **download** sebuah **docker image** yang akan kita simpan dalam mesin komputer kita.
+
+```bash
+$ docker image pull ubuntu:latest
+```
+
+
+
+
+
+
+
 
 
 Disini terdapat dua **lifecycle** : 
