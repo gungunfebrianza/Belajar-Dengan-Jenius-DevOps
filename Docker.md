@@ -19,10 +19,32 @@ Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
 
 ## Docker Installation
 
+Untuk melakukan installation, **download script** di bawah ini :
+
+```bash
+$ curl -fsSL https://get.docker.com -o get-docker.sh
+```
+
+Selanjutnya eksekusi **script** menggunakan **sudo** atau **root** :
+
+```bash
+$ sudo sh get-docker.sh
+```
+
 Untuk memastikan **docker** telah berjalan eksekusi perintah di bawah ini :
 
 ```bash
-$ systemctl status docker
+~$ systemctl status docker
+● docker.service - Docker Application Container Engine
+     Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+     Active: active (running) since Sun 2021-08-29 18:55:15 UTC; 2min 35s ago
+TriggeredBy: ● docker.socket
+       Docs: https://docs.docker.com
+   Main PID: 27282 (dockerd)
+      Tasks: 13
+     Memory: 32.1M
+     CGroup: /system.slice/docker.service
+             └─27282 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
 ```
 
 Untuk melihat versi **docker** yang digunakan :
