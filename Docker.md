@@ -27,6 +27,7 @@
      - Volume Mapping
      - Inspect Container
      - Environment Variable
+   - Dockerizing
 
 
 
@@ -424,6 +425,36 @@ $ docker run -e SOULMATE=Maudy <your-image>
 
 
 ---
+
+
+
+## Dockerizing
+
+Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. Untuk membuat sebuah **image** kita akan membuat sebuah **dockerfile** terlebih dahulu :
+
+```dockerfile
+FROM Ubuntu
+
+RUN apt-get update
+RUN apt-get install python
+
+RUN pip install flask
+RUN pip install flask-mysql
+
+COPY . /opt/source-code
+
+ENTRYPOINT MY_APP=/opt/source-code/app.py flask run
+```
+
+Setelah itu eksekusi perintah di bawah ini :
+
+```bash
+$ docker build Dockerfile -t masgun/my-app
+```
+
+
+
+
 
 
 
