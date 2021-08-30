@@ -24,6 +24,7 @@
      - Attach & Detach Mode
      - Image Tag
      - Interactive Mode
+     - Volume Mapping
      - Inspect Container
 
 
@@ -361,6 +362,20 @@ Kita dapat menggunakan mode **interative mode** agar bisa berinteraksi dengan **
 
 ```bash
 $ docker run -it <your-image>
+```
+
+
+
+----
+
+
+
+### Volume Mapping
+
+Di bawah ini adalah contoh penerapan **Volume Mapping** dalam **MySQL Container** :
+
+```bash
+$ docker run -v /opt/mysqldata:/var/lib/mysql mysql
 ```
 
 
