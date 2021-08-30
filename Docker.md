@@ -11,11 +11,14 @@
 1. Docker
    - Docker Installation
    - Container
+     - Run Container
      - List Container
      - Stop Container
+     - Remove Container
    - Images
      - Pulling Image
      - List Images
+     - Remove Images
 
 
 
@@ -69,9 +72,17 @@ $ docker version
 
 ## Container
 
+### Run Container
+
+Untuk menjalankan sebuah **Container** eksekusi perintah di bawah ini :
+
 ```bash
 $ docker run nginx
 ```
+
+
+
+----
 
 
 
@@ -95,6 +106,8 @@ Untuk melihat seluruh **list container** eksekusi perintah di bawah ini :
 $ docker ps -a
 ```
 
+---
+
 
 
 ### Stop Container
@@ -104,6 +117,8 @@ Untuk menghentikan sebuah **container** eksekusi perintah di bawah ini :
 ```bash
 $ docker stop infallible_mizhakani
 ```
+
+----
 
 
 
@@ -132,6 +147,10 @@ $ docker image ls
 ```
 
 Jika kita baru pertama melakukan instalasi, maka belum terdapat **image** dalam mesin komputer kita.
+
+----
+
+
 
 ### Pulling Image
 
@@ -180,6 +199,10 @@ $ docker images
 
 
 
+----
+
+
+
 ### Remove Images
 
 Sebelum menghapus sebuah **images** pastikan terlebih dahulu tidak terdapat **container** yang menggunakannya, dan container harus di **remove** terlebih dahulu. Untuk menghapus sebuah **images** yang telah terpasang dalam mesin komputer kita eksekusi perintah di bawah ini :
@@ -199,6 +222,10 @@ Deleted: sha256:f68ef921efae588b3dd5cc466a1ca9c94c24785f1fa9420bea15ecc2dedbe781
 
 
 
+----
+
+
+
 
 
 Disini terdapat dua **lifecycle** : 
@@ -212,6 +239,8 @@ Disini terdapat dua **lifecycle** :
    Bagian **developer** akan lebih fokus melakukan pengembangan aplikasi, explorasi **containerized apps**, kloning dan modifikasi **containerized apps**, dan menjalankannya sebagai **container**.
 
 
+
+---
 
 
 
