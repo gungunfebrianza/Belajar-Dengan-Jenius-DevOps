@@ -467,6 +467,13 @@ $ docker push masgun/my-app
 
 ## Docker Storage
 
+**Docker** akan menyimpan data pada **path** berikut :
+
+```bash
+$ ls /var/lib/docker
+buildkit  containers  image  network  overlay2  plugins  runtimes  swarm  tmp  trust  volumes
+```
+
 
 
 ------
