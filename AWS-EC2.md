@@ -78,7 +78,17 @@ Fitur **Amazon** **EC2** :
 
 
 
-# Example Running Instance
+# EC2 Introduction
+
+## Create EC2
+
+
+
+-------
+
+
+
+## Example Running Instance
 
 Di bawah ini adalah contoh informasi dari running instance dalam **Amazon EC2** :
 
@@ -152,6 +162,34 @@ Dibawah ini adalah informasi **Root Device Details Storage** yang digunakan dari
 
 
 ----
+
+
+
+## Create EC2 Template
+
+Membuat **EC2 template** dapat menghemat waktu kita jika ingin membuat sebuah **instance**, sehingga bisa menghindari kegiatan repetitif dalam pembuatan **EC2 Instance**. 
+
+Klik kanan **Running EC2 Instance**, selanjutnya pilih **Context Menu Image and templates** dan klik **Create template from instance** seperti pada gambar di bawah ini :
+
+<img src="/asset/EC2-Create-Template-From-Instance.PNG" style="zoom:90%;" />
+
+Isi **template name** dan **template version description** seperti pada gambar di bawah ini :
+
+<img src="/asset/EC2-Create-Template-From-Instance2.PNG" style="zoom:90%;" />
+
+## Launch Instance from Template
+
+Pada **EC2 Dashboard**, dalam menu **Launch instance** pilih **Launch instance from template** :
+
+<img src="/asset/EC2-Create-Template-From-Instance3.PNG" style="zoom:90%;" />
+
+Selanjutnya pada **Source template** pilih **template** yang telah kita buat sebelumnya yaitu **Server-For-Development**. Setelah itu tentukan jumlah **instance** yang kita perlukan :
+
+<img src="/asset/EC2-Create-Template-From-Instance4.PNG" style="zoom:90%;" />
+
+Selanjutnya klik tombol **Launch instance from template**.
+
+-----
 
 
 
