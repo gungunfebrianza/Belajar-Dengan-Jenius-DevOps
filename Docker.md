@@ -99,10 +99,20 @@ $ docker ps -a
 
 ### Stop Container
 
-Untuk menghentikan sebuah container eksekusi perintah di bawah ini :
+Untuk menghentikan sebuah **container** eksekusi perintah di bawah ini :
 
 ```bash
 $ docker stop infallible_mizhakani
+```
+
+
+
+### Remove Container
+
+Untuk mencabut sebuah **container** eksekusi perintah di bawah ini :
+
+```bash
+$ docker rm infallible_mizhakani
 ```
 
 
@@ -148,6 +158,23 @@ $ docker images
 ```
 
 
+
+### Remove Images
+
+Sebelum menghapus sebuah **images** pastikan terlebih dahulu tidak terdapat **container** yang menggunakannya, dan container harus di **remove** terlebih dahulu. Untuk menghapus sebuah **images** yang telah terpasang dalam mesin komputer kita eksekusi perintah di bawah ini :
+
+```bash
+$ docker rmi nginx
+Untagged: nginx:latest
+Untagged: nginx@sha256:4d4d96ac750af48c6a551d757c1cbfc071692309b491b70b2b8976e102dd3fef
+Deleted: sha256:dd34e67e3371dc2d1328790c3157ee42dfcae74afffd86b297459ed87a98c0fb
+Deleted: sha256:ec6149850eea7af0bfa5f4aa0130d2c3cbae06e4b5da8c748d8b6b1b0cb81d07
+Deleted: sha256:2a3d94c7adfe6e94ef038a9b3ea3631168e979f8ddb49a38b203e364627af2d9
+Deleted: sha256:2bbff8011bb867605e83fdb8095f94a347307726b8cce81d752886a8af974aea
+Deleted: sha256:f151353bef203bd70680578f33abd9667b65434ffadf547f900dca09927cc435
+Deleted: sha256:47c01ba78b6d0bdef530c46858d4c83b87452d42dc9faa54b02b3e026107ff27
+Deleted: sha256:f68ef921efae588b3dd5cc466a1ca9c94c24785f1fa9420bea15ecc2dedbe781
+```
 
 
 
