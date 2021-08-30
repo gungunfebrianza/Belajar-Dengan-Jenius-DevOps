@@ -26,6 +26,7 @@
      - Interactive Mode
      - Volume Mapping
      - Inspect Container
+     - Environment Variable
 
 
 
@@ -404,6 +405,20 @@ $ docker inspect zan_kodok
             "Paused": false,
             
 ....
+```
+
+
+
+---
+
+
+
+### Environment Variable
+
+Untuk menerapkan sebuah **environment variables** pada **container** eksekusi perintah di bawah ini :
+
+```bash
+$ docker run -e SOULMATE=Maudy <your-image>
 ```
 
 
