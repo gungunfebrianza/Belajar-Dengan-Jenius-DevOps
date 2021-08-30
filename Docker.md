@@ -8,17 +8,17 @@
 
 # Table of Contents
 
-1. Docker
-   - Docker Installation
-   - Container
-     - Run Container
-     - List Container
-     - Stop Container
-     - Remove Container
-   - Images
-     - Pulling Image
-     - List Images
-     - Remove Images
+1. [Docker](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker)
+   - [Docker Installation](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-installation)
+   - [Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#container)
+     - [Run Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#run-container)
+     - [List Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#list-container)
+     - [Stop Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#stop-container)
+     - [Remove Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-container)
+   - [Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#images)
+     - [Pulling Image](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#pulling-image)
+     - [List Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#list-images)
+     - [Remove Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-images)
 
 
 
@@ -219,6 +219,59 @@ Deleted: sha256:f151353bef203bd70680578f33abd9667b65434ffadf547f900dca09927cc435
 Deleted: sha256:47c01ba78b6d0bdef530c46858d4c83b87452d42dc9faa54b02b3e026107ff27
 Deleted: sha256:f68ef921efae588b3dd5cc466a1ca9c94c24785f1fa9420bea15ecc2dedbe781
 ```
+
+
+
+----
+
+
+
+### List Images
+
+Untuk mendapat **list images** yang telah terpasang dalam mesin komputer kita eksekusi perintah di bawah ini :
+
+```bash
+$ docker images
+```
+
+
+
+
+
+### Execute Command
+
+Kita dapat mengeksekusi sebuah perintah di dalam sebuah **container** :
+
+```bash
+$ docker exec <container-name> cat ls
+bin
+boot
+dev
+docker-entrypoint.d
+docker-entrypoint.sh
+etc
+home
+lib
+lib64
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+```
+
+
+
+
+
+
 
 
 
