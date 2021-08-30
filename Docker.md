@@ -53,11 +53,17 @@ Untuk melihat versi **docker** yang digunakan :
 $ docker version
 ```
 
+-----
+
+
+
 ## Container
 
 ```bash
 $ docker run nginx
 ```
+
+
 
 ### List Container
 
@@ -67,11 +73,31 @@ Untuk melihat **list container** yang berjalan eksekusi perintah di bawah ini :
 $ docker ps
 ```
 
-
+Di bawah ini adalah **List Container** yang tersedia :
 
 | Container ID | Image | Command      | Created            | Status                | Ports  | Names                |
 | ------------ | ----- | ------------ | ------------------ | --------------------- | ------ | -------------------- |
 | eacb8e1b03db | Nginx | "/docker..." | About a minute ago | Up About a minute ago | 80/tcp | infallible_mizhakani |
+
+Untuk melihat seluruh **list container** eksekusi perintah di bawah ini :
+
+```bash
+$ docker ps -a
+```
+
+
+
+### Stop Container
+
+Untuk menghentikan sebuah container eksekusi perintah di bawah ini :
+
+```bash
+$ docker stop infallible_mizhakani
+```
+
+
+
+---
 
 
 
