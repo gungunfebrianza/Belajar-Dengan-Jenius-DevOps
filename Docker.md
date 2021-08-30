@@ -19,15 +19,16 @@
      - [Pulling Image](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#pulling-image)
      - [List Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#list-images)
      - [Remove Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-images)
-   - Docker Commands
-     - Execute Command
-     - Attach & Detach Mode
-     - Image Tag
-     - Interactive Mode
-     - Volume Mapping
-     - Inspect Container
-     - Environment Variable
-   - Dockerizing
+   - [Docker Commands](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-commands)
+     - [Execute Command](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#execute-command)
+     - [Attach & Detach Mode](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#attach--detach-mode)
+     - [Image Tag](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#image-tag)
+     - [Interactive Mode](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#interactive-mode)
+     - [Volume Mapping](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#volume-mapping)
+     - [Inspect Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#inspect-container)
+     - [Environment Variable](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#environment-variable)
+   - [Dockerizing](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#dockerizing)
+   - Docker Storage
 
 
 
@@ -452,7 +453,23 @@ Setelah itu eksekusi perintah di bawah ini :
 $ docker build Dockerfile -t masgun/my-app
 ```
 
+Perintah di atas akan menghasilkan sebuah **image** dalam mesin komputer kita, jika kita ingin menyimpannya dalam docker hub eksekusi perintah di bawah ini :
 
+```bash
+$ docker push masgun/my-app
+```
+
+
+
+----
+
+
+
+## Docker Storage
+
+
+
+------
 
 
 
