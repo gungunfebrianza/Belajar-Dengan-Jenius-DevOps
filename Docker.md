@@ -10,8 +10,18 @@
 
 1. Docker
    - Docker Installation
+   - Container
+     - List Container
+     - Stop Container
    - Images
      - Pulling Image
+     - List Images
+
+
+
+--------
+
+
 
 # Docker
 
@@ -128,6 +138,14 @@ $ docker image ls
 ```
 
 
+
+### List Images
+
+Untuk mendapat **list images** yang telah terpasang dalam mesin komputer kita eksekusi perintah di bawah ini :
+
+```bash
+$ docker images
+```
 
 
 
