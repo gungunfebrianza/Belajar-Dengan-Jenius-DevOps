@@ -240,14 +240,18 @@ $ docker images
 
 
 
+---
 
+
+
+## Docker Commands
 
 ### Execute Command
 
 Kita dapat mengeksekusi sebuah perintah di dalam sebuah **container** :
 
 ```bash
-$ docker exec <container-name> cat ls
+$ docker exec <container-name> ls
 bin
 boot
 dev
@@ -300,7 +304,50 @@ $ docker attach 73e1e
 
 Gunakan **Container ID** sebagai **argument** untuk **attach mode**.
 
+---
 
+
+
+### Tag
+
+Kita dapat menggunakan **tag** untuk melakukan **pull image docker** menggunakan versi tertentu, di bawah ini adalah contoh kita melakukan **pulling redis** menggunakan versi **5.0** :
+
+```bash
+$ docker pull redis:5.0
+```
+
+Selanjutnya kita cek **images redis** yang telah kita **pull** :
+
+```bash
+$ docker images
+```
+
+Perintah di atas akan menampilkan **output** sebagai berikut :
+
+| Repository | Tag  |   Image ID   |   Created   |  Size  |
+| :--------: | :--: | :----------: | :---------: | :----: |
+|   redis    | 5.0  | 15e36694d7df | 12 days ago | 98.4MB |
+
+Jika kita melakukan pulling images redis tanpa memberikan tag maka secara default versi terakhir dari **images redis** yang akan di **pull** :
+
+```bash
+$ docker pull redis
+```
+
+Jikakita cek **images redis** yang telah kita **pull** maka akan terdapat dua versi :
+
+```bash
+$ docker images
+```
+
+Perintah di atas akan menampilkan **output** sebagai berikut :
+
+| Repository |  Tag   |   Image ID   |   Created   |  Size   |
+| :--------: | :----: | :----------: | :---------: | :-----: |
+|   redis    |  5.0   | 15e36694d7df | 12 days ago | 98.4 MB |
+|   redis    | latest | ddcca4b8a6f0 | 12 days ago | 105 MB  |
+
+----
 
 
 
