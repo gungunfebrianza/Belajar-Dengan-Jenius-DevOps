@@ -21,8 +21,10 @@
      - [Remove Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-images)
    - Docker Commands
      - Execute Command
-     - Attach & Detach
+     - Attach & Detach Mode
      - Image Tag
+     - Interactive Mode
+     - Inspect Container
 
 
 
@@ -283,7 +285,7 @@ var
 
 
 
-### Attach & Detach
+### Attach & Detach Mode
 
 Untuk menjalankan sebuah **container** dalam **mode detach** eksekusi perintah di bawah ini :
 
@@ -353,13 +355,45 @@ Perintah di atas akan menampilkan **output** sebagai berikut :
 
 
 
+### Interactive Mode
 
+Kita dapat menggunakan mode **interative mode** agar bisa berinteraksi dengan **container** :
+
+```bash
+$ docker run -it <your-image>
+```
 
 
 
 ----
 
 
+
+### Inspect Container
+
+Untuk melakukan inspeksi pada suatu **Container** eksekusi perintah di bawah ini :
+
+```bash
+$ docker inspect zan_kodok
+[
+    {
+        "Id": "7476e104a25c9e6fc197bcdd7348f8620072a3cd509d29e8440a9696cb87b4a2",
+        "Created": "2021-08-30T08:59:24.123835663Z",
+        "Path": "python",
+        "Args": [
+            "app.py"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            
+....
+```
+
+
+
+---
 
 
 
