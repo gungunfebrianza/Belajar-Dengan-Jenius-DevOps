@@ -29,6 +29,10 @@
      - [Environment Variable](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#environment-variable)
    - [Dockerizing](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#dockerizing)
    - Docker Storage
+   - Docker Compose
+   - Container Orchestration
+   - Docker Swarm
+   - Kubernetes
 
 
 
@@ -467,6 +471,8 @@ $ docker push masgun/my-app
 
 ## Docker Storage
 
+**Docker Storage** adalah //todo
+
 **Docker** akan menyimpan data pada **path** berikut :
 
 ```bash
@@ -474,11 +480,41 @@ $ ls /var/lib/docker
 buildkit  containers  image  network  overlay2  plugins  runtimes  swarm  tmp  trust  volumes
 ```
 
+Di bawah ini adalah contoh penerapan **Volume Mapping** dalam **MySQL Container** :
+
+```bash
+$ docker run -v /opt/mysqldata:/var/lib/mysql mysql
+```
+
 
 
 ------
 
 
+
+## Docker Compose
+
+**Docker Compose** adalah //todo
+
+
+
+```bash
+$ docker run --links
+```
+
+
+
+-----
+
+## Container Orchestration 
+
+
+
+## Docker Swarm 
+
+
+
+## Kubernetes
 
 
 
