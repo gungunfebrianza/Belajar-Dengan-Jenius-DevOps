@@ -19,8 +19,10 @@
      - [Pulling Image](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#pulling-image)
      - [List Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#list-images)
      - [Remove Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-images)
+   - Docker Commands
      - Execute Command
      - Attach & Detach
+     - Image Tag
 
 
 
@@ -308,7 +310,7 @@ Gunakan **Container ID** sebagai **argument** untuk **attach mode**.
 
 
 
-### Tag
+### Image Tag
 
 Kita dapat menggunakan **tag** untuk melakukan **pull image docker** menggunakan versi tertentu, di bawah ini adalah contoh kita melakukan **pulling redis** menggunakan versi **5.0** :
 
