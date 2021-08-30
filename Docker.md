@@ -19,6 +19,8 @@
      - [Pulling Image](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#pulling-image)
      - [List Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#list-images)
      - [Remove Images](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#remove-images)
+     - Execute Command
+     - Attach & Detach
 
 
 
@@ -284,7 +286,19 @@ $ docker run -d <image>
 73e1e391d1733e655ccb108184608c6116dfd7928a8e7b678a97311580f788f0
 ```
 
+**Container** akan berjalan di dalam **background**, untuk memastikan **container** sudah berjalan di dalam **background** eksekusi perintah **docker ps** :
 
+| Container ID | Image      | Command       | Created       | Status           | Ports    | Names     |
+| ------------ | ---------- | ------------- | ------------- | ---------------- | -------- | --------- |
+| 73e1e391d173 | your-image | python app.py | 3 minutes ago | Up 3 minutes ago | 8000/tcp | zan_kodok |
+
+Untuk terhubung kedalam sebuah **container** atau melakukan **mode attach** eksekusi perintah di bawah ini :
+
+```bash
+$ docker attach 73e1e
+```
+
+Gunakan **Container ID** sebagai **argument** untuk **attach mode**.
 
 
 
