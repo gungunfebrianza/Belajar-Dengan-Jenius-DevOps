@@ -118,6 +118,8 @@ Untuk menghentikan sebuah **container** eksekusi perintah di bawah ini :
 $ docker stop infallible_mizhakani
 ```
 
+Kita juga dapat menghentikan **container** yang sedang berjalan menggunakan perintah **CTRL + C**.
+
 ----
 
 
@@ -266,6 +268,23 @@ tmp
 usr
 var
 ```
+
+
+
+----
+
+
+
+### Attach & Detach
+
+Untuk menjalankan sebuah **container** dalam **mode detach** eksekusi perintah di bawah ini :
+
+```bash
+$ docker run -d <image>
+73e1e391d1733e655ccb108184608c6116dfd7928a8e7b678a97311580f788f0
+```
+
+
 
 
 
