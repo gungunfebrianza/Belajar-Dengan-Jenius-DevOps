@@ -138,14 +138,35 @@ Jika kita baru pertama melakukan instalasi, maka belum terdapat **image** dalam 
 Jika kita ingin mendapatkan sebuah **images** terdapat istilah **pulling**, artinya kita akan melakukan **download** sebuah **docker image** yang akan kita simpan dalam mesin komputer kita.
 
 ```bash
-$ docker image pull ubuntu:latest
+$ docker pull nginx
+Using default tag: latest
+latest: Pulling from library/nginx
+e1acddbe380c: Pull complete
+e21006f71c6f: Pull complete
+f3341cc17e58: Pull complete
+2a53fa598ee2: Pull complete
+12455f71a9b5: Pull complete
+b86f2ba62d17: Pull complete
+Digest: sha256:4d4d96ac750af48c6a551d757c1cbfc071692309b491b70b2b8976e102dd3fef
+Status: Downloaded newer image for nginx:latest
+docker.io/library/nginx:latest
 ```
 
 Untuk memastikan **image** telah kita dapatkan eksekusi perintah :
 
 ```bash
-$ docker image ls
+$ docker images
 ```
+
+Perintah di atas akan menampilkan **output** sebagai berikut :
+
+| Repository |  Tag   |   Image ID   |   Created   |  Size  |
+| :--------: | :----: | :----------: | :---------: | :----: |
+|   nginx    | latest | dd34e67e3371 | 12 days ago | 133 MB |
+
+
+
+------
 
 
 
