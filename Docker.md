@@ -42,9 +42,13 @@
 
 # Docker
 
-**Docker** adalah **package manager**. Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+**Docker** adalah **package manager** kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan agar bisa digunakan oleh **developer** lainnya, sebuah **image** akan menjadi sebuah **container** saat digunakan oleh para **developer**. 
 
 **Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
+
+Sebuah image yang dibuat seorang developer biasanya di distribusikan ke dalam sebuah container registry Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+
+
 
 -------
 
@@ -52,7 +56,11 @@
 
 ## Docker Installation
 
-Untuk melakukan installation pada sistem operasi [ubuntu](https://docs.docker.com/engine/install/ubuntu/), **download script** di bawah ini :
+Untuk melakukan **installation** silahkan kunjungi halaman berikut :
+
+https://docs.docker.com
+
+Pada sistem operasi [ubuntu](https://docs.docker.com/engine/install/ubuntu/), **download script** di bawah ini :
 
 ```bash
 $ curl -fsSL https://get.docker.com -o get-docker.sh
@@ -447,7 +455,17 @@ $ docker run -e SOULMATE=Maudy <your-image>
 
 ## Dockerizing
 
-Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. Untuk membuat sebuah **image** kita akan membuat sebuah **dockerfile** terlebih dahulu :
+Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. 
+
+---
+
+
+
+### Dockerfile
+
+**Dockerfile** adalah sebuah spesifikasi dari **image** yang akan dibuat menggunakan **docker**.
+
+Untuk membuat sebuah **image** kita akan membuat sebuah **dockerfile** terlebih dahulu :
 
 ```dockerfile
 FROM Ubuntu
