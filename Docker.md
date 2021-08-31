@@ -28,11 +28,18 @@
      - [Inspect Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#inspect-container)
      - [Environment Variable](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#environment-variable)
    - [Dockerizing](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#dockerizing)
-   - Docker Storage
-   - Docker Compose
-   - Container Orchestration
-   - Docker Swarm
-   - Kubernetes
+     - Dockerfile
+     - Docker Directives
+       - FROM
+       - COPY
+       - WORKDIR
+       - RUN
+       - CMD
+   - [Docker Storage](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-storage)
+   - [Docker Compose](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-compose)
+   - [Container Orchestration](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#container-orchestration)
+   - [Docker Swarm](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-swarm)
+   - [Kubernetes](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#kubernetes)
 
 
 
@@ -564,24 +571,5 @@ Disini terdapat dua **lifecycle** :
 
 
 
-# Cheatsheet
+# References
 
-docker run x 
-
-docker version
-
-docker ps // list container
-
-docker ps -a // see all container
-
-docker stop <name_container> // stop container
-
-docker rm <name_container> //remove container
-
-docker images //list available images
-
-docker rmi nginx //remove images
-
-docker pull nginx //store images
-
-docker exec <name_container> cat /etc/hosts //execute command & running container, print the contents
