@@ -86,6 +86,10 @@ $ docker version
 
 ## Container
 
+**Container** menyediakan **alternative virtualization** yang lebih ringan dibandingkan dengan **Virtual Machine (VM)**. 
+
+// todo perbedaan virtual machine dan container secara visual
+
 ### Run Container
 
 Untuk menjalankan sebuah **Container** eksekusi perintah di bawah ini :
@@ -152,9 +156,9 @@ $ docker rm infallible_mizhakani
 
 
 
-## Images
+## Image
 
-**Images** atau **Docker Images** adalah sebuah **object** yang isinya dapat berubah **OS Filesystem**, **applications**, dan seluruh **application dependencies**. 
+**Image** atau **Docker Image** adalah sebuah **object** yang isinya dapat berubah **OS Filesystem**, **applications**, dan seluruh **application dependencies**. **Image** adalah sebuah **snapshot** yang bersifat **immutable**, ketika telah diproduksi tidak dapat lagi dimodifikasi.
 
 Untuk melihat **list images** dalam mesin komputer kita eksekusi perintah di bawah ini :
 
