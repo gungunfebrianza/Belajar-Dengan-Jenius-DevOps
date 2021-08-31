@@ -42,7 +42,13 @@
 
 # Docker
 
-Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+**Docker** adalah **package manager**. Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+
+**Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
+
+-------
+
+
 
 ## Docker Installation
 
@@ -159,6 +165,8 @@ $ docker rm infallible_mizhakani
 ## Image
 
 **Image** atau **Docker Image** adalah sebuah **object** yang isinya dapat berubah **OS Filesystem**, **applications**, dan seluruh **application dependencies**. **Image** adalah sebuah **snapshot** yang bersifat **immutable**, ketika telah diproduksi tidak dapat lagi dimodifikasi.
+
+Agar bisa digunakan sebuah **image** akan di **boot** ke dalam sebuah **container**. 
 
 Untuk melihat **list images** dalam mesin komputer kita eksekusi perintah di bawah ini :
 
