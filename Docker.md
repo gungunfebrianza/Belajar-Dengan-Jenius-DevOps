@@ -49,11 +49,21 @@
 
 # Docker
 
+**Docker** adalah sebuah **container enginer** 
+
 **Docker** adalah **package manager** kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan agar bisa digunakan oleh **developer** lainnya, sebuah **image** akan menjadi sebuah **container** saat digunakan oleh para **developer**. 
 
 **Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
 
-Sebuah image yang dibuat seorang developer biasanya di distribusikan ke dalam sebuah container registry Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+Sebuah **image** yang dibuat seorang **developer** biasanya di distribusikan ke dalam sebuah **container registry** Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
+
+|   Docker client   | Docker host/server  | Docker registry  |
+| :---------------: | :-----------------: | :--------------: |
+| Docker remote API |    Docker daemon    |    Docker Hub    |
+|    Docker CLI     |  Containers Images  | Private Registry |
+|                   | Container 1 Image x |                  |
+|                   | Container 2 Image x |                  |
+|                   | Container 3 Image y |                  |
 
 
 
@@ -475,23 +485,21 @@ Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah 
 Untuk membuat sebuah **image** kita akan membuat sebuah **dockerfile** terlebih dahulu :
 
 ```dockerfile
-FROM Ubuntu
+FROM node:16
 
-RUN apt-get update
-RUN apt-get install python
+WORKDIR /app
 
-RUN pip install flask
-RUN pip install flask-mysql
+COPY . .
 
-COPY . /opt/source-code
+RUN yarn install --production
 
-ENTRYPOINT MY_APP=/opt/source-code/app.py flask run
+CMD ["node", "src/index.js"]
 ```
 
 Setelah itu eksekusi perintah di bawah ini :
 
 ```bash
-$ docker build Dockerfile -t masgun/my-app
+$ docker build -t getting-started .
 ```
 
 Perintah di atas akan menghasilkan sebuah **image** dalam mesin komputer kita, jika kita ingin menyimpannya dalam docker hub eksekusi perintah di bawah ini :
@@ -572,4 +580,6 @@ Disini terdapat dua **lifecycle** :
 
 
 # References
+
+[Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
