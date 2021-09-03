@@ -9,6 +9,9 @@
 # Table of Contents
 
 1. [Docker](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker)
+
+   - Docker Architecture
+
    - [Docker Installation](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-installation)
    - [Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#container)
      - [Run Container](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#run-container)
@@ -61,6 +64,14 @@ Terdapat dua **Container Registry** :
 sebuah **image** akan menjadi **container** saat digunakan oleh para **developer**. 
 
 **Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
+
+
+
+
+
+
+
+## Docker Architecture
 
 Sebuah **image** yang dibuat seorang **developer** biasanya di distribusikan ke dalam sebuah **container registry** Untuk menggunakan **docker** pastikan anda terhubung dengan internet.
 
@@ -198,7 +209,9 @@ $ docker rm infallible_mizhakani
 
 **Image** atau **Docker Image** adalah sebuah **object** yang isinya dapat berubah **OS Filesystem**, **applications**, dan seluruh **application dependencies**. **Image** adalah sebuah **snapshot** yang bersifat **immutable**, ketika telah diproduksi tidak dapat lagi dimodifikasi.
 
-Agar bisa digunakan sebuah **image** akan di **boot** ke dalam sebuah **container**. 
+Agar **image **bisa digunakan **image** harus di **boot** ke dalam sebuah **container**. 
+
+<img src="/asset/Docker-Image.png" style="zoom:100%;" />
 
 Untuk melihat **list images** dalam mesin komputer kita eksekusi perintah di bawah ini :
 
@@ -479,7 +492,7 @@ $ docker run -e SOULMATE=Maudy <your-image>
 
 ## Dockerizing
 
-Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. 
+Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. Untuk membuat sebuah **image** kita perlu membuat sebuah **dockerfile** terlebih dahulu. Dockerfile adalah sekumpulan instruksi bagaimana membangun sebuah **image**.
 
 ---
 
