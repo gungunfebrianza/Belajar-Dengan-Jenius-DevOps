@@ -124,7 +124,7 @@ $ docker version
 
 ## Container
 
-**Container** menyediakan **alternative virtualization** yang lebih ringan dibandingkan dengan **Virtual Machine (VM)**. 
+**Container** menyediakan **alternative virtualization** yang lebih ringan dibandingkan dengan **Virtual Machine (VM)**. **Container** lebih ringan dibandingkan **Virtual Machine (VM)** dikarenakan **cost** penggunaan **computing resources** yang dibutuhkan lebih ringan.
 
 // todo perbedaan virtual machine dan container secara visual
 
