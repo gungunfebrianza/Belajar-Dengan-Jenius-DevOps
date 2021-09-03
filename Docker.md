@@ -51,7 +51,9 @@
 
 **Docker** adalah sebuah **container enginer** 
 
-**Docker** adalah **package manager** kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan agar bisa digunakan oleh **developer** lainnya, sebuah **image** akan menjadi sebuah **container** saat digunakan oleh para **developer**. 
+**Docker** adalah **package manager** yang dapat kita gunakan untuk melakukan **bundling code**, **assets** dan **dependencies** yang kita buat. Sebagai contoh kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan ke tempat sistem penyimpanan data tersentral agar bisa digunakan oleh **developer** lainnya.  
+
+sebuah **image** akan menjadi **container** saat digunakan oleh para **developer**. 
 
 **Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
 
