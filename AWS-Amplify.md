@@ -24,5 +24,5 @@ kita dapat menghubungkannya dengan sebuah **custom domain** misal :
 https://masgun.io
 ```
 
-
+**Amazon Console** akan menerbitkan sertifikat **SSL/TLS** untuk seluruh domain yang terhubung dengan aplikasi kita, sehingga seluruh **traffic** akan diamankan menggunakan **HTTPS/2**. **Certificate** di produksi menggunakan **AWS Certificate Manager (ACM)** yang akan valid selama 13 bulan dan dapat diperbaharui secara otomatis selama aplikasi terpasang di **AWS Amplify**.
 
