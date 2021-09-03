@@ -49,7 +49,7 @@
 
 # Docker
 
-**Docker** adalah sebuah **container enginer** 
+**Docker** adalah sebuah **container engine** 
 
 **Docker** adalah **package manager** yang dapat kita gunakan untuk melakukan **bundling code**, **assets** dan **dependencies** yang kita buat. Sebagai contoh kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan ke tempat sistem penyimpanan data tersentral yang disebut dengan **container registry** agar bisa digunakan oleh **developer** lainnya.  
 
@@ -80,7 +80,7 @@ Sebuah **image** yang dibuat seorang **developer** biasanya di distribusikan ke 
 
 ## Docker Installation
 
-Untuk melakukan **installation** silahkan kunjungi halaman berikut :
+**Docker** tersedia untuk sistem operasi **Linux**, **MacOS** **dan** **Windows 10**. Jika kita menggunakan sistem operasi **Windows 10 Home Edition** kita harus melakukan instalasi **WSL2** (**Windows Integrated Linux Kernel**). Pada **cases** kali ini kita akan melakukan instalasi pada sistem operasi **linux**. Untuk melakukan **installation** silahkan kunjungi halaman berikut :
 
 https://docs.docker.com
 
