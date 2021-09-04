@@ -35,11 +35,38 @@
        - Data Service Pattern
      - Data Scaling Pattern
        - Data Sharding Pattern
-   - Event-driven Architecture Pattern
-   - Stream-processing Pattern
+     - Performance Optimization Patterns
+       - Materialized View Pattern
+       - Data Locality Pattern
+       - Caching Pattern
+       - Static Content Hosting Pattern
+     - Amazon RDS
+     - Amazon DynamoDB
+     - Amazon S3
+     - Redis
+   - Event-driven Architecture Patterns
+     - Event Delivery Pattern
+       - Producer-Consumer Pattern
+       - Publisher-Subscriber Pattern
+       - Fire and Forget Pattern
+       - Store and Forward Pattern
+       - Polling Pattern
+       - Request Callback Pattern
+     - State Management Patterns
+       - Event Sourcing Pattern
+     - Orchestration Patterns
+       - Mediator Pattern
+       - Pipe and Filter Pattern
+       - Priority Queue Pattern
+     - Amazon SQS
+     - Amazon SNS
+     - RabbitMQ
+   - Stream-processing Patterns
      - Apache Spark
      - Amazon Kinesis
-   - API Management Pattern
+   - API Management Patterns
+     - API Gateway Pattern
+     - API Microgateway Pattern
 
 ---
 
