@@ -23,7 +23,23 @@
      - Service Definition Pattern
    - Composition Pattern
    - Data Management Pattern
+     - Data Stores
+       - Relational Database
+       - NoSQL Database
+       - Filesystem Storage
+     - Data Management
+       - Centralized Data Management
+       - Decentralized Data Management
+       - Hybrid Data Management
+     - Data Composition Pattern
+       - Data Service Pattern
+     - Data Scaling Pattern
+       - Data Sharding Pattern
    - Event-driven Architecture Pattern
+   - Stream-processing Pattern
+     - Apache Spark
+     - Amazon Kinesis
+   - API Management Pattern
 
 ---
 
