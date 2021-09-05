@@ -11,7 +11,7 @@
        - Remote Procedure Call Pattern
        - RESTful Services
        - GraphQL
-       - WebSocker
+       - WebSocket
        - gRPC
      - Assynchronous Messaging Patterns
        - Single-receiver Pattern
@@ -21,7 +21,17 @@
        - Kafka
        - NATS
      - Service Definition Pattern
-   - Composition Pattern
+   - Composition Patterns
+     - Connectivity Pattern
+       - Service Connectivity Pattern
+       - Service Abstraction Pattern
+       - Service Registry & Discovery Pattern
+       - Sidecar Pattern
+       - Service Mesh Pattern
+     - Service Composition Pattern
+       - Service Orchestration Pattern
+       - Sertice Choreography Pattern
+       - Saga Pattern
    - Data Management Pattern
      - Data Stores
        - Relational Database
