@@ -7,12 +7,12 @@
 ## Table of Contents
 
 1. Microservices
-   - What is Microservices?
+   - [What is Microservices?](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Microservices.md#what-is-microservices)
    - What is Microservices Applications?
    - What is Monolith Applications?
    - Benefit of Microservices
    - Microservices Tradeoff 
-   - Microservices Development Tools
+   - [Microservices Development Tools](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Microservices.md#microservices-development-tools)
      - Spring Boot & Spring Cloud
 
 
@@ -35,7 +35,7 @@ Aplikasi yang dibangun dengan **microservices** lebih **flexible**, **scalable**
 
 Pada ekosistem **java**, terdapat **development framework** seperti **Spring Boot** yang dapat membantu pengembangan sebuah **microservices** dengan cepat.  **Artifact JAR** yang diproduksi sudah memiliki **embedded web server** untuk mengurangi kompleksitas saat melakukan d**eployment application**.
 
-
+**Spring Cloud** membantu proses **deployment microservices** menjadi lebih sederhana baik itu **private cloud** atau **public cloud**.
 
 ## 
 
