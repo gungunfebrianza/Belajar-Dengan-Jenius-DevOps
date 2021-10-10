@@ -4,6 +4,17 @@
 
 
 
+# Todo AWS
+
+1. [EC2 - Change Security Group](https://appuals.com/move-security-group-aws-ec2/)
+2. [EC2 - Creating Alarm](https://appuals.com/monitor-the-status-of-amazon-ec2-instances/)
+3. [EC2 - Image](https://appuals.com/copy-move-or-share-amazon-ec2-instance-to-another-amazon-account/)
+4. [EC2 - Move Image](https://appuals.com/move-amazon-ec2-instance-to-a-different-availability-zone/)
+5. [EC2 - Move Image 2](https://appuals.com/move-amazon-ec2-instance-to-a-different-aws-region/)
+6. [EC2 - Configure Security Rules](https://appuals.com/configure-security-rules-in-amazon-ec2-instance/)
+7. [EC2 -  Second Network Card](https://appuals.com/add-a-second-network-card-to-amazon-ec2/)
+8. [EC2 - Elastic IP](https://appuals.com/elastic-ip-address-to-amazon-ec2/)
+
 # AWS EC2 (Elastic Cloud Computing)
 
 Fitur **Amazon** **EC2** :

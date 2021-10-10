@@ -44,8 +44,6 @@
    - [Docker Swarm](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#docker-swarm)
    - [Kubernetes](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DevOps/blob/main/Docker.md#kubernetes)
 
-
-
 --------
 
 
@@ -54,14 +52,14 @@
 
 **Docker** adalah sebuah **container engine** 
 
-**Docker** adalah **package manager** yang dapat kita gunakan untuk melakukan **bundling code**, **assets** dan **dependencies** yang kita buat. Sebagai contoh kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan ke tempat sistem penyimpanan data tersentral yang disebut dengan **container registry** agar bisa digunakan oleh **developer** lainnya.  
+**Docker** adalah **package manager** yang dapat kita gunakan untuk melakukan **bundling code**, **assets**, **configuration** dan **dependencies** yang kita buat. Sebagai contoh kita dapat melakukan **packing** aplikasi **node.js**, **golang**, **java** atau **bash script** yang telah kita buat ke dalam sebuah **image** atau **docker image**. Selanjutnya **image** tersebut dapat kita distribusikan ke tempat sistem penyimpanan data tersentral yang disebut dengan **container registry** agar bisa digunakan oleh **developer** lainnya.  
 
 Terdapat dua **Container Registry** :
 
 1. **Public Container Registry**
 2. **Private Container Registry**
 
-sebuah **image** akan menjadi **container** saat digunakan oleh para **developer**. 
+Sebuah **image** akan menjadi **container** saat digunakan oleh para **developer**, docker memberikan karakteristik **portability** pada **image** yang kita buat.
 
 **Docker** adalah sebuah **open source project** yang membantu dunia **software engineering** untuk bisa melakukan standarisasi **environment**. **Docker** memastikan setiap **developer** akan mendapatkan **environment** yang sama dan mengatasi problem klasik **why it's not working on machine**.
 
@@ -352,14 +350,14 @@ var
 
 ### Attach & Detach Mode
 
-Untuk menjalankan sebuah **container** dalam **mode detach** eksekusi perintah di bawah ini :
+Untuk menjalankan sebuah **container** dalam **detach mode ** eksekusi perintah di bawah ini :
 
 ```bash
 $ docker run -d <image>
 73e1e391d1733e655ccb108184608c6116dfd7928a8e7b678a97311580f788f0
 ```
 
-**Container** akan berjalan di dalam **background**, untuk memastikan **container** sudah berjalan di dalam **background** eksekusi perintah **docker ps** :
+Pada perintah di atas terdapat **flag -d** yang digunakan untuk melakukan **detach mode** agar **container** berjalan di belakang layar (**background**).  **Container** akan berjalan di dalam **background**, untuk memastikan **container** sudah berjalan di dalam **background** eksekusi perintah **docker ps** :
 
 | Container ID | Image      | Command       | Created       | Status           | Ports    | Names     |
 | ------------ | ---------- | ------------- | ------------- | ---------------- | -------- | --------- |
@@ -492,7 +490,7 @@ $ docker run -e SOULMATE=Maudy <your-image>
 
 ## Dockerizing
 
-Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. Untuk membuat sebuah **image** kita perlu membuat sebuah **dockerfile** terlebih dahulu. Dockerfile adalah sekumpulan instruksi bagaimana membangun sebuah **image**.
+Tujuan dari pembuatan **image** atau **containerizing** adalah agar lebih mudah untuk melakukan **shipping** dan **deployment**. Untuk membuat sebuah **image** kita perlu membuat sebuah **dockerfile** terlebih dahulu. **Dockerfile** adalah sekumpulan instruksi bagaimana membangun sebuah **image**.
 
 ---
 
@@ -522,7 +520,7 @@ Setelah itu eksekusi perintah di bawah ini :
 $ docker build -t getting-started .
 ```
 
-Perintah di atas akan menghasilkan sebuah **image** dalam mesin komputer kita, jika kita ingin menyimpannya dalam docker hub eksekusi perintah di bawah ini :
+Perintah di atas akan menghasilkan sebuah **image** dalam mesin komputer kita, jika kita ingin menyimpannya dalam **docker hub** eksekusi perintah di bawah ini :
 
 ```bash
 $ docker push masgun/my-app
@@ -602,4 +600,3 @@ Disini terdapat dua **lifecycle** :
 # References
 
 [Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-
